@@ -1,0 +1,6402 @@
+[
+ {
+  "infinitive": "essere",
+  "english": "to be",
+  "auxiliary": "essere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A1",
+  "presente": {
+   "io": "sono",
+   "tu": "sei",
+   "lui": "è",
+   "noi": "siamo",
+   "voi": "siete",
+   "loro": "sono"
+  },
+  "passato_prossimo": {
+   "io": "sono stato",
+   "tu": "sei stato",
+   "lui": "è stato",
+   "noi": "siamo stati",
+   "voi": "siete stati",
+   "loro": "sono stati"
+  },
+  "futuro": {
+   "io": "sarò",
+   "tu": "sarai",
+   "lui": "sarà",
+   "noi": "saremo",
+   "voi": "sarete",
+   "loro": "saranno"
+  }
+ },
+ {
+  "infinitive": "avere",
+  "english": "to have",
+  "auxiliary": "avere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A1",
+  "presente": {
+   "io": "ho",
+   "tu": "hai",
+   "lui": "ha",
+   "noi": "abbiamo",
+   "voi": "avete",
+   "loro": "hanno"
+  },
+  "passato_prossimo": {
+   "io": "ho avuto",
+   "tu": "hai avuto",
+   "lui": "ha avuto",
+   "noi": "abbiamo avuto",
+   "voi": "avete avuto",
+   "loro": "hanno avuto"
+  },
+  "futuro": {
+   "io": "avrò",
+   "tu": "avrai",
+   "lui": "avrà",
+   "noi": "avremo",
+   "voi": "avrete",
+   "loro": "avranno"
+  }
+ },
+ {
+  "infinitive": "fare",
+  "english": "to do / to make",
+  "auxiliary": "avere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A1",
+  "presente": {
+   "io": "faccio",
+   "tu": "fai",
+   "lui": "fa",
+   "noi": "facciamo",
+   "voi": "fate",
+   "loro": "fanno"
+  },
+  "passato_prossimo": {
+   "io": "ho fatto",
+   "tu": "hai fatto",
+   "lui": "ha fatto",
+   "noi": "abbiamo fatto",
+   "voi": "avete fatto",
+   "loro": "hanno fatto"
+  },
+  "futuro": {
+   "io": "farò",
+   "tu": "farai",
+   "lui": "farà",
+   "noi": "faremo",
+   "voi": "farete",
+   "loro": "faranno"
+  }
+ },
+ {
+  "infinitive": "andare",
+  "english": "to go",
+  "auxiliary": "essere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A1",
+  "presente": {
+   "io": "vado",
+   "tu": "vai",
+   "lui": "va",
+   "noi": "andiamo",
+   "voi": "andate",
+   "loro": "vanno"
+  },
+  "passato_prossimo": {
+   "io": "sono andato",
+   "tu": "sei andato",
+   "lui": "è andato",
+   "noi": "siamo andati",
+   "voi": "siete andati",
+   "loro": "sono andati"
+  },
+  "futuro": {
+   "io": "andrò",
+   "tu": "andrai",
+   "lui": "andrà",
+   "noi": "andremo",
+   "voi": "andrete",
+   "loro": "andranno"
+  }
+ },
+ {
+  "infinitive": "venire",
+  "english": "to come",
+  "auxiliary": "essere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A1",
+  "presente": {
+   "io": "vengo",
+   "tu": "vieni",
+   "lui": "viene",
+   "noi": "veniamo",
+   "voi": "venite",
+   "loro": "vengono"
+  },
+  "passato_prossimo": {
+   "io": "sono venuto",
+   "tu": "sei venuto",
+   "lui": "è venuto",
+   "noi": "siamo venuti",
+   "voi": "siete venuti",
+   "loro": "sono venuti"
+  },
+  "futuro": {
+   "io": "verrò",
+   "tu": "verrai",
+   "lui": "verrà",
+   "noi": "verremo",
+   "voi": "verrete",
+   "loro": "verranno"
+  }
+ },
+ {
+  "infinitive": "dire",
+  "english": "to say / to tell",
+  "auxiliary": "avere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A1",
+  "presente": {
+   "io": "dico",
+   "tu": "dici",
+   "lui": "dice",
+   "noi": "diciamo",
+   "voi": "dite",
+   "loro": "dicono"
+  },
+  "passato_prossimo": {
+   "io": "ho detto",
+   "tu": "hai detto",
+   "lui": "ha detto",
+   "noi": "abbiamo detto",
+   "voi": "avete detto",
+   "loro": "hanno detto"
+  },
+  "futuro": {
+   "io": "dirò",
+   "tu": "dirai",
+   "lui": "dirà",
+   "noi": "diremo",
+   "voi": "direte",
+   "loro": "diranno"
+  }
+ },
+ {
+  "infinitive": "potere",
+  "english": "to be able to / can",
+  "auxiliary": "avere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A1",
+  "presente": {
+   "io": "posso",
+   "tu": "puoi",
+   "lui": "può",
+   "noi": "possiamo",
+   "voi": "potete",
+   "loro": "possono"
+  },
+  "passato_prossimo": {
+   "io": "ho potuto",
+   "tu": "hai potuto",
+   "lui": "ha potuto",
+   "noi": "abbiamo potuto",
+   "voi": "avete potuto",
+   "loro": "hanno potuto"
+  },
+  "futuro": {
+   "io": "potrò",
+   "tu": "potrai",
+   "lui": "potrà",
+   "noi": "potremo",
+   "voi": "potrete",
+   "loro": "potranno"
+  }
+ },
+ {
+  "infinitive": "volere",
+  "english": "to want",
+  "auxiliary": "avere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A1",
+  "presente": {
+   "io": "voglio",
+   "tu": "vuoi",
+   "lui": "vuole",
+   "noi": "vogliamo",
+   "voi": "volete",
+   "loro": "vogliono"
+  },
+  "passato_prossimo": {
+   "io": "ho voluto",
+   "tu": "hai voluto",
+   "lui": "ha voluto",
+   "noi": "abbiamo voluto",
+   "voi": "avete voluto",
+   "loro": "hanno voluto"
+  },
+  "futuro": {
+   "io": "vorrò",
+   "tu": "vorrai",
+   "lui": "vorrà",
+   "noi": "vorremo",
+   "voi": "vorrete",
+   "loro": "vorranno"
+  }
+ },
+ {
+  "infinitive": "dovere",
+  "english": "to have to / must",
+  "auxiliary": "avere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A1",
+  "presente": {
+   "io": "devo",
+   "tu": "devi",
+   "lui": "deve",
+   "noi": "dobbiamo",
+   "voi": "dovete",
+   "loro": "devono"
+  },
+  "passato_prossimo": {
+   "io": "ho dovuto",
+   "tu": "hai dovuto",
+   "lui": "ha dovuto",
+   "noi": "abbiamo dovuto",
+   "voi": "avete dovuto",
+   "loro": "hanno dovuto"
+  },
+  "futuro": {
+   "io": "dovrò",
+   "tu": "dovrai",
+   "lui": "dovrà",
+   "noi": "dovremo",
+   "voi": "dovrete",
+   "loro": "dovranno"
+  }
+ },
+ {
+  "infinitive": "sapere",
+  "english": "to know",
+  "auxiliary": "avere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A1",
+  "presente": {
+   "io": "so",
+   "tu": "sai",
+   "lui": "sa",
+   "noi": "sappiamo",
+   "voi": "sapete",
+   "loro": "sanno"
+  },
+  "passato_prossimo": {
+   "io": "ho saputo",
+   "tu": "hai saputo",
+   "lui": "ha saputo",
+   "noi": "abbiamo saputo",
+   "voi": "avete saputo",
+   "loro": "hanno saputo"
+  },
+  "futuro": {
+   "io": "saprò",
+   "tu": "saprai",
+   "lui": "saprà",
+   "noi": "sapremo",
+   "voi": "saprete",
+   "loro": "sapranno"
+  }
+ },
+ {
+  "infinitive": "stare",
+  "english": "to be / to stay",
+  "auxiliary": "essere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A1",
+  "presente": {
+   "io": "sto",
+   "tu": "stai",
+   "lui": "sta",
+   "noi": "stiamo",
+   "voi": "state",
+   "loro": "stanno"
+  },
+  "passato_prossimo": {
+   "io": "sono stato",
+   "tu": "sei stato",
+   "lui": "è stato",
+   "noi": "siamo stati",
+   "voi": "siete stati",
+   "loro": "sono stati"
+  },
+  "futuro": {
+   "io": "starò",
+   "tu": "starai",
+   "lui": "starà",
+   "noi": "staremo",
+   "voi": "starete",
+   "loro": "staranno"
+  }
+ },
+ {
+  "infinitive": "vedere",
+  "english": "to see",
+  "auxiliary": "avere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A1",
+  "presente": {
+   "io": "vedo",
+   "tu": "vedi",
+   "lui": "vede",
+   "noi": "vediamo",
+   "voi": "vedete",
+   "loro": "vedono"
+  },
+  "passato_prossimo": {
+   "io": "ho visto",
+   "tu": "hai visto",
+   "lui": "ha visto",
+   "noi": "abbiamo visto",
+   "voi": "avete visto",
+   "loro": "hanno visto"
+  },
+  "futuro": {
+   "io": "vedrò",
+   "tu": "vedrai",
+   "lui": "vedrà",
+   "noi": "vedremo",
+   "voi": "vedrete",
+   "loro": "vedranno"
+  }
+ },
+ {
+  "infinitive": "bere",
+  "english": "to drink",
+  "auxiliary": "avere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A1",
+  "presente": {
+   "io": "bevo",
+   "tu": "bevi",
+   "lui": "beve",
+   "noi": "beviamo",
+   "voi": "bevete",
+   "loro": "bevono"
+  },
+  "passato_prossimo": {
+   "io": "ho bevuto",
+   "tu": "hai bevuto",
+   "lui": "ha bevuto",
+   "noi": "abbiamo bevuto",
+   "voi": "avete bevuto",
+   "loro": "hanno bevuto"
+  },
+  "futuro": {
+   "io": "berrò",
+   "tu": "berrai",
+   "lui": "berrà",
+   "noi": "berremo",
+   "voi": "berrete",
+   "loro": "berranno"
+  }
+ },
+ {
+  "infinitive": "uscire",
+  "english": "to go out",
+  "auxiliary": "essere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A1",
+  "presente": {
+   "io": "esco",
+   "tu": "esci",
+   "lui": "esce",
+   "noi": "usciamo",
+   "voi": "uscite",
+   "loro": "escono"
+  },
+  "passato_prossimo": {
+   "io": "sono uscito",
+   "tu": "sei uscito",
+   "lui": "è uscito",
+   "noi": "siamo usciti",
+   "voi": "siete usciti",
+   "loro": "sono usciti"
+  },
+  "futuro": {
+   "io": "uscirò",
+   "tu": "uscirai",
+   "lui": "uscirà",
+   "noi": "usciremo",
+   "voi": "uscirete",
+   "loro": "usciranno"
+  }
+ },
+ {
+  "infinitive": "rimanere",
+  "english": "to remain",
+  "auxiliary": "essere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A2",
+  "presente": {
+   "io": "rimango",
+   "tu": "rimani",
+   "lui": "rimane",
+   "noi": "rimaniamo",
+   "voi": "rimanete",
+   "loro": "rimangono"
+  },
+  "passato_prossimo": {
+   "io": "sono rimasto",
+   "tu": "sei rimasto",
+   "lui": "è rimasto",
+   "noi": "siamo rimasti",
+   "voi": "siete rimasti",
+   "loro": "sono rimasti"
+  },
+  "futuro": {
+   "io": "rimarrò",
+   "tu": "rimarrai",
+   "lui": "rimarrà",
+   "noi": "rimarremo",
+   "voi": "rimarrete",
+   "loro": "rimarranno"
+  }
+ },
+ {
+  "infinitive": "tenere",
+  "english": "to hold / to keep",
+  "auxiliary": "avere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A2",
+  "presente": {
+   "io": "tengo",
+   "tu": "tieni",
+   "lui": "tiene",
+   "noi": "teniamo",
+   "voi": "tenete",
+   "loro": "tengono"
+  },
+  "passato_prossimo": {
+   "io": "ho tenuto",
+   "tu": "hai tenuto",
+   "lui": "ha tenuto",
+   "noi": "abbiamo tenuto",
+   "voi": "avete tenuto",
+   "loro": "hanno tenuto"
+  },
+  "futuro": {
+   "io": "terrò",
+   "tu": "terrai",
+   "lui": "terrà",
+   "noi": "terremo",
+   "voi": "terrete",
+   "loro": "terranno"
+  }
+ },
+ {
+  "infinitive": "dare",
+  "english": "to give",
+  "auxiliary": "avere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A1",
+  "presente": {
+   "io": "do",
+   "tu": "dai",
+   "lui": "dà",
+   "noi": "diamo",
+   "voi": "date",
+   "loro": "danno"
+  },
+  "passato_prossimo": {
+   "io": "ho dato",
+   "tu": "hai dato",
+   "lui": "ha dato",
+   "noi": "abbiamo dato",
+   "voi": "avete dato",
+   "loro": "hanno dato"
+  },
+  "futuro": {
+   "io": "darò",
+   "tu": "darai",
+   "lui": "darà",
+   "noi": "daremo",
+   "voi": "darete",
+   "loro": "daranno"
+  }
+ },
+ {
+  "infinitive": "salire",
+  "english": "to go up",
+  "auxiliary": "essere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A2",
+  "presente": {
+   "io": "salgo",
+   "tu": "sali",
+   "lui": "sale",
+   "noi": "saliamo",
+   "voi": "salite",
+   "loro": "salgono"
+  },
+  "passato_prossimo": {
+   "io": "sono salito",
+   "tu": "sei salito",
+   "lui": "è salito",
+   "noi": "siamo saliti",
+   "voi": "siete saliti",
+   "loro": "sono saliti"
+  },
+  "futuro": {
+   "io": "salirò",
+   "tu": "salirai",
+   "lui": "salirà",
+   "noi": "saliremo",
+   "voi": "salirete",
+   "loro": "saliranno"
+  }
+ },
+ {
+  "infinitive": "scegliere",
+  "english": "to choose",
+  "auxiliary": "avere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A2",
+  "presente": {
+   "io": "scelgo",
+   "tu": "scegli",
+   "lui": "sceglie",
+   "noi": "scegliamo",
+   "voi": "scegliete",
+   "loro": "scelgono"
+  },
+  "passato_prossimo": {
+   "io": "ho scelto",
+   "tu": "hai scelto",
+   "lui": "ha scelto",
+   "noi": "abbiamo scelto",
+   "voi": "avete scelto",
+   "loro": "hanno scelto"
+  },
+  "futuro": {
+   "io": "sceglierò",
+   "tu": "sceglierai",
+   "lui": "sceglierà",
+   "noi": "sceglieremo",
+   "voi": "sceglierete",
+   "loro": "sceglieranno"
+  }
+ },
+ {
+  "infinitive": "togliere",
+  "english": "to remove / take off",
+  "auxiliary": "avere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "B1",
+  "presente": {
+   "io": "tolgo",
+   "tu": "togli",
+   "lui": "toglie",
+   "noi": "togliamo",
+   "voi": "togliete",
+   "loro": "tolgono"
+  },
+  "passato_prossimo": {
+   "io": "ho tolto",
+   "tu": "hai tolto",
+   "lui": "ha tolto",
+   "noi": "abbiamo tolto",
+   "voi": "avete tolto",
+   "loro": "hanno tolto"
+  },
+  "futuro": {
+   "io": "toglierò",
+   "tu": "toglierai",
+   "lui": "toglierà",
+   "noi": "toglieremo",
+   "voi": "toglierete",
+   "loro": "toglieranno"
+  }
+ },
+ {
+  "infinitive": "tradurre",
+  "english": "to translate",
+  "auxiliary": "avere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "B1",
+  "presente": {
+   "io": "traduco",
+   "tu": "traduci",
+   "lui": "traduce",
+   "noi": "traduciamo",
+   "voi": "traducete",
+   "loro": "traducono"
+  },
+  "passato_prossimo": {
+   "io": "ho tradotto",
+   "tu": "hai tradotto",
+   "lui": "ha tradotto",
+   "noi": "abbiamo tradotto",
+   "voi": "avete tradotto",
+   "loro": "hanno tradotto"
+  },
+  "futuro": {
+   "io": "tradurrò",
+   "tu": "tradurrai",
+   "lui": "tradurrà",
+   "noi": "tradurremo",
+   "voi": "tradurrete",
+   "loro": "tradurranno"
+  }
+ },
+ {
+  "infinitive": "produrre",
+  "english": "to produce",
+  "auxiliary": "avere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "B1",
+  "presente": {
+   "io": "produco",
+   "tu": "produci",
+   "lui": "produce",
+   "noi": "produciamo",
+   "voi": "producete",
+   "loro": "producono"
+  },
+  "passato_prossimo": {
+   "io": "ho prodotto",
+   "tu": "hai prodotto",
+   "lui": "ha prodotto",
+   "noi": "abbiamo prodotto",
+   "voi": "avete prodotto",
+   "loro": "hanno prodotto"
+  },
+  "futuro": {
+   "io": "produrrò",
+   "tu": "produrrai",
+   "lui": "produrrà",
+   "noi": "produrremo",
+   "voi": "produrrete",
+   "loro": "produrranno"
+  }
+ },
+ {
+  "infinitive": "morire",
+  "english": "to die",
+  "auxiliary": "essere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "B1",
+  "presente": {
+   "io": "muoio",
+   "tu": "muori",
+   "lui": "muore",
+   "noi": "moriamo",
+   "voi": "morite",
+   "loro": "muoiono"
+  },
+  "passato_prossimo": {
+   "io": "sono morto",
+   "tu": "sei morto",
+   "lui": "è morto",
+   "noi": "siamo morti",
+   "voi": "siete morti",
+   "loro": "sono morti"
+  },
+  "futuro": {
+   "io": "morirò",
+   "tu": "morirai",
+   "lui": "morirà",
+   "noi": "moriremo",
+   "voi": "morirete",
+   "loro": "moriranno"
+  }
+ },
+ {
+  "infinitive": "nascere",
+  "english": "to be born",
+  "auxiliary": "essere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A2",
+  "presente": {
+   "io": "nasco",
+   "tu": "nasci",
+   "lui": "nasce",
+   "noi": "nasciamo",
+   "voi": "nascete",
+   "loro": "nascono"
+  },
+  "passato_prossimo": {
+   "io": "sono nato",
+   "tu": "sei nato",
+   "lui": "è nato",
+   "noi": "siamo nati",
+   "voi": "siete nati",
+   "loro": "sono nati"
+  },
+  "futuro": {
+   "io": "nascerò",
+   "tu": "nascerai",
+   "lui": "nascerà",
+   "noi": "nasceremo",
+   "voi": "nascerete",
+   "loro": "nasceranno"
+  }
+ },
+ {
+  "infinitive": "vivere",
+  "english": "to live",
+  "auxiliary": "avere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A1",
+  "presente": {
+   "io": "vivo",
+   "tu": "vivi",
+   "lui": "vive",
+   "noi": "viviamo",
+   "voi": "vivete",
+   "loro": "vivono"
+  },
+  "passato_prossimo": {
+   "io": "ho vissuto",
+   "tu": "hai vissuto",
+   "lui": "ha vissuto",
+   "noi": "abbiamo vissuto",
+   "voi": "avete vissuto",
+   "loro": "hanno vissuto"
+  },
+  "futuro": {
+   "io": "vivrò",
+   "tu": "vivrai",
+   "lui": "vivrà",
+   "noi": "vivremo",
+   "voi": "vivrete",
+   "loro": "vivranno"
+  }
+ },
+ {
+  "infinitive": "leggere",
+  "english": "to read",
+  "auxiliary": "avere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A1",
+  "presente": {
+   "io": "leggo",
+   "tu": "leggi",
+   "lui": "legge",
+   "noi": "leggiamo",
+   "voi": "leggete",
+   "loro": "leggono"
+  },
+  "passato_prossimo": {
+   "io": "ho letto",
+   "tu": "hai letto",
+   "lui": "ha letto",
+   "noi": "abbiamo letto",
+   "voi": "avete letto",
+   "loro": "hanno letto"
+  },
+  "futuro": {
+   "io": "leggerò",
+   "tu": "leggerai",
+   "lui": "leggerà",
+   "noi": "leggeremo",
+   "voi": "leggerete",
+   "loro": "leggeranno"
+  }
+ },
+ {
+  "infinitive": "scrivere",
+  "english": "to write",
+  "auxiliary": "avere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A1",
+  "presente": {
+   "io": "scrivo",
+   "tu": "scrivi",
+   "lui": "scrive",
+   "noi": "scriviamo",
+   "voi": "scrivete",
+   "loro": "scrivono"
+  },
+  "passato_prossimo": {
+   "io": "ho scritto",
+   "tu": "hai scritto",
+   "lui": "ha scritto",
+   "noi": "abbiamo scritto",
+   "voi": "avete scritto",
+   "loro": "hanno scritto"
+  },
+  "futuro": {
+   "io": "scriverò",
+   "tu": "scriverai",
+   "lui": "scriverà",
+   "noi": "scriveremo",
+   "voi": "scriverete",
+   "loro": "scriveranno"
+  }
+ },
+ {
+  "infinitive": "prendere",
+  "english": "to take",
+  "auxiliary": "avere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A1",
+  "presente": {
+   "io": "prendo",
+   "tu": "prendi",
+   "lui": "prende",
+   "noi": "prendiamo",
+   "voi": "prendete",
+   "loro": "prendono"
+  },
+  "passato_prossimo": {
+   "io": "ho preso",
+   "tu": "hai preso",
+   "lui": "ha preso",
+   "noi": "abbiamo preso",
+   "voi": "avete preso",
+   "loro": "hanno preso"
+  },
+  "futuro": {
+   "io": "prenderò",
+   "tu": "prenderai",
+   "lui": "prenderà",
+   "noi": "prenderemo",
+   "voi": "prenderete",
+   "loro": "prenderanno"
+  }
+ },
+ {
+  "infinitive": "mettere",
+  "english": "to put",
+  "auxiliary": "avere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A1",
+  "presente": {
+   "io": "metto",
+   "tu": "metti",
+   "lui": "mette",
+   "noi": "mettiamo",
+   "voi": "mettete",
+   "loro": "mettono"
+  },
+  "passato_prossimo": {
+   "io": "ho messo",
+   "tu": "hai messo",
+   "lui": "ha messo",
+   "noi": "abbiamo messo",
+   "voi": "avete messo",
+   "loro": "hanno messo"
+  },
+  "futuro": {
+   "io": "metterò",
+   "tu": "metterai",
+   "lui": "metterà",
+   "noi": "metteremo",
+   "voi": "metterete",
+   "loro": "metteranno"
+  }
+ },
+ {
+  "infinitive": "chiudere",
+  "english": "to close",
+  "auxiliary": "avere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A1",
+  "presente": {
+   "io": "chiudo",
+   "tu": "chiudi",
+   "lui": "chiude",
+   "noi": "chiudiamo",
+   "voi": "chiudete",
+   "loro": "chiudono"
+  },
+  "passato_prossimo": {
+   "io": "ho chiuso",
+   "tu": "hai chiuso",
+   "lui": "ha chiuso",
+   "noi": "abbiamo chiuso",
+   "voi": "avete chiuso",
+   "loro": "hanno chiuso"
+  },
+  "futuro": {
+   "io": "chiuderò",
+   "tu": "chiuderai",
+   "lui": "chiuderà",
+   "noi": "chiuderemo",
+   "voi": "chiuderete",
+   "loro": "chiuderanno"
+  }
+ },
+ {
+  "infinitive": "aprire",
+  "english": "to open",
+  "auxiliary": "avere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A1",
+  "presente": {
+   "io": "apro",
+   "tu": "apri",
+   "lui": "apre",
+   "noi": "apriamo",
+   "voi": "aprite",
+   "loro": "aprono"
+  },
+  "passato_prossimo": {
+   "io": "ho aperto",
+   "tu": "hai aperto",
+   "lui": "ha aperto",
+   "noi": "abbiamo aperto",
+   "voi": "avete aperto",
+   "loro": "hanno aperto"
+  },
+  "futuro": {
+   "io": "aprirò",
+   "tu": "aprirai",
+   "lui": "aprirà",
+   "noi": "apriremo",
+   "voi": "aprirete",
+   "loro": "apriranno"
+  }
+ },
+ {
+  "infinitive": "rispondere",
+  "english": "to answer",
+  "auxiliary": "avere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A1",
+  "presente": {
+   "io": "rispondo",
+   "tu": "rispondi",
+   "lui": "risponde",
+   "noi": "rispondiamo",
+   "voi": "rispondete",
+   "loro": "rispondono"
+  },
+  "passato_prossimo": {
+   "io": "ho risposto",
+   "tu": "hai risposto",
+   "lui": "ha risposto",
+   "noi": "abbiamo risposto",
+   "voi": "avete risposto",
+   "loro": "hanno risposto"
+  },
+  "futuro": {
+   "io": "risponderò",
+   "tu": "risponderai",
+   "lui": "risponderà",
+   "noi": "risponderemo",
+   "voi": "risponderete",
+   "loro": "risponderanno"
+  }
+ },
+ {
+  "infinitive": "chiedere",
+  "english": "to ask",
+  "auxiliary": "avere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A1",
+  "presente": {
+   "io": "chiedo",
+   "tu": "chiedi",
+   "lui": "chiede",
+   "noi": "chiediamo",
+   "voi": "chiedete",
+   "loro": "chiedono"
+  },
+  "passato_prossimo": {
+   "io": "ho chiesto",
+   "tu": "hai chiesto",
+   "lui": "ha chiesto",
+   "noi": "abbiamo chiesto",
+   "voi": "avete chiesto",
+   "loro": "hanno chiesto"
+  },
+  "futuro": {
+   "io": "chiederò",
+   "tu": "chiederai",
+   "lui": "chiederà",
+   "noi": "chiederemo",
+   "voi": "chiederete",
+   "loro": "chiederanno"
+  }
+ },
+ {
+  "infinitive": "perdere",
+  "english": "to lose",
+  "auxiliary": "avere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A1",
+  "presente": {
+   "io": "perdo",
+   "tu": "perdi",
+   "lui": "perde",
+   "noi": "perdiamo",
+   "voi": "perdete",
+   "loro": "perdono"
+  },
+  "passato_prossimo": {
+   "io": "ho perso",
+   "tu": "hai perso",
+   "lui": "ha perso",
+   "noi": "abbiamo perso",
+   "voi": "avete perso",
+   "loro": "hanno perso"
+  },
+  "futuro": {
+   "io": "perderò",
+   "tu": "perderai",
+   "lui": "perderà",
+   "noi": "perderemo",
+   "voi": "perderete",
+   "loro": "perderanno"
+  }
+ },
+ {
+  "infinitive": "vincere",
+  "english": "to win",
+  "auxiliary": "avere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A2",
+  "presente": {
+   "io": "vinco",
+   "tu": "vinci",
+   "lui": "vince",
+   "noi": "vinciamo",
+   "voi": "vincete",
+   "loro": "vincono"
+  },
+  "passato_prossimo": {
+   "io": "ho vinto",
+   "tu": "hai vinto",
+   "lui": "ha vinto",
+   "noi": "abbiamo vinto",
+   "voi": "avete vinto",
+   "loro": "hanno vinto"
+  },
+  "futuro": {
+   "io": "vincerò",
+   "tu": "vincerai",
+   "lui": "vincerà",
+   "noi": "vinceremo",
+   "voi": "vincerete",
+   "loro": "vinceranno"
+  }
+ },
+ {
+  "infinitive": "rompere",
+  "english": "to break",
+  "auxiliary": "avere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A2",
+  "presente": {
+   "io": "rompo",
+   "tu": "rompi",
+   "lui": "rompe",
+   "noi": "rompiamo",
+   "voi": "rompete",
+   "loro": "rompono"
+  },
+  "passato_prossimo": {
+   "io": "ho rotto",
+   "tu": "hai rotto",
+   "lui": "ha rotto",
+   "noi": "abbiamo rotto",
+   "voi": "avete rotto",
+   "loro": "hanno rotto"
+  },
+  "futuro": {
+   "io": "romperò",
+   "tu": "romperai",
+   "lui": "romperà",
+   "noi": "romperemo",
+   "voi": "romperete",
+   "loro": "romperanno"
+  }
+ },
+ {
+  "infinitive": "correre",
+  "english": "to run",
+  "auxiliary": "avere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A1",
+  "presente": {
+   "io": "corro",
+   "tu": "corri",
+   "lui": "corre",
+   "noi": "corriamo",
+   "voi": "correte",
+   "loro": "corrono"
+  },
+  "passato_prossimo": {
+   "io": "ho corso",
+   "tu": "hai corso",
+   "lui": "ha corso",
+   "noi": "abbiamo corso",
+   "voi": "avete corso",
+   "loro": "hanno corso"
+  },
+  "futuro": {
+   "io": "correrò",
+   "tu": "correrai",
+   "lui": "correrà",
+   "noi": "correremo",
+   "voi": "correrete",
+   "loro": "correranno"
+  }
+ },
+ {
+  "infinitive": "scendere",
+  "english": "to go down",
+  "auxiliary": "essere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A2",
+  "presente": {
+   "io": "scendo",
+   "tu": "scendi",
+   "lui": "scende",
+   "noi": "scendiamo",
+   "voi": "scendete",
+   "loro": "scendono"
+  },
+  "passato_prossimo": {
+   "io": "sono sceso",
+   "tu": "sei sceso",
+   "lui": "è sceso",
+   "noi": "siamo scesi",
+   "voi": "siete scesi",
+   "loro": "sono scesi"
+  },
+  "futuro": {
+   "io": "scenderò",
+   "tu": "scenderai",
+   "lui": "scenderà",
+   "noi": "scenderemo",
+   "voi": "scenderete",
+   "loro": "scenderanno"
+  }
+ },
+ {
+  "infinitive": "spegnere",
+  "english": "to turn off",
+  "auxiliary": "avere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A2",
+  "presente": {
+   "io": "spengo",
+   "tu": "spegni",
+   "lui": "spegne",
+   "noi": "spegniamo",
+   "voi": "spegnete",
+   "loro": "spengono"
+  },
+  "passato_prossimo": {
+   "io": "ho spento",
+   "tu": "hai spento",
+   "lui": "ha spento",
+   "noi": "abbiamo spento",
+   "voi": "avete spento",
+   "loro": "hanno spento"
+  },
+  "futuro": {
+   "io": "spegnerò",
+   "tu": "spegnerai",
+   "lui": "spegnerà",
+   "noi": "spegneremo",
+   "voi": "spegnerete",
+   "loro": "spegneranno"
+  }
+ },
+ {
+  "infinitive": "accendere",
+  "english": "to turn on",
+  "auxiliary": "avere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A2",
+  "presente": {
+   "io": "accendo",
+   "tu": "accendi",
+   "lui": "accende",
+   "noi": "accendiamo",
+   "voi": "accendete",
+   "loro": "accendono"
+  },
+  "passato_prossimo": {
+   "io": "ho acceso",
+   "tu": "hai acceso",
+   "lui": "ha acceso",
+   "noi": "abbiamo acceso",
+   "voi": "avete acceso",
+   "loro": "hanno acceso"
+  },
+  "futuro": {
+   "io": "accenderò",
+   "tu": "accenderai",
+   "lui": "accenderà",
+   "noi": "accenderemo",
+   "voi": "accenderete",
+   "loro": "accenderanno"
+  }
+ },
+ {
+  "infinitive": "ridere",
+  "english": "to laugh",
+  "auxiliary": "avere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A2",
+  "presente": {
+   "io": "rido",
+   "tu": "ridi",
+   "lui": "ride",
+   "noi": "ridiamo",
+   "voi": "ridete",
+   "loro": "ridono"
+  },
+  "passato_prossimo": {
+   "io": "ho riso",
+   "tu": "hai riso",
+   "lui": "ha riso",
+   "noi": "abbiamo riso",
+   "voi": "avete riso",
+   "loro": "hanno riso"
+  },
+  "futuro": {
+   "io": "riderò",
+   "tu": "riderai",
+   "lui": "riderà",
+   "noi": "rideremo",
+   "voi": "riderete",
+   "loro": "rideranno"
+  }
+ },
+ {
+  "infinitive": "piangere",
+  "english": "to cry",
+  "auxiliary": "avere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A2",
+  "presente": {
+   "io": "piango",
+   "tu": "piangi",
+   "lui": "piange",
+   "noi": "piangiamo",
+   "voi": "piangete",
+   "loro": "piangono"
+  },
+  "passato_prossimo": {
+   "io": "ho pianto",
+   "tu": "hai pianto",
+   "lui": "ha pianto",
+   "noi": "abbiamo pianto",
+   "voi": "avete pianto",
+   "loro": "hanno pianto"
+  },
+  "futuro": {
+   "io": "piangerò",
+   "tu": "piangerai",
+   "lui": "piangerà",
+   "noi": "piangeremo",
+   "voi": "piangerete",
+   "loro": "piangeranno"
+  }
+ },
+ {
+  "infinitive": "muovere",
+  "english": "to move",
+  "auxiliary": "avere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A2",
+  "presente": {
+   "io": "muovo",
+   "tu": "muovi",
+   "lui": "muove",
+   "noi": "muoviamo",
+   "voi": "muovete",
+   "loro": "muovono"
+  },
+  "passato_prossimo": {
+   "io": "ho mosso",
+   "tu": "hai mosso",
+   "lui": "ha mosso",
+   "noi": "abbiamo mosso",
+   "voi": "avete mosso",
+   "loro": "hanno mosso"
+  },
+  "futuro": {
+   "io": "muoverò",
+   "tu": "muoverai",
+   "lui": "muoverà",
+   "noi": "muoveremo",
+   "voi": "muoverete",
+   "loro": "muoveranno"
+  }
+ },
+ {
+  "infinitive": "conoscere",
+  "english": "to know (people)",
+  "auxiliary": "avere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A1",
+  "presente": {
+   "io": "conosco",
+   "tu": "conosci",
+   "lui": "conosce",
+   "noi": "conosciamo",
+   "voi": "conoscete",
+   "loro": "conoscono"
+  },
+  "passato_prossimo": {
+   "io": "ho conosciuto",
+   "tu": "hai conosciuto",
+   "lui": "ha conosciuto",
+   "noi": "abbiamo conosciuto",
+   "voi": "avete conosciuto",
+   "loro": "hanno conosciuto"
+  },
+  "futuro": {
+   "io": "conoscerò",
+   "tu": "conoscerai",
+   "lui": "conoscerà",
+   "noi": "conosceremo",
+   "voi": "conoscerete",
+   "loro": "conosceranno"
+  }
+ },
+ {
+  "infinitive": "piacere",
+  "english": "to please / to like",
+  "auxiliary": "essere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A1",
+  "presente": {
+   "io": "piaccio",
+   "tu": "piaci",
+   "lui": "piace",
+   "noi": "piacciamo",
+   "voi": "piacete",
+   "loro": "piacciono"
+  },
+  "passato_prossimo": {
+   "io": "sono piaciuto",
+   "tu": "sei piaciuto",
+   "lui": "è piaciuto",
+   "noi": "siamo piaciuti",
+   "voi": "siete piaciuti",
+   "loro": "sono piaciuti"
+  },
+  "futuro": {
+   "io": "piacerò",
+   "tu": "piacerai",
+   "lui": "piacerà",
+   "noi": "piaceremo",
+   "voi": "piacerete",
+   "loro": "piaceranno"
+  }
+ },
+ {
+  "infinitive": "parlare",
+  "english": "to speak",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "parlo",
+   "tu": "parli",
+   "lui": "parla",
+   "noi": "parliamo",
+   "voi": "parlate",
+   "loro": "parlano"
+  },
+  "passato_prossimo": {
+   "io": "ho parlato",
+   "tu": "hai parlato",
+   "lui": "ha parlato",
+   "noi": "abbiamo parlato",
+   "voi": "avete parlato",
+   "loro": "hanno parlato"
+  },
+  "futuro": {
+   "io": "parlerò",
+   "tu": "parlerai",
+   "lui": "parlerà",
+   "noi": "parleremo",
+   "voi": "parlerete",
+   "loro": "parleranno"
+  }
+ },
+ {
+  "infinitive": "mangiare",
+  "english": "to eat",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "mangio",
+   "tu": "mangii",
+   "lui": "mangia",
+   "noi": "mangiiamo",
+   "voi": "mangiate",
+   "loro": "mangiano"
+  },
+  "passato_prossimo": {
+   "io": "ho mangiato",
+   "tu": "hai mangiato",
+   "lui": "ha mangiato",
+   "noi": "abbiamo mangiato",
+   "voi": "avete mangiato",
+   "loro": "hanno mangiato"
+  },
+  "futuro": {
+   "io": "mangierò",
+   "tu": "mangierai",
+   "lui": "mangierà",
+   "noi": "mangieremo",
+   "voi": "mangierete",
+   "loro": "mangieranno"
+  }
+ },
+ {
+  "infinitive": "studiare",
+  "english": "to study",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "studio",
+   "tu": "studii",
+   "lui": "studia",
+   "noi": "studiiamo",
+   "voi": "studiate",
+   "loro": "studiano"
+  },
+  "passato_prossimo": {
+   "io": "ho studiato",
+   "tu": "hai studiato",
+   "lui": "ha studiato",
+   "noi": "abbiamo studiato",
+   "voi": "avete studiato",
+   "loro": "hanno studiato"
+  },
+  "futuro": {
+   "io": "studierò",
+   "tu": "studierai",
+   "lui": "studierà",
+   "noi": "studieremo",
+   "voi": "studierete",
+   "loro": "studieranno"
+  }
+ },
+ {
+  "infinitive": "lavorare",
+  "english": "to work",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "lavoro",
+   "tu": "lavori",
+   "lui": "lavora",
+   "noi": "lavoriamo",
+   "voi": "lavorate",
+   "loro": "lavorano"
+  },
+  "passato_prossimo": {
+   "io": "ho lavorato",
+   "tu": "hai lavorato",
+   "lui": "ha lavorato",
+   "noi": "abbiamo lavorato",
+   "voi": "avete lavorato",
+   "loro": "hanno lavorato"
+  },
+  "futuro": {
+   "io": "lavorerò",
+   "tu": "lavorerai",
+   "lui": "lavorerà",
+   "noi": "lavoreremo",
+   "voi": "lavorerete",
+   "loro": "lavoreranno"
+  }
+ },
+ {
+  "infinitive": "comprare",
+  "english": "to buy",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "compro",
+   "tu": "compri",
+   "lui": "compra",
+   "noi": "compriamo",
+   "voi": "comprate",
+   "loro": "comprano"
+  },
+  "passato_prossimo": {
+   "io": "ho comprato",
+   "tu": "hai comprato",
+   "lui": "ha comprato",
+   "noi": "abbiamo comprato",
+   "voi": "avete comprato",
+   "loro": "hanno comprato"
+  },
+  "futuro": {
+   "io": "comprerò",
+   "tu": "comprerai",
+   "lui": "comprerà",
+   "noi": "compreremo",
+   "voi": "comprerete",
+   "loro": "compreranno"
+  }
+ },
+ {
+  "infinitive": "abitare",
+  "english": "to live (reside)",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "abito",
+   "tu": "abiti",
+   "lui": "abita",
+   "noi": "abitiamo",
+   "voi": "abitate",
+   "loro": "abitano"
+  },
+  "passato_prossimo": {
+   "io": "ho abitato",
+   "tu": "hai abitato",
+   "lui": "ha abitato",
+   "noi": "abbiamo abitato",
+   "voi": "avete abitato",
+   "loro": "hanno abitato"
+  },
+  "futuro": {
+   "io": "abiterò",
+   "tu": "abiterai",
+   "lui": "abiterà",
+   "noi": "abiteremo",
+   "voi": "abiterete",
+   "loro": "abiteranno"
+  }
+ },
+ {
+  "infinitive": "amare",
+  "english": "to love",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "amo",
+   "tu": "ami",
+   "lui": "ama",
+   "noi": "amiamo",
+   "voi": "amate",
+   "loro": "amano"
+  },
+  "passato_prossimo": {
+   "io": "ho amato",
+   "tu": "hai amato",
+   "lui": "ha amato",
+   "noi": "abbiamo amato",
+   "voi": "avete amato",
+   "loro": "hanno amato"
+  },
+  "futuro": {
+   "io": "amerò",
+   "tu": "amerai",
+   "lui": "amerà",
+   "noi": "ameremo",
+   "voi": "amerete",
+   "loro": "ameranno"
+  }
+ },
+ {
+  "infinitive": "chiamare",
+  "english": "to call",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "chiamo",
+   "tu": "chiami",
+   "lui": "chiama",
+   "noi": "chiamiamo",
+   "voi": "chiamate",
+   "loro": "chiamano"
+  },
+  "passato_prossimo": {
+   "io": "ho chiamato",
+   "tu": "hai chiamato",
+   "lui": "ha chiamato",
+   "noi": "abbiamo chiamato",
+   "voi": "avete chiamato",
+   "loro": "hanno chiamato"
+  },
+  "futuro": {
+   "io": "chiamerò",
+   "tu": "chiamerai",
+   "lui": "chiamerà",
+   "noi": "chiameremo",
+   "voi": "chiamerete",
+   "loro": "chiameranno"
+  }
+ },
+ {
+  "infinitive": "pensare",
+  "english": "to think",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "penso",
+   "tu": "pensi",
+   "lui": "pensa",
+   "noi": "pensiamo",
+   "voi": "pensate",
+   "loro": "pensano"
+  },
+  "passato_prossimo": {
+   "io": "ho pensato",
+   "tu": "hai pensato",
+   "lui": "ha pensato",
+   "noi": "abbiamo pensato",
+   "voi": "avete pensato",
+   "loro": "hanno pensato"
+  },
+  "futuro": {
+   "io": "penserò",
+   "tu": "penserai",
+   "lui": "penserà",
+   "noi": "penseremo",
+   "voi": "penserete",
+   "loro": "penseranno"
+  }
+ },
+ {
+  "infinitive": "guardare",
+  "english": "to watch / look",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "guardo",
+   "tu": "guardi",
+   "lui": "guarda",
+   "noi": "guardiamo",
+   "voi": "guardate",
+   "loro": "guardano"
+  },
+  "passato_prossimo": {
+   "io": "ho guardato",
+   "tu": "hai guardato",
+   "lui": "ha guardato",
+   "noi": "abbiamo guardato",
+   "voi": "avete guardato",
+   "loro": "hanno guardato"
+  },
+  "futuro": {
+   "io": "guarderò",
+   "tu": "guarderai",
+   "lui": "guarderà",
+   "noi": "guarderemo",
+   "voi": "guarderete",
+   "loro": "guarderanno"
+  }
+ },
+ {
+  "infinitive": "ascoltare",
+  "english": "to listen",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "ascolto",
+   "tu": "ascolti",
+   "lui": "ascolta",
+   "noi": "ascoltiamo",
+   "voi": "ascoltate",
+   "loro": "ascoltano"
+  },
+  "passato_prossimo": {
+   "io": "ho ascoltato",
+   "tu": "hai ascoltato",
+   "lui": "ha ascoltato",
+   "noi": "abbiamo ascoltato",
+   "voi": "avete ascoltato",
+   "loro": "hanno ascoltato"
+  },
+  "futuro": {
+   "io": "ascolterò",
+   "tu": "ascolterai",
+   "lui": "ascolterà",
+   "noi": "ascolteremo",
+   "voi": "ascolterete",
+   "loro": "ascolteranno"
+  }
+ },
+ {
+  "infinitive": "aspettare",
+  "english": "to wait",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "aspetto",
+   "tu": "aspetti",
+   "lui": "aspetta",
+   "noi": "aspettiamo",
+   "voi": "aspettate",
+   "loro": "aspettano"
+  },
+  "passato_prossimo": {
+   "io": "ho aspettato",
+   "tu": "hai aspettato",
+   "lui": "ha aspettato",
+   "noi": "abbiamo aspettato",
+   "voi": "avete aspettato",
+   "loro": "hanno aspettato"
+  },
+  "futuro": {
+   "io": "aspetterò",
+   "tu": "aspetterai",
+   "lui": "aspetterà",
+   "noi": "aspetteremo",
+   "voi": "aspetterete",
+   "loro": "aspetteranno"
+  }
+ },
+ {
+  "infinitive": "incontrare",
+  "english": "to meet",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "incontro",
+   "tu": "incontri",
+   "lui": "incontra",
+   "noi": "incontriamo",
+   "voi": "incontrate",
+   "loro": "incontrano"
+  },
+  "passato_prossimo": {
+   "io": "ho incontrato",
+   "tu": "hai incontrato",
+   "lui": "ha incontrato",
+   "noi": "abbiamo incontrato",
+   "voi": "avete incontrato",
+   "loro": "hanno incontrato"
+  },
+  "futuro": {
+   "io": "incontrerò",
+   "tu": "incontrerai",
+   "lui": "incontrerà",
+   "noi": "incontreremo",
+   "voi": "incontrerete",
+   "loro": "incontreranno"
+  }
+ },
+ {
+  "infinitive": "trovare",
+  "english": "to find",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "trovo",
+   "tu": "trovi",
+   "lui": "trova",
+   "noi": "troviamo",
+   "voi": "trovate",
+   "loro": "trovano"
+  },
+  "passato_prossimo": {
+   "io": "ho trovato",
+   "tu": "hai trovato",
+   "lui": "ha trovato",
+   "noi": "abbiamo trovato",
+   "voi": "avete trovato",
+   "loro": "hanno trovato"
+  },
+  "futuro": {
+   "io": "troverò",
+   "tu": "troverai",
+   "lui": "troverà",
+   "noi": "troveremo",
+   "voi": "troverete",
+   "loro": "troveranno"
+  }
+ },
+ {
+  "infinitive": "cercare",
+  "english": "to search",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "cerco",
+   "tu": "cerci",
+   "lui": "cerca",
+   "noi": "cerciamo",
+   "voi": "cercate",
+   "loro": "cercano"
+  },
+  "passato_prossimo": {
+   "io": "ho cercato",
+   "tu": "hai cercato",
+   "lui": "ha cercato",
+   "noi": "abbiamo cercato",
+   "voi": "avete cercato",
+   "loro": "hanno cercato"
+  },
+  "futuro": {
+   "io": "cercerò",
+   "tu": "cercerai",
+   "lui": "cercerà",
+   "noi": "cerceremo",
+   "voi": "cercerete",
+   "loro": "cerceranno"
+  }
+ },
+ {
+  "infinitive": "portare",
+  "english": "to bring / carry",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "porto",
+   "tu": "porti",
+   "lui": "porta",
+   "noi": "portiamo",
+   "voi": "portate",
+   "loro": "portano"
+  },
+  "passato_prossimo": {
+   "io": "ho portato",
+   "tu": "hai portato",
+   "lui": "ha portato",
+   "noi": "abbiamo portato",
+   "voi": "avete portato",
+   "loro": "hanno portato"
+  },
+  "futuro": {
+   "io": "porterò",
+   "tu": "porterai",
+   "lui": "porterà",
+   "noi": "porteremo",
+   "voi": "porterete",
+   "loro": "porteranno"
+  }
+ },
+ {
+  "infinitive": "imparare",
+  "english": "to learn",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "imparo",
+   "tu": "impari",
+   "lui": "impara",
+   "noi": "impariamo",
+   "voi": "imparate",
+   "loro": "imparano"
+  },
+  "passato_prossimo": {
+   "io": "ho imparato",
+   "tu": "hai imparato",
+   "lui": "ha imparato",
+   "noi": "abbiamo imparato",
+   "voi": "avete imparato",
+   "loro": "hanno imparato"
+  },
+  "futuro": {
+   "io": "imparerò",
+   "tu": "imparerai",
+   "lui": "imparerà",
+   "noi": "impareremo",
+   "voi": "imparerete",
+   "loro": "impareranno"
+  }
+ },
+ {
+  "infinitive": "insegnare",
+  "english": "to teach",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A2",
+  "presente": {
+   "io": "insegno",
+   "tu": "insegni",
+   "lui": "insegna",
+   "noi": "insegniamo",
+   "voi": "insegnate",
+   "loro": "insegnano"
+  },
+  "passato_prossimo": {
+   "io": "ho insegnato",
+   "tu": "hai insegnato",
+   "lui": "ha insegnato",
+   "noi": "abbiamo insegnato",
+   "voi": "avete insegnato",
+   "loro": "hanno insegnato"
+  },
+  "futuro": {
+   "io": "insegnerò",
+   "tu": "insegnerai",
+   "lui": "insegnerà",
+   "noi": "insegneremo",
+   "voi": "insegnerete",
+   "loro": "insegneranno"
+  }
+ },
+ {
+  "infinitive": "iniziare",
+  "english": "to start",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "inizio",
+   "tu": "inizii",
+   "lui": "inizia",
+   "noi": "iniziiamo",
+   "voi": "iniziate",
+   "loro": "iniziano"
+  },
+  "passato_prossimo": {
+   "io": "ho iniziato",
+   "tu": "hai iniziato",
+   "lui": "ha iniziato",
+   "noi": "abbiamo iniziato",
+   "voi": "avete iniziato",
+   "loro": "hanno iniziato"
+  },
+  "futuro": {
+   "io": "inizierò",
+   "tu": "inizierai",
+   "lui": "inizierà",
+   "noi": "inizieremo",
+   "voi": "inizierete",
+   "loro": "inizieranno"
+  }
+ },
+ {
+  "infinitive": "cominciare",
+  "english": "to begin",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "comincio",
+   "tu": "comincii",
+   "lui": "comincia",
+   "noi": "cominciiamo",
+   "voi": "cominciate",
+   "loro": "cominciano"
+  },
+  "passato_prossimo": {
+   "io": "ho cominciato",
+   "tu": "hai cominciato",
+   "lui": "ha cominciato",
+   "noi": "abbiamo cominciato",
+   "voi": "avete cominciato",
+   "loro": "hanno cominciato"
+  },
+  "futuro": {
+   "io": "comincierò",
+   "tu": "comincierai",
+   "lui": "comincierà",
+   "noi": "comincieremo",
+   "voi": "comincierete",
+   "loro": "comincieranno"
+  }
+ },
+ {
+  "infinitive": "provare",
+  "english": "to try",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "provo",
+   "tu": "provi",
+   "lui": "prova",
+   "noi": "proviamo",
+   "voi": "provate",
+   "loro": "provano"
+  },
+  "passato_prossimo": {
+   "io": "ho provato",
+   "tu": "hai provato",
+   "lui": "ha provato",
+   "noi": "abbiamo provato",
+   "voi": "avete provato",
+   "loro": "hanno provato"
+  },
+  "futuro": {
+   "io": "proverò",
+   "tu": "proverai",
+   "lui": "proverà",
+   "noi": "proveremo",
+   "voi": "proverete",
+   "loro": "proveranno"
+  }
+ },
+ {
+  "infinitive": "cantare",
+  "english": "to sing",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "canto",
+   "tu": "canti",
+   "lui": "canta",
+   "noi": "cantiamo",
+   "voi": "cantate",
+   "loro": "cantano"
+  },
+  "passato_prossimo": {
+   "io": "ho cantato",
+   "tu": "hai cantato",
+   "lui": "ha cantato",
+   "noi": "abbiamo cantato",
+   "voi": "avete cantato",
+   "loro": "hanno cantato"
+  },
+  "futuro": {
+   "io": "canterò",
+   "tu": "canterai",
+   "lui": "canterà",
+   "noi": "canteremo",
+   "voi": "canterete",
+   "loro": "canteranno"
+  }
+ },
+ {
+  "infinitive": "ballare",
+  "english": "to dance",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "ballo",
+   "tu": "balli",
+   "lui": "balla",
+   "noi": "balliamo",
+   "voi": "ballate",
+   "loro": "ballano"
+  },
+  "passato_prossimo": {
+   "io": "ho ballato",
+   "tu": "hai ballato",
+   "lui": "ha ballato",
+   "noi": "abbiamo ballato",
+   "voi": "avete ballato",
+   "loro": "hanno ballato"
+  },
+  "futuro": {
+   "io": "ballerò",
+   "tu": "ballerai",
+   "lui": "ballerà",
+   "noi": "balleremo",
+   "voi": "ballerete",
+   "loro": "balleranno"
+  }
+ },
+ {
+  "infinitive": "suonare",
+  "english": "to play (instrument)",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "suono",
+   "tu": "suoni",
+   "lui": "suona",
+   "noi": "suoniamo",
+   "voi": "suonate",
+   "loro": "suonano"
+  },
+  "passato_prossimo": {
+   "io": "ho suonato",
+   "tu": "hai suonato",
+   "lui": "ha suonato",
+   "noi": "abbiamo suonato",
+   "voi": "avete suonato",
+   "loro": "hanno suonato"
+  },
+  "futuro": {
+   "io": "suonerò",
+   "tu": "suonerai",
+   "lui": "suonerà",
+   "noi": "suoneremo",
+   "voi": "suonerete",
+   "loro": "suoneranno"
+  }
+ },
+ {
+  "infinitive": "giocare",
+  "english": "to play (game)",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "gioco",
+   "tu": "gioci",
+   "lui": "gioca",
+   "noi": "giociamo",
+   "voi": "giocate",
+   "loro": "giocano"
+  },
+  "passato_prossimo": {
+   "io": "ho giocato",
+   "tu": "hai giocato",
+   "lui": "ha giocato",
+   "noi": "abbiamo giocato",
+   "voi": "avete giocato",
+   "loro": "hanno giocato"
+  },
+  "futuro": {
+   "io": "giocerò",
+   "tu": "giocerai",
+   "lui": "giocerà",
+   "noi": "gioceremo",
+   "voi": "giocerete",
+   "loro": "gioceranno"
+  }
+ },
+ {
+  "infinitive": "camminare",
+  "english": "to walk",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "cammino",
+   "tu": "cammini",
+   "lui": "cammina",
+   "noi": "camminiamo",
+   "voi": "camminate",
+   "loro": "camminano"
+  },
+  "passato_prossimo": {
+   "io": "ho camminato",
+   "tu": "hai camminato",
+   "lui": "ha camminato",
+   "noi": "abbiamo camminato",
+   "voi": "avete camminato",
+   "loro": "hanno camminato"
+  },
+  "futuro": {
+   "io": "camminerò",
+   "tu": "camminerai",
+   "lui": "camminerà",
+   "noi": "cammineremo",
+   "voi": "camminerete",
+   "loro": "cammineranno"
+  }
+ },
+ {
+  "infinitive": "guidare",
+  "english": "to drive",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "guido",
+   "tu": "guidi",
+   "lui": "guida",
+   "noi": "guidiamo",
+   "voi": "guidate",
+   "loro": "guidano"
+  },
+  "passato_prossimo": {
+   "io": "ho guidato",
+   "tu": "hai guidato",
+   "lui": "ha guidato",
+   "noi": "abbiamo guidato",
+   "voi": "avete guidato",
+   "loro": "hanno guidato"
+  },
+  "futuro": {
+   "io": "guiderò",
+   "tu": "guiderai",
+   "lui": "guiderà",
+   "noi": "guideremo",
+   "voi": "guiderete",
+   "loro": "guideranno"
+  }
+ },
+ {
+  "infinitive": "viaggiare",
+  "english": "to travel",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "viaggio",
+   "tu": "viaggii",
+   "lui": "viaggia",
+   "noi": "viaggiiamo",
+   "voi": "viaggiate",
+   "loro": "viaggiano"
+  },
+  "passato_prossimo": {
+   "io": "ho viaggiato",
+   "tu": "hai viaggiato",
+   "lui": "ha viaggiato",
+   "noi": "abbiamo viaggiato",
+   "voi": "avete viaggiato",
+   "loro": "hanno viaggiato"
+  },
+  "futuro": {
+   "io": "viaggierò",
+   "tu": "viaggierai",
+   "lui": "viaggierà",
+   "noi": "viaggieremo",
+   "voi": "viaggierete",
+   "loro": "viaggieranno"
+  }
+ },
+ {
+  "infinitive": "tornare",
+  "english": "to return",
+  "auxiliary": "essere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "torno",
+   "tu": "torni",
+   "lui": "torna",
+   "noi": "torniamo",
+   "voi": "tornate",
+   "loro": "tornano"
+  },
+  "passato_prossimo": {
+   "io": "sono tornato",
+   "tu": "sei tornato",
+   "lui": "è tornato",
+   "noi": "siamo tornati",
+   "voi": "siete tornati",
+   "loro": "sono tornati"
+  },
+  "futuro": {
+   "io": "tornerò",
+   "tu": "tornerai",
+   "lui": "tornerà",
+   "noi": "torneremo",
+   "voi": "tornerete",
+   "loro": "torneranno"
+  }
+ },
+ {
+  "infinitive": "arrivare",
+  "english": "to arrive",
+  "auxiliary": "essere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "arrivo",
+   "tu": "arrivi",
+   "lui": "arriva",
+   "noi": "arriviamo",
+   "voi": "arrivate",
+   "loro": "arrivano"
+  },
+  "passato_prossimo": {
+   "io": "sono arrivato",
+   "tu": "sei arrivato",
+   "lui": "è arrivato",
+   "noi": "siamo arrivati",
+   "voi": "siete arrivati",
+   "loro": "sono arrivati"
+  },
+  "futuro": {
+   "io": "arriverò",
+   "tu": "arriverai",
+   "lui": "arriverà",
+   "noi": "arriveremo",
+   "voi": "arriverete",
+   "loro": "arriveranno"
+  }
+ },
+ {
+  "infinitive": "entrare",
+  "english": "to enter",
+  "auxiliary": "essere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "entro",
+   "tu": "entri",
+   "lui": "entra",
+   "noi": "entriamo",
+   "voi": "entrate",
+   "loro": "entrano"
+  },
+  "passato_prossimo": {
+   "io": "sono entrato",
+   "tu": "sei entrato",
+   "lui": "è entrato",
+   "noi": "siamo entrati",
+   "voi": "siete entrati",
+   "loro": "sono entrati"
+  },
+  "futuro": {
+   "io": "entrerò",
+   "tu": "entrerai",
+   "lui": "entrerà",
+   "noi": "entreremo",
+   "voi": "entrerete",
+   "loro": "entreranno"
+  }
+ },
+ {
+  "infinitive": "restare",
+  "english": "to stay",
+  "auxiliary": "essere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A2",
+  "presente": {
+   "io": "resto",
+   "tu": "resti",
+   "lui": "resta",
+   "noi": "restiamo",
+   "voi": "restate",
+   "loro": "restano"
+  },
+  "passato_prossimo": {
+   "io": "sono restato",
+   "tu": "sei restato",
+   "lui": "è restato",
+   "noi": "siamo restati",
+   "voi": "siete restati",
+   "loro": "sono restati"
+  },
+  "futuro": {
+   "io": "resterò",
+   "tu": "resterai",
+   "lui": "resterà",
+   "noi": "resteremo",
+   "voi": "resterete",
+   "loro": "resteranno"
+  }
+ },
+ {
+  "infinitive": "saltare",
+  "english": "to jump",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A2",
+  "presente": {
+   "io": "salto",
+   "tu": "salti",
+   "lui": "salta",
+   "noi": "saltiamo",
+   "voi": "saltate",
+   "loro": "saltano"
+  },
+  "passato_prossimo": {
+   "io": "ho saltato",
+   "tu": "hai saltato",
+   "lui": "ha saltato",
+   "noi": "abbiamo saltato",
+   "voi": "avete saltato",
+   "loro": "hanno saltato"
+  },
+  "futuro": {
+   "io": "salterò",
+   "tu": "salterai",
+   "lui": "salterà",
+   "noi": "salteremo",
+   "voi": "salterete",
+   "loro": "salteranno"
+  }
+ },
+ {
+  "infinitive": "nuotare",
+  "english": "to swim",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "nuoto",
+   "tu": "nuoti",
+   "lui": "nuota",
+   "noi": "nuotiamo",
+   "voi": "nuotate",
+   "loro": "nuotano"
+  },
+  "passato_prossimo": {
+   "io": "ho nuotato",
+   "tu": "hai nuotato",
+   "lui": "ha nuotato",
+   "noi": "abbiamo nuotato",
+   "voi": "avete nuotato",
+   "loro": "hanno nuotato"
+  },
+  "futuro": {
+   "io": "nuoterò",
+   "tu": "nuoterai",
+   "lui": "nuoterà",
+   "noi": "nuoteremo",
+   "voi": "nuoterete",
+   "loro": "nuoteranno"
+  }
+ },
+ {
+  "infinitive": "volare",
+  "english": "to fly",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A2",
+  "presente": {
+   "io": "volo",
+   "tu": "voli",
+   "lui": "vola",
+   "noi": "voliamo",
+   "voi": "volate",
+   "loro": "volano"
+  },
+  "passato_prossimo": {
+   "io": "ho volato",
+   "tu": "hai volato",
+   "lui": "ha volato",
+   "noi": "abbiamo volato",
+   "voi": "avete volato",
+   "loro": "hanno volato"
+  },
+  "futuro": {
+   "io": "volerò",
+   "tu": "volerai",
+   "lui": "volerà",
+   "noi": "voleremo",
+   "voi": "volerete",
+   "loro": "voleranno"
+  }
+ },
+ {
+  "infinitive": "lavare",
+  "english": "to wash",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "lavo",
+   "tu": "lavi",
+   "lui": "lava",
+   "noi": "laviamo",
+   "voi": "lavate",
+   "loro": "lavano"
+  },
+  "passato_prossimo": {
+   "io": "ho lavato",
+   "tu": "hai lavato",
+   "lui": "ha lavato",
+   "noi": "abbiamo lavato",
+   "voi": "avete lavato",
+   "loro": "hanno lavato"
+  },
+  "futuro": {
+   "io": "laverò",
+   "tu": "laverai",
+   "lui": "laverà",
+   "noi": "laveremo",
+   "voi": "laverete",
+   "loro": "laveranno"
+  }
+ },
+ {
+  "infinitive": "cucinare",
+  "english": "to cook",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "cucino",
+   "tu": "cucini",
+   "lui": "cucina",
+   "noi": "cuciniamo",
+   "voi": "cucinate",
+   "loro": "cucinano"
+  },
+  "passato_prossimo": {
+   "io": "ho cucinato",
+   "tu": "hai cucinato",
+   "lui": "ha cucinato",
+   "noi": "abbiamo cucinato",
+   "voi": "avete cucinato",
+   "loro": "hanno cucinato"
+  },
+  "futuro": {
+   "io": "cucinerò",
+   "tu": "cucinerai",
+   "lui": "cucinerà",
+   "noi": "cucineremo",
+   "voi": "cucinerete",
+   "loro": "cucineranno"
+  }
+ },
+ {
+  "infinitive": "ordinare",
+  "english": "to order",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A2",
+  "presente": {
+   "io": "ordino",
+   "tu": "ordini",
+   "lui": "ordina",
+   "noi": "ordiniamo",
+   "voi": "ordinate",
+   "loro": "ordinano"
+  },
+  "passato_prossimo": {
+   "io": "ho ordinato",
+   "tu": "hai ordinato",
+   "lui": "ha ordinato",
+   "noi": "abbiamo ordinato",
+   "voi": "avete ordinato",
+   "loro": "hanno ordinato"
+  },
+  "futuro": {
+   "io": "ordinerò",
+   "tu": "ordinerai",
+   "lui": "ordinerà",
+   "noi": "ordineremo",
+   "voi": "ordinerete",
+   "loro": "ordineranno"
+  }
+ },
+ {
+  "infinitive": "pagare",
+  "english": "to pay",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "pago",
+   "tu": "pagi",
+   "lui": "paga",
+   "noi": "pagiamo",
+   "voi": "pagate",
+   "loro": "pagano"
+  },
+  "passato_prossimo": {
+   "io": "ho pagato",
+   "tu": "hai pagato",
+   "lui": "ha pagato",
+   "noi": "abbiamo pagato",
+   "voi": "avete pagato",
+   "loro": "hanno pagato"
+  },
+  "futuro": {
+   "io": "pagerò",
+   "tu": "pagerai",
+   "lui": "pagerà",
+   "noi": "pageremo",
+   "voi": "pagerete",
+   "loro": "pageranno"
+  }
+ },
+ {
+  "infinitive": "costare",
+  "english": "to cost",
+  "auxiliary": "essere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "costo",
+   "tu": "costi",
+   "lui": "costa",
+   "noi": "costiamo",
+   "voi": "costate",
+   "loro": "costano"
+  },
+  "passato_prossimo": {
+   "io": "sono costato",
+   "tu": "sei costato",
+   "lui": "è costato",
+   "noi": "siamo costati",
+   "voi": "siete costati",
+   "loro": "sono costati"
+  },
+  "futuro": {
+   "io": "costerò",
+   "tu": "costerai",
+   "lui": "costerà",
+   "noi": "costeremo",
+   "voi": "costerete",
+   "loro": "costeranno"
+  }
+ },
+ {
+  "infinitive": "raccontare",
+  "english": "to tell (story)",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A2",
+  "presente": {
+   "io": "racconto",
+   "tu": "racconti",
+   "lui": "racconta",
+   "noi": "raccontiamo",
+   "voi": "raccontate",
+   "loro": "raccontano"
+  },
+  "passato_prossimo": {
+   "io": "ho raccontato",
+   "tu": "hai raccontato",
+   "lui": "ha raccontato",
+   "noi": "abbiamo raccontato",
+   "voi": "avete raccontato",
+   "loro": "hanno raccontato"
+  },
+  "futuro": {
+   "io": "racconterò",
+   "tu": "racconterai",
+   "lui": "racconterà",
+   "noi": "racconteremo",
+   "voi": "racconterete",
+   "loro": "racconteranno"
+  }
+ },
+ {
+  "infinitive": "dimenticare",
+  "english": "to forget",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "dimentico",
+   "tu": "dimentici",
+   "lui": "dimentica",
+   "noi": "dimenticiamo",
+   "voi": "dimenticate",
+   "loro": "dimenticano"
+  },
+  "passato_prossimo": {
+   "io": "ho dimenticato",
+   "tu": "hai dimenticato",
+   "lui": "ha dimenticato",
+   "noi": "abbiamo dimenticato",
+   "voi": "avete dimenticato",
+   "loro": "hanno dimenticato"
+  },
+  "futuro": {
+   "io": "dimenticerò",
+   "tu": "dimenticerai",
+   "lui": "dimenticerà",
+   "noi": "dimenticeremo",
+   "voi": "dimenticerete",
+   "loro": "dimenticeranno"
+  }
+ },
+ {
+  "infinitive": "ricordare",
+  "english": "to remember",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "ricordo",
+   "tu": "ricordi",
+   "lui": "ricorda",
+   "noi": "ricordiamo",
+   "voi": "ricordate",
+   "loro": "ricordano"
+  },
+  "passato_prossimo": {
+   "io": "ho ricordato",
+   "tu": "hai ricordato",
+   "lui": "ha ricordato",
+   "noi": "abbiamo ricordato",
+   "voi": "avete ricordato",
+   "loro": "hanno ricordato"
+  },
+  "futuro": {
+   "io": "ricorderò",
+   "tu": "ricorderai",
+   "lui": "ricorderà",
+   "noi": "ricorderemo",
+   "voi": "ricorderete",
+   "loro": "ricorderanno"
+  }
+ },
+ {
+  "infinitive": "domandare",
+  "english": "to ask",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A2",
+  "presente": {
+   "io": "domando",
+   "tu": "domandi",
+   "lui": "domanda",
+   "noi": "domandiamo",
+   "voi": "domandate",
+   "loro": "domandano"
+  },
+  "passato_prossimo": {
+   "io": "ho domandato",
+   "tu": "hai domandato",
+   "lui": "ha domandato",
+   "noi": "abbiamo domandato",
+   "voi": "avete domandato",
+   "loro": "hanno domandato"
+  },
+  "futuro": {
+   "io": "domanderò",
+   "tu": "domanderai",
+   "lui": "domanderà",
+   "noi": "domanderemo",
+   "voi": "domanderete",
+   "loro": "domanderanno"
+  }
+ },
+ {
+  "infinitive": "ringraziare",
+  "english": "to thank",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A2",
+  "presente": {
+   "io": "ringrazio",
+   "tu": "ringrazii",
+   "lui": "ringrazia",
+   "noi": "ringraziiamo",
+   "voi": "ringraziate",
+   "loro": "ringraziano"
+  },
+  "passato_prossimo": {
+   "io": "ho ringraziato",
+   "tu": "hai ringraziato",
+   "lui": "ha ringraziato",
+   "noi": "abbiamo ringraziato",
+   "voi": "avete ringraziato",
+   "loro": "hanno ringraziato"
+  },
+  "futuro": {
+   "io": "ringrazierò",
+   "tu": "ringrazierai",
+   "lui": "ringrazierà",
+   "noi": "ringrazieremo",
+   "voi": "ringrazierete",
+   "loro": "ringrazieranno"
+  }
+ },
+ {
+  "infinitive": "regalare",
+  "english": "to give a gift",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A2",
+  "presente": {
+   "io": "regalo",
+   "tu": "regali",
+   "lui": "regala",
+   "noi": "regaliamo",
+   "voi": "regalate",
+   "loro": "regalano"
+  },
+  "passato_prossimo": {
+   "io": "ho regalato",
+   "tu": "hai regalato",
+   "lui": "ha regalato",
+   "noi": "abbiamo regalato",
+   "voi": "avete regalato",
+   "loro": "hanno regalato"
+  },
+  "futuro": {
+   "io": "regalerò",
+   "tu": "regalerai",
+   "lui": "regalerà",
+   "noi": "regaleremo",
+   "voi": "regalerete",
+   "loro": "regaleranno"
+  }
+ },
+ {
+  "infinitive": "salutare",
+  "english": "to greet",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A2",
+  "presente": {
+   "io": "saluto",
+   "tu": "saluti",
+   "lui": "saluta",
+   "noi": "salutiamo",
+   "voi": "salutate",
+   "loro": "salutano"
+  },
+  "passato_prossimo": {
+   "io": "ho salutato",
+   "tu": "hai salutato",
+   "lui": "ha salutato",
+   "noi": "abbiamo salutato",
+   "voi": "avete salutato",
+   "loro": "hanno salutato"
+  },
+  "futuro": {
+   "io": "saluterò",
+   "tu": "saluterai",
+   "lui": "saluterà",
+   "noi": "saluteremo",
+   "voi": "saluterete",
+   "loro": "saluteranno"
+  }
+ },
+ {
+  "infinitive": "presentare",
+  "english": "to introduce",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A2",
+  "presente": {
+   "io": "presento",
+   "tu": "presenti",
+   "lui": "presenta",
+   "noi": "presentiamo",
+   "voi": "presentate",
+   "loro": "presentano"
+  },
+  "passato_prossimo": {
+   "io": "ho presentato",
+   "tu": "hai presentato",
+   "lui": "ha presentato",
+   "noi": "abbiamo presentato",
+   "voi": "avete presentato",
+   "loro": "hanno presentato"
+  },
+  "futuro": {
+   "io": "presenterò",
+   "tu": "presenterai",
+   "lui": "presenterà",
+   "noi": "presenteremo",
+   "voi": "presenterete",
+   "loro": "presenteranno"
+  }
+ },
+ {
+  "infinitive": "telefonare",
+  "english": "to phone",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "telefono",
+   "tu": "telefoni",
+   "lui": "telefona",
+   "noi": "telefoniamo",
+   "voi": "telefonate",
+   "loro": "telefonano"
+  },
+  "passato_prossimo": {
+   "io": "ho telefonato",
+   "tu": "hai telefonato",
+   "lui": "ha telefonato",
+   "noi": "abbiamo telefonato",
+   "voi": "avete telefonato",
+   "loro": "hanno telefonato"
+  },
+  "futuro": {
+   "io": "telefonerò",
+   "tu": "telefonerai",
+   "lui": "telefonerà",
+   "noi": "telefoneremo",
+   "voi": "telefonerete",
+   "loro": "telefoneranno"
+  }
+ },
+ {
+  "infinitive": "fermare",
+  "english": "to stop (something)",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A2",
+  "presente": {
+   "io": "fermo",
+   "tu": "fermi",
+   "lui": "ferma",
+   "noi": "fermiamo",
+   "voi": "fermate",
+   "loro": "fermano"
+  },
+  "passato_prossimo": {
+   "io": "ho fermato",
+   "tu": "hai fermato",
+   "lui": "ha fermato",
+   "noi": "abbiamo fermato",
+   "voi": "avete fermato",
+   "loro": "hanno fermato"
+  },
+  "futuro": {
+   "io": "fermerò",
+   "tu": "fermerai",
+   "lui": "fermerà",
+   "noi": "fermeremo",
+   "voi": "fermerete",
+   "loro": "fermeranno"
+  }
+ },
+ {
+  "infinitive": "girare",
+  "english": "to turn",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A2",
+  "presente": {
+   "io": "giro",
+   "tu": "giri",
+   "lui": "gira",
+   "noi": "giriamo",
+   "voi": "girate",
+   "loro": "girano"
+  },
+  "passato_prossimo": {
+   "io": "ho girato",
+   "tu": "hai girato",
+   "lui": "ha girato",
+   "noi": "abbiamo girato",
+   "voi": "avete girato",
+   "loro": "hanno girato"
+  },
+  "futuro": {
+   "io": "girerò",
+   "tu": "girerai",
+   "lui": "girerà",
+   "noi": "gireremo",
+   "voi": "girerete",
+   "loro": "gireranno"
+  }
+ },
+ {
+  "infinitive": "cambiare",
+  "english": "to change",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "cambio",
+   "tu": "cambii",
+   "lui": "cambia",
+   "noi": "cambiiamo",
+   "voi": "cambiate",
+   "loro": "cambiano"
+  },
+  "passato_prossimo": {
+   "io": "ho cambiato",
+   "tu": "hai cambiato",
+   "lui": "ha cambiato",
+   "noi": "abbiamo cambiato",
+   "voi": "avete cambiato",
+   "loro": "hanno cambiato"
+  },
+  "futuro": {
+   "io": "cambierò",
+   "tu": "cambierai",
+   "lui": "cambierà",
+   "noi": "cambieremo",
+   "voi": "cambierete",
+   "loro": "cambieranno"
+  }
+ },
+ {
+  "infinitive": "creare",
+  "english": "to create",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A2",
+  "presente": {
+   "io": "creo",
+   "tu": "crei",
+   "lui": "crea",
+   "noi": "creiamo",
+   "voi": "create",
+   "loro": "creano"
+  },
+  "passato_prossimo": {
+   "io": "ho creato",
+   "tu": "hai creato",
+   "lui": "ha creato",
+   "noi": "abbiamo creato",
+   "voi": "avete creato",
+   "loro": "hanno creato"
+  },
+  "futuro": {
+   "io": "creerò",
+   "tu": "creerai",
+   "lui": "creerà",
+   "noi": "creeremo",
+   "voi": "creerete",
+   "loro": "creeranno"
+  }
+ },
+ {
+  "infinitive": "disegnare",
+  "english": "to draw",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A2",
+  "presente": {
+   "io": "disegno",
+   "tu": "disegni",
+   "lui": "disegna",
+   "noi": "disegniamo",
+   "voi": "disegnate",
+   "loro": "disegnano"
+  },
+  "passato_prossimo": {
+   "io": "ho disegnato",
+   "tu": "hai disegnato",
+   "lui": "ha disegnato",
+   "noi": "abbiamo disegnato",
+   "voi": "avete disegnato",
+   "loro": "hanno disegnato"
+  },
+  "futuro": {
+   "io": "disegnerò",
+   "tu": "disegnerai",
+   "lui": "disegnerà",
+   "noi": "disegneremo",
+   "voi": "disegnerete",
+   "loro": "disegneranno"
+  }
+ },
+ {
+  "infinitive": "spiegare",
+  "english": "to explain",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A2",
+  "presente": {
+   "io": "spiego",
+   "tu": "spiegi",
+   "lui": "spiega",
+   "noi": "spiegiamo",
+   "voi": "spiegate",
+   "loro": "spiegano"
+  },
+  "passato_prossimo": {
+   "io": "ho spiegato",
+   "tu": "hai spiegato",
+   "lui": "ha spiegato",
+   "noi": "abbiamo spiegato",
+   "voi": "avete spiegato",
+   "loro": "hanno spiegato"
+  },
+  "futuro": {
+   "io": "spiegerò",
+   "tu": "spiegerai",
+   "lui": "spiegerà",
+   "noi": "spiegeremo",
+   "voi": "spiegerete",
+   "loro": "spiegeranno"
+  }
+ },
+ {
+  "infinitive": "passare",
+  "english": "to pass / spend",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "passo",
+   "tu": "passi",
+   "lui": "passa",
+   "noi": "passiamo",
+   "voi": "passate",
+   "loro": "passano"
+  },
+  "passato_prossimo": {
+   "io": "ho passato",
+   "tu": "hai passato",
+   "lui": "ha passato",
+   "noi": "abbiamo passato",
+   "voi": "avete passato",
+   "loro": "hanno passato"
+  },
+  "futuro": {
+   "io": "passerò",
+   "tu": "passerai",
+   "lui": "passerà",
+   "noi": "passeremo",
+   "voi": "passerete",
+   "loro": "passeranno"
+  }
+ },
+ {
+  "infinitive": "diventare",
+  "english": "to become",
+  "auxiliary": "essere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A2",
+  "presente": {
+   "io": "divento",
+   "tu": "diventi",
+   "lui": "diventa",
+   "noi": "diventiamo",
+   "voi": "diventate",
+   "loro": "diventano"
+  },
+  "passato_prossimo": {
+   "io": "sono diventato",
+   "tu": "sei diventato",
+   "lui": "è diventato",
+   "noi": "siamo diventati",
+   "voi": "siete diventati",
+   "loro": "sono diventati"
+  },
+  "futuro": {
+   "io": "diventerò",
+   "tu": "diventerai",
+   "lui": "diventerà",
+   "noi": "diventeremo",
+   "voi": "diventerete",
+   "loro": "diventeranno"
+  }
+ },
+ {
+  "infinitive": "alzare",
+  "english": "to raise / lift",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A2",
+  "presente": {
+   "io": "alzo",
+   "tu": "alzi",
+   "lui": "alza",
+   "noi": "alziamo",
+   "voi": "alzate",
+   "loro": "alzano"
+  },
+  "passato_prossimo": {
+   "io": "ho alzato",
+   "tu": "hai alzato",
+   "lui": "ha alzato",
+   "noi": "abbiamo alzato",
+   "voi": "avete alzato",
+   "loro": "hanno alzato"
+  },
+  "futuro": {
+   "io": "alzerò",
+   "tu": "alzerai",
+   "lui": "alzerà",
+   "noi": "alzeremo",
+   "voi": "alzerete",
+   "loro": "alzeranno"
+  }
+ },
+ {
+  "infinitive": "sembrare",
+  "english": "to seem",
+  "auxiliary": "essere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A2",
+  "presente": {
+   "io": "sembro",
+   "tu": "sembri",
+   "lui": "sembra",
+   "noi": "sembriamo",
+   "voi": "sembrate",
+   "loro": "sembrano"
+  },
+  "passato_prossimo": {
+   "io": "sono sembrato",
+   "tu": "sei sembrato",
+   "lui": "è sembrato",
+   "noi": "siamo sembrati",
+   "voi": "siete sembrati",
+   "loro": "sono sembrati"
+  },
+  "futuro": {
+   "io": "sembrerò",
+   "tu": "sembrerai",
+   "lui": "sembrerà",
+   "noi": "sembreremo",
+   "voi": "sembrerete",
+   "loro": "sembreranno"
+  }
+ },
+ {
+  "infinitive": "mostrare",
+  "english": "to show",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A2",
+  "presente": {
+   "io": "mostro",
+   "tu": "mostri",
+   "lui": "mostra",
+   "noi": "mostriamo",
+   "voi": "mostrate",
+   "loro": "mostrano"
+  },
+  "passato_prossimo": {
+   "io": "ho mostrato",
+   "tu": "hai mostrato",
+   "lui": "ha mostrato",
+   "noi": "abbiamo mostrato",
+   "voi": "avete mostrato",
+   "loro": "hanno mostrato"
+  },
+  "futuro": {
+   "io": "mostrerò",
+   "tu": "mostrerai",
+   "lui": "mostrerà",
+   "noi": "mostreremo",
+   "voi": "mostrerete",
+   "loro": "mostreranno"
+  }
+ },
+ {
+  "infinitive": "usare",
+  "english": "to use",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A2",
+  "presente": {
+   "io": "uso",
+   "tu": "usi",
+   "lui": "usa",
+   "noi": "usiamo",
+   "voi": "usate",
+   "loro": "usano"
+  },
+  "passato_prossimo": {
+   "io": "ho usato",
+   "tu": "hai usato",
+   "lui": "ha usato",
+   "noi": "abbiamo usato",
+   "voi": "avete usato",
+   "loro": "hanno usato"
+  },
+  "futuro": {
+   "io": "userò",
+   "tu": "userai",
+   "lui": "userà",
+   "noi": "useremo",
+   "voi": "userete",
+   "loro": "useranno"
+  }
+ },
+ {
+  "infinitive": "pulire",
+  "english": "to clean (-isc-)",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A1",
+  "presente": {
+   "io": "pulo",
+   "tu": "puli",
+   "lui": "pula",
+   "noi": "puliamo",
+   "voi": "pulate",
+   "loro": "pulano"
+  },
+  "passato_prossimo": {
+   "io": "ho pulato",
+   "tu": "hai pulato",
+   "lui": "ha pulato",
+   "noi": "abbiamo pulato",
+   "voi": "avete pulato",
+   "loro": "hanno pulato"
+  },
+  "futuro": {
+   "io": "pulerò",
+   "tu": "pulerai",
+   "lui": "pulerà",
+   "noi": "puleremo",
+   "voi": "pulerete",
+   "loro": "puleranno"
+  }
+ },
+ {
+  "infinitive": "consigliare",
+  "english": "to advise",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "consiglio",
+   "tu": "consiglii",
+   "lui": "consiglia",
+   "noi": "consigliiamo",
+   "voi": "consigliate",
+   "loro": "consigliano"
+  },
+  "passato_prossimo": {
+   "io": "ho consigliato",
+   "tu": "hai consigliato",
+   "lui": "ha consigliato",
+   "noi": "abbiamo consigliato",
+   "voi": "avete consigliato",
+   "loro": "hanno consigliato"
+  },
+  "futuro": {
+   "io": "consiglierò",
+   "tu": "consiglierai",
+   "lui": "consiglierà",
+   "noi": "consiglieremo",
+   "voi": "consiglierete",
+   "loro": "consiglieranno"
+  }
+ },
+ {
+  "infinitive": "sognare",
+  "english": "to dream",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A2",
+  "presente": {
+   "io": "sogno",
+   "tu": "sogni",
+   "lui": "sogna",
+   "noi": "sogniamo",
+   "voi": "sognate",
+   "loro": "sognano"
+  },
+  "passato_prossimo": {
+   "io": "ho sognato",
+   "tu": "hai sognato",
+   "lui": "ha sognato",
+   "noi": "abbiamo sognato",
+   "voi": "avete sognato",
+   "loro": "hanno sognato"
+  },
+  "futuro": {
+   "io": "sognerò",
+   "tu": "sognerai",
+   "lui": "sognerà",
+   "noi": "sogneremo",
+   "voi": "sognerete",
+   "loro": "sogneranno"
+  }
+ },
+ {
+  "infinitive": "lasciare",
+  "english": "to leave behind",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A2",
+  "presente": {
+   "io": "lascio",
+   "tu": "lascii",
+   "lui": "lascia",
+   "noi": "lasciiamo",
+   "voi": "lasciate",
+   "loro": "lasciano"
+  },
+  "passato_prossimo": {
+   "io": "ho lasciato",
+   "tu": "hai lasciato",
+   "lui": "ha lasciato",
+   "noi": "abbiamo lasciato",
+   "voi": "avete lasciato",
+   "loro": "hanno lasciato"
+  },
+  "futuro": {
+   "io": "lascierò",
+   "tu": "lascierai",
+   "lui": "lascierà",
+   "noi": "lascieremo",
+   "voi": "lascierete",
+   "loro": "lascieranno"
+  }
+ },
+ {
+  "infinitive": "indicare",
+  "english": "to indicate",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "indico",
+   "tu": "indici",
+   "lui": "indica",
+   "noi": "indiciamo",
+   "voi": "indicate",
+   "loro": "indicano"
+  },
+  "passato_prossimo": {
+   "io": "ho indicato",
+   "tu": "hai indicato",
+   "lui": "ha indicato",
+   "noi": "abbiamo indicato",
+   "voi": "avete indicato",
+   "loro": "hanno indicato"
+  },
+  "futuro": {
+   "io": "indicerò",
+   "tu": "indicerai",
+   "lui": "indicerà",
+   "noi": "indiceremo",
+   "voi": "indicerete",
+   "loro": "indiceranno"
+  }
+ },
+ {
+  "infinitive": "votare",
+  "english": "to vote",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "voto",
+   "tu": "voti",
+   "lui": "vota",
+   "noi": "votiamo",
+   "voi": "votate",
+   "loro": "votano"
+  },
+  "passato_prossimo": {
+   "io": "ho votato",
+   "tu": "hai votato",
+   "lui": "ha votato",
+   "noi": "abbiamo votato",
+   "voi": "avete votato",
+   "loro": "hanno votato"
+  },
+  "futuro": {
+   "io": "voterò",
+   "tu": "voterai",
+   "lui": "voterà",
+   "noi": "voteremo",
+   "voi": "voterete",
+   "loro": "voteranno"
+  }
+ },
+ {
+  "infinitive": "evitare",
+  "english": "to avoid",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "evito",
+   "tu": "eviti",
+   "lui": "evita",
+   "noi": "evitiamo",
+   "voi": "evitate",
+   "loro": "evitano"
+  },
+  "passato_prossimo": {
+   "io": "ho evitato",
+   "tu": "hai evitato",
+   "lui": "ha evitato",
+   "noi": "abbiamo evitato",
+   "voi": "avete evitato",
+   "loro": "hanno evitato"
+  },
+  "futuro": {
+   "io": "eviterò",
+   "tu": "eviterai",
+   "lui": "eviterà",
+   "noi": "eviteremo",
+   "voi": "eviterete",
+   "loro": "eviteranno"
+  }
+ },
+ {
+  "infinitive": "riposare",
+  "english": "to rest",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A2",
+  "presente": {
+   "io": "riposo",
+   "tu": "riposi",
+   "lui": "riposa",
+   "noi": "riposiamo",
+   "voi": "riposate",
+   "loro": "riposano"
+  },
+  "passato_prossimo": {
+   "io": "ho riposato",
+   "tu": "hai riposato",
+   "lui": "ha riposato",
+   "noi": "abbiamo riposato",
+   "voi": "avete riposato",
+   "loro": "hanno riposato"
+  },
+  "futuro": {
+   "io": "riposerò",
+   "tu": "riposerai",
+   "lui": "riposerà",
+   "noi": "riposeremo",
+   "voi": "riposerete",
+   "loro": "riposeranno"
+  }
+ },
+ {
+  "infinitive": "rispettare",
+  "english": "to respect",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "rispetto",
+   "tu": "rispetti",
+   "lui": "rispetta",
+   "noi": "rispettiamo",
+   "voi": "rispettate",
+   "loro": "rispettano"
+  },
+  "passato_prossimo": {
+   "io": "ho rispettato",
+   "tu": "hai rispettato",
+   "lui": "ha rispettato",
+   "noi": "abbiamo rispettato",
+   "voi": "avete rispettato",
+   "loro": "hanno rispettato"
+  },
+  "futuro": {
+   "io": "rispetterò",
+   "tu": "rispetterai",
+   "lui": "rispetterà",
+   "noi": "rispetteremo",
+   "voi": "rispetterete",
+   "loro": "rispetteranno"
+  }
+ },
+ {
+  "infinitive": "criticare",
+  "english": "to criticize",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "critico",
+   "tu": "critici",
+   "lui": "critica",
+   "noi": "criticiamo",
+   "voi": "criticate",
+   "loro": "criticano"
+  },
+  "passato_prossimo": {
+   "io": "ho criticato",
+   "tu": "hai criticato",
+   "lui": "ha criticato",
+   "noi": "abbiamo criticato",
+   "voi": "avete criticato",
+   "loro": "hanno criticato"
+  },
+  "futuro": {
+   "io": "criticerò",
+   "tu": "criticerai",
+   "lui": "criticerà",
+   "noi": "criticeremo",
+   "voi": "criticerete",
+   "loro": "criticeranno"
+  }
+ },
+ {
+  "infinitive": "dichiarare",
+  "english": "to declare",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "dichiaro",
+   "tu": "dichiari",
+   "lui": "dichiara",
+   "noi": "dichiariamo",
+   "voi": "dichiarate",
+   "loro": "dichiarano"
+  },
+  "passato_prossimo": {
+   "io": "ho dichiarato",
+   "tu": "hai dichiarato",
+   "lui": "ha dichiarato",
+   "noi": "abbiamo dichiarato",
+   "voi": "avete dichiarato",
+   "loro": "hanno dichiarato"
+  },
+  "futuro": {
+   "io": "dichiarerò",
+   "tu": "dichiarerai",
+   "lui": "dichiarerà",
+   "noi": "dichiareremo",
+   "voi": "dichiarerete",
+   "loro": "dichiareranno"
+  }
+ },
+ {
+  "infinitive": "considerare",
+  "english": "to consider",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "considero",
+   "tu": "consideri",
+   "lui": "considera",
+   "noi": "consideriamo",
+   "voi": "considerate",
+   "loro": "considerano"
+  },
+  "passato_prossimo": {
+   "io": "ho considerato",
+   "tu": "hai considerato",
+   "lui": "ha considerato",
+   "noi": "abbiamo considerato",
+   "voi": "avete considerato",
+   "loro": "hanno considerato"
+  },
+  "futuro": {
+   "io": "considererò",
+   "tu": "considererai",
+   "lui": "considererà",
+   "noi": "considereremo",
+   "voi": "considererete",
+   "loro": "considereranno"
+  }
+ },
+ {
+  "infinitive": "ammirare",
+  "english": "to admire",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "ammiro",
+   "tu": "ammiri",
+   "lui": "ammira",
+   "noi": "ammiriamo",
+   "voi": "ammirate",
+   "loro": "ammirano"
+  },
+  "passato_prossimo": {
+   "io": "ho ammirato",
+   "tu": "hai ammirato",
+   "lui": "ha ammirato",
+   "noi": "abbiamo ammirato",
+   "voi": "avete ammirato",
+   "loro": "hanno ammirato"
+  },
+  "futuro": {
+   "io": "ammirerò",
+   "tu": "ammirerai",
+   "lui": "ammirerà",
+   "noi": "ammireremo",
+   "voi": "ammirerete",
+   "loro": "ammireranno"
+  }
+ },
+ {
+  "infinitive": "ignorare",
+  "english": "to ignore",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "ignoro",
+   "tu": "ignori",
+   "lui": "ignora",
+   "noi": "ignoriamo",
+   "voi": "ignorate",
+   "loro": "ignorano"
+  },
+  "passato_prossimo": {
+   "io": "ho ignorato",
+   "tu": "hai ignorato",
+   "lui": "ha ignorato",
+   "noi": "abbiamo ignorato",
+   "voi": "avete ignorato",
+   "loro": "hanno ignorato"
+  },
+  "futuro": {
+   "io": "ignorerò",
+   "tu": "ignorerai",
+   "lui": "ignorerà",
+   "noi": "ignoreremo",
+   "voi": "ignorerete",
+   "loro": "ignoreranno"
+  }
+ },
+ {
+  "infinitive": "sperare",
+  "english": "to hope",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A2",
+  "presente": {
+   "io": "spero",
+   "tu": "speri",
+   "lui": "spera",
+   "noi": "speriamo",
+   "voi": "sperate",
+   "loro": "sperano"
+  },
+  "passato_prossimo": {
+   "io": "ho sperato",
+   "tu": "hai sperato",
+   "lui": "ha sperato",
+   "noi": "abbiamo sperato",
+   "voi": "avete sperato",
+   "loro": "hanno sperato"
+  },
+  "futuro": {
+   "io": "spererò",
+   "tu": "spererai",
+   "lui": "spererà",
+   "noi": "spereremo",
+   "voi": "spererete",
+   "loro": "spereranno"
+  }
+ },
+ {
+  "infinitive": "desiderare",
+  "english": "to desire",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "desidero",
+   "tu": "desideri",
+   "lui": "desidera",
+   "noi": "desideriamo",
+   "voi": "desiderate",
+   "loro": "desiderano"
+  },
+  "passato_prossimo": {
+   "io": "ho desiderato",
+   "tu": "hai desiderato",
+   "lui": "ha desiderato",
+   "noi": "abbiamo desiderato",
+   "voi": "avete desiderato",
+   "loro": "hanno desiderato"
+  },
+  "futuro": {
+   "io": "desidererò",
+   "tu": "desidererai",
+   "lui": "desidererà",
+   "noi": "desidereremo",
+   "voi": "desidererete",
+   "loro": "desidereranno"
+  }
+ },
+ {
+  "infinitive": "augurare",
+  "english": "to wish",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "auguro",
+   "tu": "auguri",
+   "lui": "augura",
+   "noi": "auguriamo",
+   "voi": "augurate",
+   "loro": "augurano"
+  },
+  "passato_prossimo": {
+   "io": "ho augurato",
+   "tu": "hai augurato",
+   "lui": "ha augurato",
+   "noi": "abbiamo augurato",
+   "voi": "avete augurato",
+   "loro": "hanno augurato"
+  },
+  "futuro": {
+   "io": "augurerò",
+   "tu": "augurerai",
+   "lui": "augurerà",
+   "noi": "augureremo",
+   "voi": "augurerete",
+   "loro": "augureranno"
+  }
+ },
+ {
+  "infinitive": "tentare",
+  "english": "to attempt",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "tento",
+   "tu": "tenti",
+   "lui": "tenta",
+   "noi": "tentiamo",
+   "voi": "tentate",
+   "loro": "tentano"
+  },
+  "passato_prossimo": {
+   "io": "ho tentato",
+   "tu": "hai tentato",
+   "lui": "ha tentato",
+   "noi": "abbiamo tentato",
+   "voi": "avete tentato",
+   "loro": "hanno tentato"
+  },
+  "futuro": {
+   "io": "tenterò",
+   "tu": "tenterai",
+   "lui": "tenterà",
+   "noi": "tenteremo",
+   "voi": "tenterete",
+   "loro": "tenteranno"
+  }
+ },
+ {
+  "infinitive": "abbracciare",
+  "english": "to hug",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "abbraccio",
+   "tu": "abbraccii",
+   "lui": "abbraccia",
+   "noi": "abbracciiamo",
+   "voi": "abbracciate",
+   "loro": "abbracciano"
+  },
+  "passato_prossimo": {
+   "io": "ho abbracciato",
+   "tu": "hai abbracciato",
+   "lui": "ha abbracciato",
+   "noi": "abbiamo abbracciato",
+   "voi": "avete abbracciato",
+   "loro": "hanno abbracciato"
+  },
+  "futuro": {
+   "io": "abbraccierò",
+   "tu": "abbraccierai",
+   "lui": "abbraccierà",
+   "noi": "abbraccieremo",
+   "voi": "abbraccierete",
+   "loro": "abbraccieranno"
+  }
+ },
+ {
+  "infinitive": "baciare",
+  "english": "to kiss",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A2",
+  "presente": {
+   "io": "bacio",
+   "tu": "bacii",
+   "lui": "bacia",
+   "noi": "baciiamo",
+   "voi": "baciate",
+   "loro": "baciano"
+  },
+  "passato_prossimo": {
+   "io": "ho baciato",
+   "tu": "hai baciato",
+   "lui": "ha baciato",
+   "noi": "abbiamo baciato",
+   "voi": "avete baciato",
+   "loro": "hanno baciato"
+  },
+  "futuro": {
+   "io": "bacierò",
+   "tu": "bacierai",
+   "lui": "bacierà",
+   "noi": "bacieremo",
+   "voi": "bacierete",
+   "loro": "bacieranno"
+  }
+ },
+ {
+  "infinitive": "donare",
+  "english": "to donate",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "dono",
+   "tu": "doni",
+   "lui": "dona",
+   "noi": "doniamo",
+   "voi": "donate",
+   "loro": "donano"
+  },
+  "passato_prossimo": {
+   "io": "ho donato",
+   "tu": "hai donato",
+   "lui": "ha donato",
+   "noi": "abbiamo donato",
+   "voi": "avete donato",
+   "loro": "hanno donato"
+  },
+  "futuro": {
+   "io": "donerò",
+   "tu": "donerai",
+   "lui": "donerà",
+   "noi": "doneremo",
+   "voi": "donerete",
+   "loro": "doneranno"
+  }
+ },
+ {
+  "infinitive": "bagnare",
+  "english": "to wet",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "bagno",
+   "tu": "bagni",
+   "lui": "bagna",
+   "noi": "bagniamo",
+   "voi": "bagnate",
+   "loro": "bagnano"
+  },
+  "passato_prossimo": {
+   "io": "ho bagnato",
+   "tu": "hai bagnato",
+   "lui": "ha bagnato",
+   "noi": "abbiamo bagnato",
+   "voi": "avete bagnato",
+   "loro": "hanno bagnato"
+  },
+  "futuro": {
+   "io": "bagnerò",
+   "tu": "bagnerai",
+   "lui": "bagnerà",
+   "noi": "bagneremo",
+   "voi": "bagnerete",
+   "loro": "bagneranno"
+  }
+ },
+ {
+  "infinitive": "respirare",
+  "english": "to breathe",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "respiro",
+   "tu": "respiri",
+   "lui": "respira",
+   "noi": "respiriamo",
+   "voi": "respirate",
+   "loro": "respirano"
+  },
+  "passato_prossimo": {
+   "io": "ho respirato",
+   "tu": "hai respirato",
+   "lui": "ha respirato",
+   "noi": "abbiamo respirato",
+   "voi": "avete respirato",
+   "loro": "hanno respirato"
+  },
+  "futuro": {
+   "io": "respirerò",
+   "tu": "respirerai",
+   "lui": "respirerà",
+   "noi": "respireremo",
+   "voi": "respirerete",
+   "loro": "respireranno"
+  }
+ },
+ {
+  "infinitive": "gridare",
+  "english": "to shout",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "grido",
+   "tu": "gridi",
+   "lui": "grida",
+   "noi": "gridiamo",
+   "voi": "gridate",
+   "loro": "gridano"
+  },
+  "passato_prossimo": {
+   "io": "ho gridato",
+   "tu": "hai gridato",
+   "lui": "ha gridato",
+   "noi": "abbiamo gridato",
+   "voi": "avete gridato",
+   "loro": "hanno gridato"
+  },
+  "futuro": {
+   "io": "griderò",
+   "tu": "griderai",
+   "lui": "griderà",
+   "noi": "grideremo",
+   "voi": "griderete",
+   "loro": "grideranno"
+  }
+ },
+ {
+  "infinitive": "fermarsi",
+  "english": "to stop oneself",
+  "auxiliary": "essere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A2",
+  "presente": {
+   "io": "fermao",
+   "tu": "fermai",
+   "lui": "fermaa",
+   "noi": "fermaiamo",
+   "voi": "fermaate",
+   "loro": "fermaano"
+  },
+  "passato_prossimo": {
+   "io": "sono fermaato",
+   "tu": "sei fermaato",
+   "lui": "è fermaato",
+   "noi": "siamo fermaati",
+   "voi": "siete fermaati",
+   "loro": "sono fermaati"
+  },
+  "futuro": {
+   "io": "fermaerò",
+   "tu": "fermaerai",
+   "lui": "fermaerà",
+   "noi": "fermaeremo",
+   "voi": "fermaerete",
+   "loro": "fermaeranno"
+  }
+ },
+ {
+  "infinitive": "preoccupare",
+  "english": "to worry",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "preoccupo",
+   "tu": "preoccupi",
+   "lui": "preoccupa",
+   "noi": "preoccupiamo",
+   "voi": "preoccupate",
+   "loro": "preoccupano"
+  },
+  "passato_prossimo": {
+   "io": "ho preoccupato",
+   "tu": "hai preoccupato",
+   "lui": "ha preoccupato",
+   "noi": "abbiamo preoccupato",
+   "voi": "avete preoccupato",
+   "loro": "hanno preoccupato"
+  },
+  "futuro": {
+   "io": "preoccuperò",
+   "tu": "preoccuperai",
+   "lui": "preoccuperà",
+   "noi": "preoccuperemo",
+   "voi": "preoccuperete",
+   "loro": "preoccuperanno"
+  }
+ },
+ {
+  "infinitive": "fotografare",
+  "english": "to photograph",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "fotografo",
+   "tu": "fotografi",
+   "lui": "fotografa",
+   "noi": "fotografiamo",
+   "voi": "fotografate",
+   "loro": "fotografano"
+  },
+  "passato_prossimo": {
+   "io": "ho fotografato",
+   "tu": "hai fotografato",
+   "lui": "ha fotografato",
+   "noi": "abbiamo fotografato",
+   "voi": "avete fotografato",
+   "loro": "hanno fotografato"
+  },
+  "futuro": {
+   "io": "fotograferò",
+   "tu": "fotograferai",
+   "lui": "fotograferà",
+   "noi": "fotograferemo",
+   "voi": "fotograferete",
+   "loro": "fotograferanno"
+  }
+ },
+ {
+  "infinitive": "litigare",
+  "english": "to argue",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "litigo",
+   "tu": "litigi",
+   "lui": "litiga",
+   "noi": "litigiamo",
+   "voi": "litigate",
+   "loro": "litigano"
+  },
+  "passato_prossimo": {
+   "io": "ho litigato",
+   "tu": "hai litigato",
+   "lui": "ha litigato",
+   "noi": "abbiamo litigato",
+   "voi": "avete litigato",
+   "loro": "hanno litigato"
+  },
+  "futuro": {
+   "io": "litigerò",
+   "tu": "litigerai",
+   "lui": "litigerà",
+   "noi": "litigeremo",
+   "voi": "litigerete",
+   "loro": "litigeranno"
+  }
+ },
+ {
+  "infinitive": "perdonare",
+  "english": "to forgive",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "perdono",
+   "tu": "perdoni",
+   "lui": "perdona",
+   "noi": "perdoniamo",
+   "voi": "perdonate",
+   "loro": "perdonano"
+  },
+  "passato_prossimo": {
+   "io": "ho perdonato",
+   "tu": "hai perdonato",
+   "lui": "ha perdonato",
+   "noi": "abbiamo perdonato",
+   "voi": "avete perdonato",
+   "loro": "hanno perdonato"
+  },
+  "futuro": {
+   "io": "perdonerò",
+   "tu": "perdonerai",
+   "lui": "perdonerà",
+   "noi": "perdoneremo",
+   "voi": "perdonerete",
+   "loro": "perdoneranno"
+  }
+ },
+ {
+  "infinitive": "chiacchierare",
+  "english": "to chat",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "chiacchiero",
+   "tu": "chiacchieri",
+   "lui": "chiacchiera",
+   "noi": "chiacchieriamo",
+   "voi": "chiacchierate",
+   "loro": "chiacchierano"
+  },
+  "passato_prossimo": {
+   "io": "ho chiacchierato",
+   "tu": "hai chiacchierato",
+   "lui": "ha chiacchierato",
+   "noi": "abbiamo chiacchierato",
+   "voi": "avete chiacchierato",
+   "loro": "hanno chiacchierato"
+  },
+  "futuro": {
+   "io": "chiacchiererò",
+   "tu": "chiacchiererai",
+   "lui": "chiacchiererà",
+   "noi": "chiacchiereremo",
+   "voi": "chiacchiererete",
+   "loro": "chiacchiereranno"
+  }
+ },
+ {
+  "infinitive": "preparare",
+  "english": "to prepare",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A2",
+  "presente": {
+   "io": "preparo",
+   "tu": "prepari",
+   "lui": "prepara",
+   "noi": "prepariamo",
+   "voi": "preparate",
+   "loro": "preparano"
+  },
+  "passato_prossimo": {
+   "io": "ho preparato",
+   "tu": "hai preparato",
+   "lui": "ha preparato",
+   "noi": "abbiamo preparato",
+   "voi": "avete preparato",
+   "loro": "hanno preparato"
+  },
+  "futuro": {
+   "io": "preparerò",
+   "tu": "preparerai",
+   "lui": "preparerà",
+   "noi": "prepareremo",
+   "voi": "preparerete",
+   "loro": "prepareranno"
+  }
+ },
+ {
+  "infinitive": "tagliare",
+  "english": "to cut",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A2",
+  "presente": {
+   "io": "taglio",
+   "tu": "taglii",
+   "lui": "taglia",
+   "noi": "tagliiamo",
+   "voi": "tagliate",
+   "loro": "tagliano"
+  },
+  "passato_prossimo": {
+   "io": "ho tagliato",
+   "tu": "hai tagliato",
+   "lui": "ha tagliato",
+   "noi": "abbiamo tagliato",
+   "voi": "avete tagliato",
+   "loro": "hanno tagliato"
+  },
+  "futuro": {
+   "io": "taglierò",
+   "tu": "taglierai",
+   "lui": "taglierà",
+   "noi": "taglieremo",
+   "voi": "taglierete",
+   "loro": "taglieranno"
+  }
+ },
+ {
+  "infinitive": "controllare",
+  "english": "to check / control",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "controllo",
+   "tu": "controlli",
+   "lui": "controlla",
+   "noi": "controlliamo",
+   "voi": "controllate",
+   "loro": "controllano"
+  },
+  "passato_prossimo": {
+   "io": "ho controllato",
+   "tu": "hai controllato",
+   "lui": "ha controllato",
+   "noi": "abbiamo controllato",
+   "voi": "avete controllato",
+   "loro": "hanno controllato"
+  },
+  "futuro": {
+   "io": "controllerò",
+   "tu": "controllerai",
+   "lui": "controllerà",
+   "noi": "controlleremo",
+   "voi": "controllerete",
+   "loro": "controlleranno"
+  }
+ },
+ {
+  "infinitive": "stancare",
+  "english": "to tire",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "stanco",
+   "tu": "stanci",
+   "lui": "stanca",
+   "noi": "stanciamo",
+   "voi": "stancate",
+   "loro": "stancano"
+  },
+  "passato_prossimo": {
+   "io": "ho stancato",
+   "tu": "hai stancato",
+   "lui": "ha stancato",
+   "noi": "abbiamo stancato",
+   "voi": "avete stancato",
+   "loro": "hanno stancato"
+  },
+  "futuro": {
+   "io": "stancerò",
+   "tu": "stancerai",
+   "lui": "stancerà",
+   "noi": "stanceremo",
+   "voi": "stancerete",
+   "loro": "stanceranno"
+  }
+ },
+ {
+  "infinitive": "credere",
+  "english": "to believe",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-ere",
+  "level": "A1",
+  "presente": {
+   "io": "credo",
+   "tu": "credi",
+   "lui": "crede",
+   "noi": "crediamo",
+   "voi": "credete",
+   "loro": "credono"
+  },
+  "passato_prossimo": {
+   "io": "ho creduto",
+   "tu": "hai creduto",
+   "lui": "ha creduto",
+   "noi": "abbiamo creduto",
+   "voi": "avete creduto",
+   "loro": "hanno creduto"
+  },
+  "futuro": {
+   "io": "crederò",
+   "tu": "crederai",
+   "lui": "crederà",
+   "noi": "crederemo",
+   "voi": "crederete",
+   "loro": "crederanno"
+  }
+ },
+ {
+  "infinitive": "vendere",
+  "english": "to sell",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-ere",
+  "level": "A1",
+  "presente": {
+   "io": "vendo",
+   "tu": "vendi",
+   "lui": "vende",
+   "noi": "vendiamo",
+   "voi": "vendete",
+   "loro": "vendono"
+  },
+  "passato_prossimo": {
+   "io": "ho venduto",
+   "tu": "hai venduto",
+   "lui": "ha venduto",
+   "noi": "abbiamo venduto",
+   "voi": "avete venduto",
+   "loro": "hanno venduto"
+  },
+  "futuro": {
+   "io": "venderò",
+   "tu": "venderai",
+   "lui": "venderà",
+   "noi": "venderemo",
+   "voi": "venderete",
+   "loro": "venderanno"
+  }
+ },
+ {
+  "infinitive": "ricevere",
+  "english": "to receive",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-ere",
+  "level": "A2",
+  "presente": {
+   "io": "ricevo",
+   "tu": "ricevi",
+   "lui": "riceve",
+   "noi": "riceviamo",
+   "voi": "ricevete",
+   "loro": "ricevono"
+  },
+  "passato_prossimo": {
+   "io": "ho ricevuto",
+   "tu": "hai ricevuto",
+   "lui": "ha ricevuto",
+   "noi": "abbiamo ricevuto",
+   "voi": "avete ricevuto",
+   "loro": "hanno ricevuto"
+  },
+  "futuro": {
+   "io": "riceverò",
+   "tu": "riceverai",
+   "lui": "riceverà",
+   "noi": "riceveremo",
+   "voi": "riceverete",
+   "loro": "riceveranno"
+  }
+ },
+ {
+  "infinitive": "godere",
+  "english": "to enjoy",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-ere",
+  "level": "B1",
+  "presente": {
+   "io": "godo",
+   "tu": "godi",
+   "lui": "gode",
+   "noi": "godiamo",
+   "voi": "godete",
+   "loro": "godono"
+  },
+  "passato_prossimo": {
+   "io": "ho goduto",
+   "tu": "hai goduto",
+   "lui": "ha goduto",
+   "noi": "abbiamo goduto",
+   "voi": "avete goduto",
+   "loro": "hanno goduto"
+  },
+  "futuro": {
+   "io": "goderò",
+   "tu": "goderai",
+   "lui": "goderà",
+   "noi": "goderemo",
+   "voi": "goderete",
+   "loro": "goderanno"
+  }
+ },
+ {
+  "infinitive": "temere",
+  "english": "to fear",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-ere",
+  "level": "B1",
+  "presente": {
+   "io": "temo",
+   "tu": "temi",
+   "lui": "teme",
+   "noi": "temiamo",
+   "voi": "temete",
+   "loro": "temono"
+  },
+  "passato_prossimo": {
+   "io": "ho temuto",
+   "tu": "hai temuto",
+   "lui": "ha temuto",
+   "noi": "abbiamo temuto",
+   "voi": "avete temuto",
+   "loro": "hanno temuto"
+  },
+  "futuro": {
+   "io": "temerò",
+   "tu": "temerai",
+   "lui": "temerà",
+   "noi": "temeremo",
+   "voi": "temerete",
+   "loro": "temeranno"
+  }
+ },
+ {
+  "infinitive": "ripetere",
+  "english": "to repeat",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-ere",
+  "level": "A2",
+  "presente": {
+   "io": "ripeto",
+   "tu": "ripeti",
+   "lui": "ripete",
+   "noi": "ripetiamo",
+   "voi": "ripetete",
+   "loro": "ripetono"
+  },
+  "passato_prossimo": {
+   "io": "ho ripetuto",
+   "tu": "hai ripetuto",
+   "lui": "ha ripetuto",
+   "noi": "abbiamo ripetuto",
+   "voi": "avete ripetuto",
+   "loro": "hanno ripetuto"
+  },
+  "futuro": {
+   "io": "ripeterò",
+   "tu": "ripeterai",
+   "lui": "ripeterà",
+   "noi": "ripeteremo",
+   "voi": "ripeterete",
+   "loro": "ripeteranno"
+  }
+ },
+ {
+  "infinitive": "battere",
+  "english": "to beat / knock",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-ere",
+  "level": "B1",
+  "presente": {
+   "io": "batto",
+   "tu": "batti",
+   "lui": "batte",
+   "noi": "battiamo",
+   "voi": "battete",
+   "loro": "battono"
+  },
+  "passato_prossimo": {
+   "io": "ho battuto",
+   "tu": "hai battuto",
+   "lui": "ha battuto",
+   "noi": "abbiamo battuto",
+   "voi": "avete battuto",
+   "loro": "hanno battuto"
+  },
+  "futuro": {
+   "io": "batterò",
+   "tu": "batterai",
+   "lui": "batterà",
+   "noi": "batteremo",
+   "voi": "batterete",
+   "loro": "batteranno"
+  }
+ },
+ {
+  "infinitive": "succedere",
+  "english": "to happen",
+  "auxiliary": "essere",
+  "regularity": "regular",
+  "group": "-ere",
+  "level": "A2",
+  "presente": {
+   "io": "succedo",
+   "tu": "succedi",
+   "lui": "succede",
+   "noi": "succediamo",
+   "voi": "succedete",
+   "loro": "succedono"
+  },
+  "passato_prossimo": {
+   "io": "sono succeduto",
+   "tu": "sei succeduto",
+   "lui": "è succeduto",
+   "noi": "siamo succeduti",
+   "voi": "siete succeduti",
+   "loro": "sono succeduti"
+  },
+  "futuro": {
+   "io": "succederò",
+   "tu": "succederai",
+   "lui": "succederà",
+   "noi": "succederemo",
+   "voi": "succederete",
+   "loro": "succederanno"
+  }
+ },
+ {
+  "infinitive": "cadere",
+  "english": "to fall",
+  "auxiliary": "essere",
+  "regularity": "regular",
+  "group": "-ere",
+  "level": "A2",
+  "presente": {
+   "io": "cado",
+   "tu": "cadi",
+   "lui": "cade",
+   "noi": "cadiamo",
+   "voi": "cadete",
+   "loro": "cadono"
+  },
+  "passato_prossimo": {
+   "io": "sono caduto",
+   "tu": "sei caduto",
+   "lui": "è caduto",
+   "noi": "siamo caduti",
+   "voi": "siete caduti",
+   "loro": "sono caduti"
+  },
+  "futuro": {
+   "io": "caderò",
+   "tu": "caderai",
+   "lui": "caderà",
+   "noi": "caderemo",
+   "voi": "caderete",
+   "loro": "caderanno"
+  }
+ },
+ {
+  "infinitive": "dormire",
+  "english": "to sleep",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-ire",
+  "level": "A1",
+  "presente": {
+   "io": "dormo",
+   "tu": "dormi",
+   "lui": "dorme",
+   "noi": "dormiamo",
+   "voi": "dormite",
+   "loro": "dormono"
+  },
+  "passato_prossimo": {
+   "io": "ho dormito",
+   "tu": "hai dormito",
+   "lui": "ha dormito",
+   "noi": "abbiamo dormito",
+   "voi": "avete dormito",
+   "loro": "hanno dormito"
+  },
+  "futuro": {
+   "io": "dormirò",
+   "tu": "dormirai",
+   "lui": "dormirà",
+   "noi": "dormiremo",
+   "voi": "dormirete",
+   "loro": "dormiranno"
+  }
+ },
+ {
+  "infinitive": "partire",
+  "english": "to leave",
+  "auxiliary": "essere",
+  "regularity": "regular",
+  "group": "-ire",
+  "level": "A1",
+  "presente": {
+   "io": "parto",
+   "tu": "parti",
+   "lui": "parte",
+   "noi": "partiamo",
+   "voi": "partite",
+   "loro": "partono"
+  },
+  "passato_prossimo": {
+   "io": "sono partito",
+   "tu": "sei partito",
+   "lui": "è partito",
+   "noi": "siamo partiti",
+   "voi": "siete partiti",
+   "loro": "sono partiti"
+  },
+  "futuro": {
+   "io": "partirò",
+   "tu": "partirai",
+   "lui": "partirà",
+   "noi": "partiremo",
+   "voi": "partirete",
+   "loro": "partiranno"
+  }
+ },
+ {
+  "infinitive": "sentire",
+  "english": "to hear / feel",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-ire",
+  "level": "A1",
+  "presente": {
+   "io": "sento",
+   "tu": "senti",
+   "lui": "sente",
+   "noi": "sentiamo",
+   "voi": "sentite",
+   "loro": "sentono"
+  },
+  "passato_prossimo": {
+   "io": "ho sentito",
+   "tu": "hai sentito",
+   "lui": "ha sentito",
+   "noi": "abbiamo sentito",
+   "voi": "avete sentito",
+   "loro": "hanno sentito"
+  },
+  "futuro": {
+   "io": "sentirò",
+   "tu": "sentirai",
+   "lui": "sentirà",
+   "noi": "sentiremo",
+   "voi": "sentirete",
+   "loro": "sentiranno"
+  }
+ },
+ {
+  "infinitive": "vestire",
+  "english": "to dress",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-ire",
+  "level": "B1",
+  "presente": {
+   "io": "vesto",
+   "tu": "vesti",
+   "lui": "veste",
+   "noi": "vestiamo",
+   "voi": "vestite",
+   "loro": "vestono"
+  },
+  "passato_prossimo": {
+   "io": "ho vestito",
+   "tu": "hai vestito",
+   "lui": "ha vestito",
+   "noi": "abbiamo vestito",
+   "voi": "avete vestito",
+   "loro": "hanno vestito"
+  },
+  "futuro": {
+   "io": "vestirò",
+   "tu": "vestirai",
+   "lui": "vestirà",
+   "noi": "vestiremo",
+   "voi": "vestirete",
+   "loro": "vestiranno"
+  }
+ },
+ {
+  "infinitive": "servire",
+  "english": "to serve",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-ire",
+  "level": "A2",
+  "presente": {
+   "io": "servo",
+   "tu": "servi",
+   "lui": "serve",
+   "noi": "serviamo",
+   "voi": "servite",
+   "loro": "servono"
+  },
+  "passato_prossimo": {
+   "io": "ho servito",
+   "tu": "hai servito",
+   "lui": "ha servito",
+   "noi": "abbiamo servito",
+   "voi": "avete servito",
+   "loro": "hanno servito"
+  },
+  "futuro": {
+   "io": "servirò",
+   "tu": "servirai",
+   "lui": "servirà",
+   "noi": "serviremo",
+   "voi": "servirete",
+   "loro": "serviranno"
+  }
+ },
+ {
+  "infinitive": "capire",
+  "english": "to understand",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-ire (-isc-)",
+  "level": "A1",
+  "presente": {
+   "io": "capisco",
+   "tu": "capisci",
+   "lui": "capisce",
+   "noi": "capiamo",
+   "voi": "capite",
+   "loro": "capiscono"
+  },
+  "passato_prossimo": {
+   "io": "ho capito",
+   "tu": "hai capito",
+   "lui": "ha capito",
+   "noi": "abbiamo capito",
+   "voi": "avete capito",
+   "loro": "hanno capito"
+  },
+  "futuro": {
+   "io": "capirò",
+   "tu": "capirai",
+   "lui": "capirà",
+   "noi": "capiremo",
+   "voi": "capirete",
+   "loro": "capiranno"
+  }
+ },
+ {
+  "infinitive": "finire",
+  "english": "to finish",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-ire (-isc-)",
+  "level": "A1",
+  "presente": {
+   "io": "finisco",
+   "tu": "finisci",
+   "lui": "finisce",
+   "noi": "finiamo",
+   "voi": "finite",
+   "loro": "finiscono"
+  },
+  "passato_prossimo": {
+   "io": "ho finito",
+   "tu": "hai finito",
+   "lui": "ha finito",
+   "noi": "abbiamo finito",
+   "voi": "avete finito",
+   "loro": "hanno finito"
+  },
+  "futuro": {
+   "io": "finirò",
+   "tu": "finirai",
+   "lui": "finirà",
+   "noi": "finiremo",
+   "voi": "finirete",
+   "loro": "finiranno"
+  }
+ },
+ {
+  "infinitive": "preferire",
+  "english": "to prefer",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-ire (-isc-)",
+  "level": "A1",
+  "presente": {
+   "io": "preferisco",
+   "tu": "preferisci",
+   "lui": "preferisce",
+   "noi": "preferiamo",
+   "voi": "preferite",
+   "loro": "preferiscono"
+  },
+  "passato_prossimo": {
+   "io": "ho preferito",
+   "tu": "hai preferito",
+   "lui": "ha preferito",
+   "noi": "abbiamo preferito",
+   "voi": "avete preferito",
+   "loro": "hanno preferito"
+  },
+  "futuro": {
+   "io": "preferirò",
+   "tu": "preferirai",
+   "lui": "preferirà",
+   "noi": "preferiremo",
+   "voi": "preferirete",
+   "loro": "preferiranno"
+  }
+ },
+ {
+  "infinitive": "spedire",
+  "english": "to send / mail",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-ire (-isc-)",
+  "level": "B1",
+  "presente": {
+   "io": "spedisco",
+   "tu": "spedisci",
+   "lui": "spedisce",
+   "noi": "spediamo",
+   "voi": "spedite",
+   "loro": "spediscono"
+  },
+  "passato_prossimo": {
+   "io": "ho spedito",
+   "tu": "hai spedito",
+   "lui": "ha spedito",
+   "noi": "abbiamo spedito",
+   "voi": "avete spedito",
+   "loro": "hanno spedito"
+  },
+  "futuro": {
+   "io": "spedirò",
+   "tu": "spedirai",
+   "lui": "spedirà",
+   "noi": "spediremo",
+   "voi": "spedirete",
+   "loro": "spediranno"
+  }
+ },
+ {
+  "infinitive": "costruire",
+  "english": "to build",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-ire (-isc-)",
+  "level": "B1",
+  "presente": {
+   "io": "costruisco",
+   "tu": "costruisci",
+   "lui": "costruisce",
+   "noi": "costruiamo",
+   "voi": "costruite",
+   "loro": "costruiscono"
+  },
+  "passato_prossimo": {
+   "io": "ho costruito",
+   "tu": "hai costruito",
+   "lui": "ha costruito",
+   "noi": "abbiamo costruito",
+   "voi": "avete costruito",
+   "loro": "hanno costruito"
+  },
+  "futuro": {
+   "io": "costruirò",
+   "tu": "costruirai",
+   "lui": "costruirà",
+   "noi": "costruiremo",
+   "voi": "costruirete",
+   "loro": "costruiranno"
+  }
+ },
+ {
+  "infinitive": "obbedire",
+  "english": "to obey",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-ire (-isc-)",
+  "level": "B1",
+  "presente": {
+   "io": "obbedisco",
+   "tu": "obbedisci",
+   "lui": "obbedisce",
+   "noi": "obbediamo",
+   "voi": "obbedite",
+   "loro": "obbediscono"
+  },
+  "passato_prossimo": {
+   "io": "ho obbedito",
+   "tu": "hai obbedito",
+   "lui": "ha obbedito",
+   "noi": "abbiamo obbedito",
+   "voi": "avete obbedito",
+   "loro": "hanno obbedito"
+  },
+  "futuro": {
+   "io": "obbedirò",
+   "tu": "obbedirai",
+   "lui": "obbedirà",
+   "noi": "obbediremo",
+   "voi": "obbedirete",
+   "loro": "obbediranno"
+  }
+ },
+ {
+  "infinitive": "punire",
+  "english": "to punish",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-ire (-isc-)",
+  "level": "B1",
+  "presente": {
+   "io": "punisco",
+   "tu": "punisci",
+   "lui": "punisce",
+   "noi": "puniamo",
+   "voi": "punite",
+   "loro": "puniscono"
+  },
+  "passato_prossimo": {
+   "io": "ho punito",
+   "tu": "hai punito",
+   "lui": "ha punito",
+   "noi": "abbiamo punito",
+   "voi": "avete punito",
+   "loro": "hanno punito"
+  },
+  "futuro": {
+   "io": "punirò",
+   "tu": "punirai",
+   "lui": "punirà",
+   "noi": "puniremo",
+   "voi": "punirete",
+   "loro": "puniranno"
+  }
+ },
+ {
+  "infinitive": "fornire",
+  "english": "to provide",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-ire (-isc-)",
+  "level": "B1",
+  "presente": {
+   "io": "fornisco",
+   "tu": "fornisci",
+   "lui": "fornisce",
+   "noi": "forniamo",
+   "voi": "fornite",
+   "loro": "forniscono"
+  },
+  "passato_prossimo": {
+   "io": "ho fornito",
+   "tu": "hai fornito",
+   "lui": "ha fornito",
+   "noi": "abbiamo fornito",
+   "voi": "avete fornito",
+   "loro": "hanno fornito"
+  },
+  "futuro": {
+   "io": "fornirò",
+   "tu": "fornirai",
+   "lui": "fornirà",
+   "noi": "forniremo",
+   "voi": "fornirete",
+   "loro": "forniranno"
+  }
+ },
+ {
+  "infinitive": "garantire",
+  "english": "to guarantee",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-ire (-isc-)",
+  "level": "B1",
+  "presente": {
+   "io": "garantisco",
+   "tu": "garantisci",
+   "lui": "garantisce",
+   "noi": "garantiamo",
+   "voi": "garantite",
+   "loro": "garantiscono"
+  },
+  "passato_prossimo": {
+   "io": "ho garantito",
+   "tu": "hai garantito",
+   "lui": "ha garantito",
+   "noi": "abbiamo garantito",
+   "voi": "avete garantito",
+   "loro": "hanno garantito"
+  },
+  "futuro": {
+   "io": "garantirò",
+   "tu": "garantirai",
+   "lui": "garantirà",
+   "noi": "garantiremo",
+   "voi": "garantirete",
+   "loro": "garantiranno"
+  }
+ },
+ {
+  "infinitive": "diminuire",
+  "english": "to decrease",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-ire (-isc-)",
+  "level": "B1",
+  "presente": {
+   "io": "diminuisco",
+   "tu": "diminuisci",
+   "lui": "diminuisce",
+   "noi": "diminuiamo",
+   "voi": "diminuite",
+   "loro": "diminuiscono"
+  },
+  "passato_prossimo": {
+   "io": "ho diminuito",
+   "tu": "hai diminuito",
+   "lui": "ha diminuito",
+   "noi": "abbiamo diminuito",
+   "voi": "avete diminuito",
+   "loro": "hanno diminuito"
+  },
+  "futuro": {
+   "io": "diminuirò",
+   "tu": "diminuirai",
+   "lui": "diminuirà",
+   "noi": "diminuiremo",
+   "voi": "diminuirete",
+   "loro": "diminuiranno"
+  }
+ },
+ {
+  "infinitive": "contribuire",
+  "english": "to contribute",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-ire (-isc-)",
+  "level": "B1",
+  "presente": {
+   "io": "contribuisco",
+   "tu": "contribuisci",
+   "lui": "contribuisce",
+   "noi": "contribuiamo",
+   "voi": "contribuite",
+   "loro": "contribuiscono"
+  },
+  "passato_prossimo": {
+   "io": "ho contribuito",
+   "tu": "hai contribuito",
+   "lui": "ha contribuito",
+   "noi": "abbiamo contribuito",
+   "voi": "avete contribuito",
+   "loro": "hanno contribuito"
+  },
+  "futuro": {
+   "io": "contribuirò",
+   "tu": "contribuirai",
+   "lui": "contribuirà",
+   "noi": "contribuiremo",
+   "voi": "contribuirete",
+   "loro": "contribuiranno"
+  }
+ },
+ {
+  "infinitive": "agire",
+  "english": "to act",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-ire (-isc-)",
+  "level": "B1",
+  "presente": {
+   "io": "agisco",
+   "tu": "agisci",
+   "lui": "agisce",
+   "noi": "agiamo",
+   "voi": "agite",
+   "loro": "agiscono"
+  },
+  "passato_prossimo": {
+   "io": "ho agito",
+   "tu": "hai agito",
+   "lui": "ha agito",
+   "noi": "abbiamo agito",
+   "voi": "avete agito",
+   "loro": "hanno agito"
+  },
+  "futuro": {
+   "io": "agirò",
+   "tu": "agirai",
+   "lui": "agirà",
+   "noi": "agiremo",
+   "voi": "agirete",
+   "loro": "agiranno"
+  }
+ },
+ {
+  "infinitive": "riempire",
+  "english": "to fill",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-ire (-isc-)",
+  "level": "B1",
+  "presente": {
+   "io": "riempisco",
+   "tu": "riempisci",
+   "lui": "riempisce",
+   "noi": "riempiamo",
+   "voi": "riempite",
+   "loro": "riempiscono"
+  },
+  "passato_prossimo": {
+   "io": "ho riempito",
+   "tu": "hai riempito",
+   "lui": "ha riempito",
+   "noi": "abbiamo riempito",
+   "voi": "avete riempito",
+   "loro": "hanno riempito"
+  },
+  "futuro": {
+   "io": "riempirò",
+   "tu": "riempirai",
+   "lui": "riempirà",
+   "noi": "riempiremo",
+   "voi": "riempirete",
+   "loro": "riempiranno"
+  }
+ },
+ {
+  "infinitive": "stabilire",
+  "english": "to establish",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-ire (-isc-)",
+  "level": "B1",
+  "presente": {
+   "io": "stabilisco",
+   "tu": "stabilisci",
+   "lui": "stabilisce",
+   "noi": "stabiliamo",
+   "voi": "stabilite",
+   "loro": "stabiliscono"
+  },
+  "passato_prossimo": {
+   "io": "ho stabilito",
+   "tu": "hai stabilito",
+   "lui": "ha stabilito",
+   "noi": "abbiamo stabilito",
+   "voi": "avete stabilito",
+   "loro": "hanno stabilito"
+  },
+  "futuro": {
+   "io": "stabilirò",
+   "tu": "stabilirai",
+   "lui": "stabilirà",
+   "noi": "stabiliremo",
+   "voi": "stabilirete",
+   "loro": "stabiliranno"
+  }
+ },
+ {
+  "infinitive": "guarire",
+  "english": "to heal",
+  "auxiliary": "essere",
+  "regularity": "regular",
+  "group": "-ire (-isc-)",
+  "level": "B1",
+  "presente": {
+   "io": "guarisco",
+   "tu": "guarisci",
+   "lui": "guarisce",
+   "noi": "guariamo",
+   "voi": "guarite",
+   "loro": "guariscono"
+  },
+  "passato_prossimo": {
+   "io": "sono guarito",
+   "tu": "sei guarito",
+   "lui": "è guarito",
+   "noi": "siamo guariti",
+   "voi": "siete guariti",
+   "loro": "sono guariti"
+  },
+  "futuro": {
+   "io": "guarirò",
+   "tu": "guarirai",
+   "lui": "guarirà",
+   "noi": "guariremo",
+   "voi": "guarirete",
+   "loro": "guariranno"
+  }
+ },
+ {
+  "infinitive": "smarrire",
+  "english": "to lose",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-ire (-isc-)",
+  "level": "B1",
+  "presente": {
+   "io": "smarrisco",
+   "tu": "smarrisci",
+   "lui": "smarrisce",
+   "noi": "smarriamo",
+   "voi": "smarrite",
+   "loro": "smarriscono"
+  },
+  "passato_prossimo": {
+   "io": "ho smarrito",
+   "tu": "hai smarrito",
+   "lui": "ha smarrito",
+   "noi": "abbiamo smarrito",
+   "voi": "avete smarrito",
+   "loro": "hanno smarrito"
+  },
+  "futuro": {
+   "io": "smarrirò",
+   "tu": "smarrirai",
+   "lui": "smarrirà",
+   "noi": "smarriremo",
+   "voi": "smarrirete",
+   "loro": "smarriranno"
+  }
+ },
+ {
+  "infinitive": "ferire",
+  "english": "to wound",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-ire (-isc-)",
+  "level": "B1",
+  "presente": {
+   "io": "ferisco",
+   "tu": "ferisci",
+   "lui": "ferisce",
+   "noi": "feriamo",
+   "voi": "ferite",
+   "loro": "feriscono"
+  },
+  "passato_prossimo": {
+   "io": "ho ferito",
+   "tu": "hai ferito",
+   "lui": "ha ferito",
+   "noi": "abbiamo ferito",
+   "voi": "avete ferito",
+   "loro": "hanno ferito"
+  },
+  "futuro": {
+   "io": "ferirò",
+   "tu": "ferirai",
+   "lui": "ferirà",
+   "noi": "feriremo",
+   "voi": "ferirete",
+   "loro": "feriranno"
+  }
+ },
+ {
+  "infinitive": "tradire",
+  "english": "to betray",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-ire (-isc-)",
+  "level": "B1",
+  "presente": {
+   "io": "tradisco",
+   "tu": "tradisci",
+   "lui": "tradisce",
+   "noi": "tradiamo",
+   "voi": "tradite",
+   "loro": "tradiscono"
+  },
+  "passato_prossimo": {
+   "io": "ho tradito",
+   "tu": "hai tradito",
+   "lui": "ha tradito",
+   "noi": "abbiamo tradito",
+   "voi": "avete tradito",
+   "loro": "hanno tradito"
+  },
+  "futuro": {
+   "io": "tradirò",
+   "tu": "tradirai",
+   "lui": "tradirà",
+   "noi": "tradiremo",
+   "voi": "tradirete",
+   "loro": "tradiranno"
+  }
+ },
+ {
+  "infinitive": "unire",
+  "english": "to unite",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-ire (-isc-)",
+  "level": "B1",
+  "presente": {
+   "io": "unisco",
+   "tu": "unisci",
+   "lui": "unisce",
+   "noi": "uniamo",
+   "voi": "unite",
+   "loro": "uniscono"
+  },
+  "passato_prossimo": {
+   "io": "ho unito",
+   "tu": "hai unito",
+   "lui": "ha unito",
+   "noi": "abbiamo unito",
+   "voi": "avete unito",
+   "loro": "hanno unito"
+  },
+  "futuro": {
+   "io": "unirò",
+   "tu": "unirai",
+   "lui": "unirà",
+   "noi": "uniremo",
+   "voi": "unirete",
+   "loro": "uniranno"
+  }
+ },
+ {
+  "infinitive": "definire",
+  "english": "to define",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-ire (-isc-)",
+  "level": "B1",
+  "presente": {
+   "io": "definisco",
+   "tu": "definisci",
+   "lui": "definisce",
+   "noi": "definiamo",
+   "voi": "definite",
+   "loro": "definiscono"
+  },
+  "passato_prossimo": {
+   "io": "ho definito",
+   "tu": "hai definito",
+   "lui": "ha definito",
+   "noi": "abbiamo definito",
+   "voi": "avete definito",
+   "loro": "hanno definito"
+  },
+  "futuro": {
+   "io": "definirò",
+   "tu": "definirai",
+   "lui": "definirà",
+   "noi": "definiremo",
+   "voi": "definirete",
+   "loro": "definiranno"
+  }
+ },
+ {
+  "infinitive": "esibire",
+  "english": "to exhibit",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-ire (-isc-)",
+  "level": "B1",
+  "presente": {
+   "io": "esibisco",
+   "tu": "esibisci",
+   "lui": "esibisce",
+   "noi": "esibiamo",
+   "voi": "esibite",
+   "loro": "esibiscono"
+  },
+  "passato_prossimo": {
+   "io": "ho esibito",
+   "tu": "hai esibito",
+   "lui": "ha esibito",
+   "noi": "abbiamo esibito",
+   "voi": "avete esibito",
+   "loro": "hanno esibito"
+  },
+  "futuro": {
+   "io": "esibirò",
+   "tu": "esibirai",
+   "lui": "esibirà",
+   "noi": "esibiremo",
+   "voi": "esibirete",
+   "loro": "esibiranno"
+  }
+ },
+ {
+  "infinitive": "approfondire",
+  "english": "to deepen",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-ire (-isc-)",
+  "level": "B1",
+  "presente": {
+   "io": "approfondisco",
+   "tu": "approfondisci",
+   "lui": "approfondisce",
+   "noi": "approfondiamo",
+   "voi": "approfondite",
+   "loro": "approfondiscono"
+  },
+  "passato_prossimo": {
+   "io": "ho approfondito",
+   "tu": "hai approfondito",
+   "lui": "ha approfondito",
+   "noi": "abbiamo approfondito",
+   "voi": "avete approfondito",
+   "loro": "hanno approfondito"
+  },
+  "futuro": {
+   "io": "approfondirò",
+   "tu": "approfondirai",
+   "lui": "approfondirà",
+   "noi": "approfondiremo",
+   "voi": "approfondirete",
+   "loro": "approfondiranno"
+  }
+ },
+ {
+  "infinitive": "confermare",
+  "english": "to confirm",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "confermo",
+   "tu": "confermi",
+   "lui": "conferma",
+   "noi": "confermiamo",
+   "voi": "confermate",
+   "loro": "confermano"
+  },
+  "passato_prossimo": {
+   "io": "ho confermato",
+   "tu": "hai confermato",
+   "lui": "ha confermato",
+   "noi": "abbiamo confermato",
+   "voi": "avete confermato",
+   "loro": "hanno confermato"
+  },
+  "futuro": {
+   "io": "confermerò",
+   "tu": "confermerai",
+   "lui": "confermerà",
+   "noi": "confermeremo",
+   "voi": "confermerete",
+   "loro": "confermeranno"
+  }
+ },
+ {
+  "infinitive": "applicare",
+  "english": "to apply",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "applico",
+   "tu": "applici",
+   "lui": "applica",
+   "noi": "appliciamo",
+   "voi": "applicate",
+   "loro": "applicano"
+  },
+  "passato_prossimo": {
+   "io": "ho applicato",
+   "tu": "hai applicato",
+   "lui": "ha applicato",
+   "noi": "abbiamo applicato",
+   "voi": "avete applicato",
+   "loro": "hanno applicato"
+  },
+  "futuro": {
+   "io": "applicerò",
+   "tu": "applicerai",
+   "lui": "applicerà",
+   "noi": "appliceremo",
+   "voi": "applicerete",
+   "loro": "appliceranno"
+  }
+ },
+ {
+  "infinitive": "modificare",
+  "english": "to modify",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "modifico",
+   "tu": "modifici",
+   "lui": "modifica",
+   "noi": "modificiamo",
+   "voi": "modificate",
+   "loro": "modificano"
+  },
+  "passato_prossimo": {
+   "io": "ho modificato",
+   "tu": "hai modificato",
+   "lui": "ha modificato",
+   "noi": "abbiamo modificato",
+   "voi": "avete modificato",
+   "loro": "hanno modificato"
+  },
+  "futuro": {
+   "io": "modificerò",
+   "tu": "modificerai",
+   "lui": "modificerà",
+   "noi": "modificeremo",
+   "voi": "modificerete",
+   "loro": "modificeranno"
+  }
+ },
+ {
+  "infinitive": "verificare",
+  "english": "to verify",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "verifico",
+   "tu": "verifici",
+   "lui": "verifica",
+   "noi": "verificiamo",
+   "voi": "verificate",
+   "loro": "verificano"
+  },
+  "passato_prossimo": {
+   "io": "ho verificato",
+   "tu": "hai verificato",
+   "lui": "ha verificato",
+   "noi": "abbiamo verificato",
+   "voi": "avete verificato",
+   "loro": "hanno verificato"
+  },
+  "futuro": {
+   "io": "verificerò",
+   "tu": "verificerai",
+   "lui": "verificerà",
+   "noi": "verificeremo",
+   "voi": "verificerete",
+   "loro": "verificeranno"
+  }
+ },
+ {
+  "infinitive": "calcolare",
+  "english": "to calculate",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "calcolo",
+   "tu": "calcoli",
+   "lui": "calcola",
+   "noi": "calcoliamo",
+   "voi": "calcolate",
+   "loro": "calcolano"
+  },
+  "passato_prossimo": {
+   "io": "ho calcolato",
+   "tu": "hai calcolato",
+   "lui": "ha calcolato",
+   "noi": "abbiamo calcolato",
+   "voi": "avete calcolato",
+   "loro": "hanno calcolato"
+  },
+  "futuro": {
+   "io": "calcolerò",
+   "tu": "calcolerai",
+   "lui": "calcolerà",
+   "noi": "calcoleremo",
+   "voi": "calcolerete",
+   "loro": "calcoleranno"
+  }
+ },
+ {
+  "infinitive": "dimostrare",
+  "english": "to demonstrate",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "dimostro",
+   "tu": "dimostri",
+   "lui": "dimostra",
+   "noi": "dimostriamo",
+   "voi": "dimostrate",
+   "loro": "dimostrano"
+  },
+  "passato_prossimo": {
+   "io": "ho dimostrato",
+   "tu": "hai dimostrato",
+   "lui": "ha dimostrato",
+   "noi": "abbiamo dimostrato",
+   "voi": "avete dimostrato",
+   "loro": "hanno dimostrato"
+  },
+  "futuro": {
+   "io": "dimostrerò",
+   "tu": "dimostrerai",
+   "lui": "dimostrerà",
+   "noi": "dimostreremo",
+   "voi": "dimostrerete",
+   "loro": "dimostreranno"
+  }
+ },
+ {
+  "infinitive": "rivelare",
+  "english": "to reveal",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "rivelo",
+   "tu": "riveli",
+   "lui": "rivela",
+   "noi": "riveliamo",
+   "voi": "rivelate",
+   "loro": "rivelano"
+  },
+  "passato_prossimo": {
+   "io": "ho rivelato",
+   "tu": "hai rivelato",
+   "lui": "ha rivelato",
+   "noi": "abbiamo rivelato",
+   "voi": "avete rivelato",
+   "loro": "hanno rivelato"
+  },
+  "futuro": {
+   "io": "rivelerò",
+   "tu": "rivelerai",
+   "lui": "rivelerà",
+   "noi": "riveleremo",
+   "voi": "rivelerete",
+   "loro": "riveleranno"
+  }
+ },
+ {
+  "infinitive": "dedicare",
+  "english": "to dedicate",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "dedico",
+   "tu": "dedici",
+   "lui": "dedica",
+   "noi": "dediciamo",
+   "voi": "dedicate",
+   "loro": "dedicano"
+  },
+  "passato_prossimo": {
+   "io": "ho dedicato",
+   "tu": "hai dedicato",
+   "lui": "ha dedicato",
+   "noi": "abbiamo dedicato",
+   "voi": "avete dedicato",
+   "loro": "hanno dedicato"
+  },
+  "futuro": {
+   "io": "dedicerò",
+   "tu": "dedicerai",
+   "lui": "dedicerà",
+   "noi": "dediceremo",
+   "voi": "dedicerete",
+   "loro": "dediceranno"
+  }
+ },
+ {
+  "infinitive": "occupare",
+  "english": "to occupy",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "occupo",
+   "tu": "occupi",
+   "lui": "occupa",
+   "noi": "occupiamo",
+   "voi": "occupate",
+   "loro": "occupano"
+  },
+  "passato_prossimo": {
+   "io": "ho occupato",
+   "tu": "hai occupato",
+   "lui": "ha occupato",
+   "noi": "abbiamo occupato",
+   "voi": "avete occupato",
+   "loro": "hanno occupato"
+  },
+  "futuro": {
+   "io": "occuperò",
+   "tu": "occuperai",
+   "lui": "occuperà",
+   "noi": "occuperemo",
+   "voi": "occuperete",
+   "loro": "occuperanno"
+  }
+ },
+ {
+  "infinitive": "abituare",
+  "english": "to accustom",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "abituo",
+   "tu": "abitui",
+   "lui": "abitua",
+   "noi": "abituiamo",
+   "voi": "abituate",
+   "loro": "abituano"
+  },
+  "passato_prossimo": {
+   "io": "ho abituato",
+   "tu": "hai abituato",
+   "lui": "ha abituato",
+   "noi": "abbiamo abituato",
+   "voi": "avete abituato",
+   "loro": "hanno abituato"
+  },
+  "futuro": {
+   "io": "abituerò",
+   "tu": "abituerai",
+   "lui": "abituerà",
+   "noi": "abitueremo",
+   "voi": "abituerete",
+   "loro": "abitueranno"
+  }
+ },
+ {
+  "infinitive": "festeggiare",
+  "english": "to celebrate",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A2",
+  "presente": {
+   "io": "festeggio",
+   "tu": "festeggii",
+   "lui": "festeggia",
+   "noi": "festeggiiamo",
+   "voi": "festeggiate",
+   "loro": "festeggiano"
+  },
+  "passato_prossimo": {
+   "io": "ho festeggiato",
+   "tu": "hai festeggiato",
+   "lui": "ha festeggiato",
+   "noi": "abbiamo festeggiato",
+   "voi": "avete festeggiato",
+   "loro": "hanno festeggiato"
+  },
+  "futuro": {
+   "io": "festeggierò",
+   "tu": "festeggierai",
+   "lui": "festeggierà",
+   "noi": "festeggieremo",
+   "voi": "festeggierete",
+   "loro": "festeggieranno"
+  }
+ },
+ {
+  "infinitive": "scherzare",
+  "english": "to joke",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "A2",
+  "presente": {
+   "io": "scherzo",
+   "tu": "scherzi",
+   "lui": "scherza",
+   "noi": "scherziamo",
+   "voi": "scherzate",
+   "loro": "scherzano"
+  },
+  "passato_prossimo": {
+   "io": "ho scherzato",
+   "tu": "hai scherzato",
+   "lui": "ha scherzato",
+   "noi": "abbiamo scherzato",
+   "voi": "avete scherzato",
+   "loro": "hanno scherzato"
+  },
+  "futuro": {
+   "io": "scherzerò",
+   "tu": "scherzerai",
+   "lui": "scherzerà",
+   "noi": "scherzeremo",
+   "voi": "scherzerete",
+   "loro": "scherzeranno"
+  }
+ },
+ {
+  "infinitive": "indossare",
+  "english": "to wear",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "indosso",
+   "tu": "indossi",
+   "lui": "indossa",
+   "noi": "indossiamo",
+   "voi": "indossate",
+   "loro": "indossano"
+  },
+  "passato_prossimo": {
+   "io": "ho indossato",
+   "tu": "hai indossato",
+   "lui": "ha indossato",
+   "noi": "abbiamo indossato",
+   "voi": "avete indossato",
+   "loro": "hanno indossato"
+  },
+  "futuro": {
+   "io": "indosserò",
+   "tu": "indosserai",
+   "lui": "indosserà",
+   "noi": "indosseremo",
+   "voi": "indosserete",
+   "loro": "indosseranno"
+  }
+ },
+ {
+  "infinitive": "informare",
+  "english": "to inform",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "informo",
+   "tu": "informi",
+   "lui": "informa",
+   "noi": "informiamo",
+   "voi": "informate",
+   "loro": "informano"
+  },
+  "passato_prossimo": {
+   "io": "ho informato",
+   "tu": "hai informato",
+   "lui": "ha informato",
+   "noi": "abbiamo informato",
+   "voi": "avete informato",
+   "loro": "hanno informato"
+  },
+  "futuro": {
+   "io": "informerò",
+   "tu": "informerai",
+   "lui": "informerà",
+   "noi": "informeremo",
+   "voi": "informerete",
+   "loro": "informeranno"
+  }
+ },
+ {
+  "infinitive": "annullare",
+  "english": "to cancel",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "annullo",
+   "tu": "annulli",
+   "lui": "annulla",
+   "noi": "annulliamo",
+   "voi": "annullate",
+   "loro": "annullano"
+  },
+  "passato_prossimo": {
+   "io": "ho annullato",
+   "tu": "hai annullato",
+   "lui": "ha annullato",
+   "noi": "abbiamo annullato",
+   "voi": "avete annullato",
+   "loro": "hanno annullato"
+  },
+  "futuro": {
+   "io": "annullerò",
+   "tu": "annullerai",
+   "lui": "annullerà",
+   "noi": "annulleremo",
+   "voi": "annullerete",
+   "loro": "annulleranno"
+  }
+ },
+ {
+  "infinitive": "registrare",
+  "english": "to record / register",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "registro",
+   "tu": "registri",
+   "lui": "registra",
+   "noi": "registriamo",
+   "voi": "registrate",
+   "loro": "registrano"
+  },
+  "passato_prossimo": {
+   "io": "ho registrato",
+   "tu": "hai registrato",
+   "lui": "ha registrato",
+   "noi": "abbiamo registrato",
+   "voi": "avete registrato",
+   "loro": "hanno registrato"
+  },
+  "futuro": {
+   "io": "registrerò",
+   "tu": "registrerai",
+   "lui": "registrerà",
+   "noi": "registreremo",
+   "voi": "registrerete",
+   "loro": "registreranno"
+  }
+ },
+ {
+  "infinitive": "approvare",
+  "english": "to approve",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-are",
+  "level": "B1",
+  "presente": {
+   "io": "approvo",
+   "tu": "approvi",
+   "lui": "approva",
+   "noi": "approviamo",
+   "voi": "approvate",
+   "loro": "approvano"
+  },
+  "passato_prossimo": {
+   "io": "ho approvato",
+   "tu": "hai approvato",
+   "lui": "ha approvato",
+   "noi": "abbiamo approvato",
+   "voi": "avete approvato",
+   "loro": "hanno approvato"
+  },
+  "futuro": {
+   "io": "approverò",
+   "tu": "approverai",
+   "lui": "approverà",
+   "noi": "approveremo",
+   "voi": "approverete",
+   "loro": "approveranno"
+  }
+ },
+ {
+  "infinitive": "esigere",
+  "english": "to demand",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-ere",
+  "level": "B1",
+  "presente": {
+   "io": "esigo",
+   "tu": "esigi",
+   "lui": "esige",
+   "noi": "esigiamo",
+   "voi": "esigete",
+   "loro": "esigono"
+  },
+  "passato_prossimo": {
+   "io": "ho esiguto",
+   "tu": "hai esiguto",
+   "lui": "ha esiguto",
+   "noi": "abbiamo esiguto",
+   "voi": "avete esiguto",
+   "loro": "hanno esiguto"
+  },
+  "futuro": {
+   "io": "esigerò",
+   "tu": "esigerai",
+   "lui": "esigerà",
+   "noi": "esigeremo",
+   "voi": "esigerete",
+   "loro": "esigeranno"
+  }
+ },
+ {
+  "infinitive": "concedere",
+  "english": "to grant",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-ere",
+  "level": "B1",
+  "presente": {
+   "io": "concedo",
+   "tu": "concedi",
+   "lui": "concede",
+   "noi": "concediamo",
+   "voi": "concedete",
+   "loro": "concedono"
+  },
+  "passato_prossimo": {
+   "io": "ho conceduto",
+   "tu": "hai conceduto",
+   "lui": "ha conceduto",
+   "noi": "abbiamo conceduto",
+   "voi": "avete conceduto",
+   "loro": "hanno conceduto"
+  },
+  "futuro": {
+   "io": "concederò",
+   "tu": "concederai",
+   "lui": "concederà",
+   "noi": "concederemo",
+   "voi": "concederete",
+   "loro": "concederanno"
+  }
+ },
+ {
+  "infinitive": "consistere",
+  "english": "to consist",
+  "auxiliary": "essere",
+  "regularity": "regular",
+  "group": "-ere",
+  "level": "B1",
+  "presente": {
+   "io": "consisto",
+   "tu": "consisti",
+   "lui": "consiste",
+   "noi": "consistiamo",
+   "voi": "consistete",
+   "loro": "consistono"
+  },
+  "passato_prossimo": {
+   "io": "sono consistuto",
+   "tu": "sei consistuto",
+   "lui": "è consistuto",
+   "noi": "siamo consistuti",
+   "voi": "siete consistuti",
+   "loro": "sono consistuti"
+  },
+  "futuro": {
+   "io": "consisterò",
+   "tu": "consisterai",
+   "lui": "consisterà",
+   "noi": "consisteremo",
+   "voi": "consisterete",
+   "loro": "consisteranno"
+  }
+ },
+ {
+  "infinitive": "trasferire",
+  "english": "to transfer",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-ire (-isc-)",
+  "level": "B1",
+  "presente": {
+   "io": "trasferisco",
+   "tu": "trasferisci",
+   "lui": "trasferisce",
+   "noi": "trasferiamo",
+   "voi": "trasferite",
+   "loro": "trasferiscono"
+  },
+  "passato_prossimo": {
+   "io": "ho trasferito",
+   "tu": "hai trasferito",
+   "lui": "ha trasferito",
+   "noi": "abbiamo trasferito",
+   "voi": "avete trasferito",
+   "loro": "hanno trasferito"
+  },
+  "futuro": {
+   "io": "trasferirò",
+   "tu": "trasferirai",
+   "lui": "trasferirà",
+   "noi": "trasferiremo",
+   "voi": "trasferirete",
+   "loro": "trasferiranno"
+  }
+ },
+ {
+  "infinitive": "favorire",
+  "english": "to favor",
+  "auxiliary": "avere",
+  "regularity": "regular",
+  "group": "-ire (-isc-)",
+  "level": "B1",
+  "presente": {
+   "io": "favorisco",
+   "tu": "favorisci",
+   "lui": "favorisce",
+   "noi": "favoriamo",
+   "voi": "favorite",
+   "loro": "favoriscono"
+  },
+  "passato_prossimo": {
+   "io": "ho favorito",
+   "tu": "hai favorito",
+   "lui": "ha favorito",
+   "noi": "abbiamo favorito",
+   "voi": "avete favorito",
+   "loro": "hanno favorito"
+  },
+  "futuro": {
+   "io": "favorirò",
+   "tu": "favorirai",
+   "lui": "favorirà",
+   "noi": "favoriremo",
+   "voi": "favorirete",
+   "loro": "favoriranno"
+  }
+ },
+ {
+  "infinitive": "offrire",
+  "english": "to offer",
+  "auxiliary": "avere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "A2",
+  "presente": {
+   "io": "offro",
+   "tu": "offri",
+   "lui": "offre",
+   "noi": "offriamo",
+   "voi": "offrite",
+   "loro": "offrono"
+  },
+  "passato_prossimo": {
+   "io": "ho offerto",
+   "tu": "hai offerto",
+   "lui": "ha offerto",
+   "noi": "abbiamo offerto",
+   "voi": "avete offerto",
+   "loro": "hanno offerto"
+  },
+  "futuro": {
+   "io": "offrirò",
+   "tu": "offrirai",
+   "lui": "offrirà",
+   "noi": "offriremo",
+   "voi": "offrirete",
+   "loro": "offriranno"
+  }
+ },
+ {
+  "infinitive": "soffrire",
+  "english": "to suffer",
+  "auxiliary": "avere",
+  "regularity": "irregular",
+  "group": "irregular",
+  "level": "B1",
+  "presente": {
+   "io": "soffro",
+   "tu": "soffri",
+   "lui": "soffre",
+   "noi": "soffriamo",
+   "voi": "soffrite",
+   "loro": "soffrono"
+  },
+  "passato_prossimo": {
+   "io": "ho sofferto",
+   "tu": "hai sofferto",
+   "lui": "ha sofferto",
+   "noi": "abbiamo sofferto",
+   "voi": "avete sofferto",
+   "loro": "hanno sofferto"
+  },
+  "futuro": {
+   "io": "soffrirò",
+   "tu": "soffrirai",
+   "lui": "soffrirà",
+   "noi": "soffriremo",
+   "voi": "soffrirete",
+   "loro": "soffriranno"
+  }
+ }
+]

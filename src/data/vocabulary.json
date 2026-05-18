@@ -1,0 +1,9119 @@
+[
+ {
+  "italian": "ciao",
+  "english": "hi / bye",
+  "pos": "interj",
+  "example_it": "Ciao, come stai?",
+  "example_en": "Hi, how are you?",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "buongiorno",
+  "english": "good morning",
+  "pos": "interj",
+  "example_it": "Buongiorno, signora.",
+  "example_en": "Good morning, ma'am.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "buonasera",
+  "english": "good evening",
+  "pos": "interj",
+  "example_it": "Buonasera a tutti.",
+  "example_en": "Good evening, everyone.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "buonanotte",
+  "english": "good night",
+  "pos": "interj",
+  "example_it": "Buonanotte, a domani.",
+  "example_en": "Good night, see you tomorrow.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "grazie",
+  "english": "thank you",
+  "pos": "interj",
+  "example_it": "Grazie mille!",
+  "example_en": "Thanks a lot!",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "prego",
+  "english": "you're welcome",
+  "pos": "interj",
+  "example_it": "Prego, figurati.",
+  "example_en": "You're welcome, don't mention it.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "scusa",
+  "english": "sorry / excuse me",
+  "pos": "interj",
+  "example_it": "Scusa per il ritardo.",
+  "example_en": "Sorry I'm late.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "per favore",
+  "english": "please",
+  "pos": "adv",
+  "example_it": "Un caffè, per favore.",
+  "example_en": "A coffee, please.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "sì",
+  "english": "yes",
+  "pos": "adv",
+  "example_it": "Sì, certo.",
+  "example_en": "Yes, of course.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "no",
+  "english": "no",
+  "pos": "adv",
+  "example_it": "No, grazie.",
+  "example_en": "No, thanks.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "io",
+  "english": "I",
+  "pos": "pron",
+  "example_it": "Io sono Marco.",
+  "example_en": "I am Marco.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "tu",
+  "english": "you (singular)",
+  "pos": "pron",
+  "example_it": "Tu sei italiano?",
+  "example_en": "Are you Italian?",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "lui",
+  "english": "he",
+  "pos": "pron",
+  "example_it": "Lui è mio fratello.",
+  "example_en": "He is my brother.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "lei",
+  "english": "she",
+  "pos": "pron",
+  "example_it": "Lei abita a Roma.",
+  "example_en": "She lives in Rome.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "noi",
+  "english": "we",
+  "pos": "pron",
+  "example_it": "Noi siamo amici.",
+  "example_en": "We are friends.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "voi",
+  "english": "you (plural)",
+  "pos": "pron",
+  "example_it": "Voi parlate inglese?",
+  "example_en": "Do you (all) speak English?",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "loro",
+  "english": "they",
+  "pos": "pron",
+  "example_it": "Loro sono in vacanza.",
+  "example_en": "They are on vacation.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "il",
+  "english": "the (m. sg.)",
+  "pos": "art",
+  "example_it": "Il libro è sul tavolo.",
+  "example_en": "The book is on the table.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "la",
+  "english": "the (f. sg.)",
+  "pos": "art",
+  "example_it": "La casa è grande.",
+  "example_en": "The house is big.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "lo",
+  "english": "the (m. sg., before s+cons, z, ps)",
+  "pos": "art",
+  "example_it": "Lo zaino è pesante.",
+  "example_en": "The backpack is heavy.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "i",
+  "english": "the (m. pl.)",
+  "pos": "art",
+  "example_it": "I bambini giocano.",
+  "example_en": "The children are playing.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "le",
+  "english": "the (f. pl.)",
+  "pos": "art",
+  "example_it": "Le ragazze cantano.",
+  "example_en": "The girls are singing.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "gli",
+  "english": "the (m. pl., before vowel/s+cons/z)",
+  "pos": "art",
+  "example_it": "Gli amici arrivano.",
+  "example_en": "The friends are arriving.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "un",
+  "english": "a (m.)",
+  "pos": "art",
+  "example_it": "Un caffè, grazie.",
+  "example_en": "A coffee, please.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "una",
+  "english": "a (f.)",
+  "pos": "art",
+  "example_it": "Una mela rossa.",
+  "example_en": "A red apple.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "famiglia",
+  "english": "family",
+  "pos": "noun",
+  "example_it": "La mia famiglia è grande.",
+  "example_en": "My family is big.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "madre",
+  "english": "mother",
+  "pos": "noun",
+  "example_it": "Mia madre cucina bene.",
+  "example_en": "My mother cooks well.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "padre",
+  "english": "father",
+  "pos": "noun",
+  "example_it": "Mio padre lavora.",
+  "example_en": "My father works.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "fratello",
+  "english": "brother",
+  "pos": "noun",
+  "example_it": "Ho un fratello.",
+  "example_en": "I have a brother.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "sorella",
+  "english": "sister",
+  "pos": "noun",
+  "example_it": "Mia sorella studia.",
+  "example_en": "My sister studies.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "figlio",
+  "english": "son",
+  "pos": "noun",
+  "example_it": "Il loro figlio è piccolo.",
+  "example_en": "Their son is small.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "figlia",
+  "english": "daughter",
+  "pos": "noun",
+  "example_it": "La sua figlia ha dieci anni.",
+  "example_en": "His daughter is ten.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "amico",
+  "english": "friend (m.)",
+  "pos": "noun",
+  "example_it": "Marco è il mio amico.",
+  "example_en": "Marco is my friend.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "amica",
+  "english": "friend (f.)",
+  "pos": "noun",
+  "example_it": "Lei è la mia amica.",
+  "example_en": "She is my friend.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "pane",
+  "english": "bread",
+  "pos": "noun",
+  "example_it": "Il pane è fresco.",
+  "example_en": "The bread is fresh.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "acqua",
+  "english": "water",
+  "pos": "noun",
+  "example_it": "Bevo acqua.",
+  "example_en": "I drink water.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "vino",
+  "english": "wine",
+  "pos": "noun",
+  "example_it": "Il vino italiano è famoso.",
+  "example_en": "Italian wine is famous.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "caffè",
+  "english": "coffee",
+  "pos": "noun",
+  "example_it": "Un caffè, per favore.",
+  "example_en": "A coffee, please.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "latte",
+  "english": "milk",
+  "pos": "noun",
+  "example_it": "Bevo il latte.",
+  "example_en": "I drink milk.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "mela",
+  "english": "apple",
+  "pos": "noun",
+  "example_it": "Mangio una mela.",
+  "example_en": "I eat an apple.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "pizza",
+  "english": "pizza",
+  "pos": "noun",
+  "example_it": "La pizza è buona.",
+  "example_en": "The pizza is good.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "pasta",
+  "english": "pasta",
+  "pos": "noun",
+  "example_it": "Mangio la pasta.",
+  "example_en": "I eat pasta.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "carne",
+  "english": "meat",
+  "pos": "noun",
+  "example_it": "Non mangio la carne.",
+  "example_en": "I don't eat meat.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "pesce",
+  "english": "fish",
+  "pos": "noun",
+  "example_it": "Il pesce è fresco.",
+  "example_en": "The fish is fresh.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "uno",
+  "english": "one",
+  "pos": "num",
+  "example_it": "Uno, due, tre.",
+  "example_en": "One, two, three.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "due",
+  "english": "two",
+  "pos": "num",
+  "example_it": "Ho due fratelli.",
+  "example_en": "I have two brothers.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "tre",
+  "english": "three",
+  "pos": "num",
+  "example_it": "Tre caffè, grazie.",
+  "example_en": "Three coffees, please.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "oggi",
+  "english": "today",
+  "pos": "adv",
+  "example_it": "Oggi è lunedì.",
+  "example_en": "Today is Monday.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "domani",
+  "english": "tomorrow",
+  "pos": "adv",
+  "example_it": "Domani vado a Roma.",
+  "example_en": "Tomorrow I'm going to Rome.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "ieri",
+  "english": "yesterday",
+  "pos": "adv",
+  "example_it": "Ieri ho lavorato.",
+  "example_en": "Yesterday I worked.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "ora",
+  "english": "now / hour",
+  "pos": "adv",
+  "example_it": "Vado a casa ora.",
+  "example_en": "I'm going home now.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "sempre",
+  "english": "always",
+  "pos": "adv",
+  "example_it": "Sono sempre in ritardo.",
+  "example_en": "I'm always late.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "mai",
+  "english": "never",
+  "pos": "adv",
+  "example_it": "Non bevo mai vino.",
+  "example_en": "I never drink wine.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "buono",
+  "english": "good",
+  "pos": "adj",
+  "example_it": "Il caffè è buono.",
+  "example_en": "The coffee is good.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "cattivo",
+  "english": "bad",
+  "pos": "adj",
+  "example_it": "È un film cattivo.",
+  "example_en": "It's a bad movie.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "grande",
+  "english": "big / great",
+  "pos": "adj",
+  "example_it": "Roma è una grande città.",
+  "example_en": "Rome is a big city.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "piccolo",
+  "english": "small",
+  "pos": "adj",
+  "example_it": "Ho una piccola casa.",
+  "example_en": "I have a small house.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "bello",
+  "english": "beautiful / nice",
+  "pos": "adj",
+  "example_it": "Che bella giornata!",
+  "example_en": "What a nice day!",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "brutto",
+  "english": "ugly / bad",
+  "pos": "adj",
+  "example_it": "Fa brutto tempo.",
+  "example_en": "The weather is bad.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "nuovo",
+  "english": "new",
+  "pos": "adj",
+  "example_it": "Ho un nuovo lavoro.",
+  "example_en": "I have a new job.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "vecchio",
+  "english": "old",
+  "pos": "adj",
+  "example_it": "Questo libro è vecchio.",
+  "example_en": "This book is old.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "caldo",
+  "english": "hot",
+  "pos": "adj",
+  "example_it": "Il caffè è caldo.",
+  "example_en": "The coffee is hot.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "freddo",
+  "english": "cold",
+  "pos": "adj",
+  "example_it": "Fa freddo oggi.",
+  "example_en": "It's cold today.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "stanco",
+  "english": "tired",
+  "pos": "adj",
+  "example_it": "Sono stanco.",
+  "example_en": "I am tired.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "felice",
+  "english": "happy",
+  "pos": "adj",
+  "example_it": "Sono felice oggi.",
+  "example_en": "I'm happy today.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "a",
+  "english": "to / at",
+  "pos": "prep",
+  "example_it": "Vado a Roma.",
+  "example_en": "I'm going to Rome.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "in",
+  "english": "in",
+  "pos": "prep",
+  "example_it": "Sono in casa.",
+  "example_en": "I'm at home.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "di",
+  "english": "of / from",
+  "pos": "prep",
+  "example_it": "Sono di Milano.",
+  "example_en": "I'm from Milan.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "con",
+  "english": "with",
+  "pos": "prep",
+  "example_it": "Vado con Marco.",
+  "example_en": "I'm going with Marco.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "per",
+  "english": "for / through",
+  "pos": "prep",
+  "example_it": "Questo è per te.",
+  "example_en": "This is for you.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "su",
+  "english": "on",
+  "pos": "prep",
+  "example_it": "Il libro è sul tavolo.",
+  "example_en": "The book is on the table.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "da",
+  "english": "from / by / at (someone's place)",
+  "pos": "prep",
+  "example_it": "Vengo da Roma.",
+  "example_en": "I come from Rome.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "casa",
+  "english": "house / home",
+  "pos": "noun",
+  "example_it": "Vado a casa.",
+  "example_en": "I'm going home.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "scuola",
+  "english": "school",
+  "pos": "noun",
+  "example_it": "I bambini vanno a scuola.",
+  "example_en": "The children go to school.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "lavoro",
+  "english": "work / job",
+  "pos": "noun",
+  "example_it": "Vado al lavoro.",
+  "example_en": "I'm going to work.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "città",
+  "english": "city",
+  "pos": "noun",
+  "example_it": "Roma è una bella città.",
+  "example_en": "Rome is a beautiful city.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "paese",
+  "english": "country / village",
+  "pos": "noun",
+  "example_it": "L'Italia è un bel paese.",
+  "example_en": "Italy is a beautiful country.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "strada",
+  "english": "street",
+  "pos": "noun",
+  "example_it": "La strada è lunga.",
+  "example_en": "The street is long.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "mangiare",
+  "english": "to eat",
+  "pos": "verb",
+  "example_it": "Mi piace mangiare la pizza.",
+  "example_en": "I like to eat pizza.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "bere",
+  "english": "to drink",
+  "pos": "verb",
+  "example_it": "Bere acqua è importante.",
+  "example_en": "Drinking water is important.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "andare",
+  "english": "to go",
+  "pos": "verb",
+  "example_it": "Voglio andare al mare.",
+  "example_en": "I want to go to the sea.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "venire",
+  "english": "to come",
+  "pos": "verb",
+  "example_it": "Puoi venire con me?",
+  "example_en": "Can you come with me?",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "fare",
+  "english": "to do / to make",
+  "pos": "verb",
+  "example_it": "Cosa fai oggi?",
+  "example_en": "What are you doing today?",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "essere",
+  "english": "to be",
+  "pos": "verb",
+  "example_it": "Voglio essere felice.",
+  "example_en": "I want to be happy.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "avere",
+  "english": "to have",
+  "pos": "verb",
+  "example_it": "Avere fame è normale.",
+  "example_en": "Being hungry is normal.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "parlare",
+  "english": "to speak",
+  "pos": "verb",
+  "example_it": "Parlo italiano.",
+  "example_en": "I speak Italian.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "perché",
+  "english": "because / why",
+  "pos": "conj",
+  "example_it": "Studio perché mi piace.",
+  "example_en": "I study because I like it.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "quando",
+  "english": "when",
+  "pos": "conj",
+  "example_it": "Quando arrivi?",
+  "example_en": "When are you arriving?",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "mentre",
+  "english": "while",
+  "pos": "conj",
+  "example_it": "Leggo mentre mangio.",
+  "example_en": "I read while I eat.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "anche",
+  "english": "also / too",
+  "pos": "adv",
+  "example_it": "Anche io vengo.",
+  "example_en": "I'm coming too.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "però",
+  "english": "however / but",
+  "pos": "conj",
+  "example_it": "Mi piace, però è caro.",
+  "example_en": "I like it, but it's expensive.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "ancora",
+  "english": "still / again",
+  "pos": "adv",
+  "example_it": "Sono ancora qui.",
+  "example_en": "I'm still here.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "già",
+  "english": "already",
+  "pos": "adv",
+  "example_it": "Ho già mangiato.",
+  "example_en": "I've already eaten.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "appena",
+  "english": "just / as soon as",
+  "pos": "adv",
+  "example_it": "Sono appena arrivato.",
+  "example_en": "I just arrived.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "mi",
+  "english": "me / to me",
+  "pos": "pron",
+  "example_it": "Mi chiama spesso.",
+  "example_en": "He calls me often.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "ti",
+  "english": "you / to you",
+  "pos": "pron",
+  "example_it": "Ti scrivo domani.",
+  "example_en": "I'll write to you tomorrow.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "ci",
+  "english": "us / there",
+  "pos": "pron",
+  "example_it": "Ci vediamo dopo.",
+  "example_en": "See you later.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "vi",
+  "english": "you all / to you all",
+  "pos": "pron",
+  "example_it": "Vi aspetto fuori.",
+  "example_en": "I'll wait for you all outside.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "ne",
+  "english": "of it / of them",
+  "pos": "pron",
+  "example_it": "Ne voglio due.",
+  "example_en": "I want two of them.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "tempo",
+  "english": "time / weather",
+  "pos": "noun",
+  "example_it": "Non ho tempo.",
+  "example_en": "I don't have time.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "anno",
+  "english": "year",
+  "pos": "noun",
+  "example_it": "Ho trent'anni.",
+  "example_en": "I am thirty years old.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "settimana",
+  "english": "week",
+  "pos": "noun",
+  "example_it": "La settimana prossima.",
+  "example_en": "Next week.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "giorno",
+  "english": "day",
+  "pos": "noun",
+  "example_it": "Che giorno è oggi?",
+  "example_en": "What day is it today?",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "vita",
+  "english": "life",
+  "pos": "noun",
+  "example_it": "La vita è bella.",
+  "example_en": "Life is beautiful.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "soldi",
+  "english": "money",
+  "pos": "noun",
+  "example_it": "Non ho soldi.",
+  "example_en": "I don't have money.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "macchina",
+  "english": "car",
+  "pos": "noun",
+  "example_it": "La mia macchina è nuova.",
+  "example_en": "My car is new.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "treno",
+  "english": "train",
+  "pos": "noun",
+  "example_it": "Il treno è in ritardo.",
+  "example_en": "The train is late.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "aereo",
+  "english": "airplane",
+  "pos": "noun",
+  "example_it": "L'aereo parte alle dieci.",
+  "example_en": "The plane leaves at ten.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "pensare",
+  "english": "to think",
+  "pos": "verb",
+  "example_it": "Penso che sia vero.",
+  "example_en": "I think it's true.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "credere",
+  "english": "to believe",
+  "pos": "verb",
+  "example_it": "Credo di sì.",
+  "example_en": "I believe so.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "sembrare",
+  "english": "to seem",
+  "pos": "verb",
+  "example_it": "Sembra interessante.",
+  "example_en": "It seems interesting.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "piacere",
+  "english": "to please / to like",
+  "pos": "verb",
+  "example_it": "Mi piace l'Italia.",
+  "example_en": "I like Italy.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "sviluppare",
+  "english": "to develop",
+  "pos": "verb",
+  "example_it": "Vogliamo sviluppare il progetto.",
+  "example_en": "We want to develop the project.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "decidere",
+  "english": "to decide",
+  "pos": "verb",
+  "example_it": "Devo decidere oggi.",
+  "example_en": "I have to decide today.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "succedere",
+  "english": "to happen",
+  "pos": "verb",
+  "example_it": "Cosa è successo?",
+  "example_en": "What happened?",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "diventare",
+  "english": "to become",
+  "pos": "verb",
+  "example_it": "Vuole diventare medico.",
+  "example_en": "He wants to become a doctor.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "spiegare",
+  "english": "to explain",
+  "pos": "verb",
+  "example_it": "Puoi spiegare di nuovo?",
+  "example_en": "Can you explain again?",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "ricordare",
+  "english": "to remember",
+  "pos": "verb",
+  "example_it": "Non ricordo il nome.",
+  "example_en": "I don't remember the name.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "dimenticare",
+  "english": "to forget",
+  "pos": "verb",
+  "example_it": "Ho dimenticato le chiavi.",
+  "example_en": "I forgot the keys.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "cercare",
+  "english": "to look for",
+  "pos": "verb",
+  "example_it": "Cerco un appartamento.",
+  "example_en": "I'm looking for an apartment.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "trovare",
+  "english": "to find",
+  "pos": "verb",
+  "example_it": "Ho trovato il libro.",
+  "example_en": "I found the book.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "perdere",
+  "english": "to lose / to miss",
+  "pos": "verb",
+  "example_it": "Ho perso il treno.",
+  "example_en": "I missed the train.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "idea",
+  "english": "idea",
+  "pos": "noun",
+  "example_it": "Ho un'idea.",
+  "example_en": "I have an idea.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "opinione",
+  "english": "opinion",
+  "pos": "noun",
+  "example_it": "Qual è la tua opinione?",
+  "example_en": "What is your opinion?",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "problema",
+  "english": "problem",
+  "pos": "noun",
+  "example_it": "Non c'è problema.",
+  "example_en": "There's no problem.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "soluzione",
+  "english": "solution",
+  "pos": "noun",
+  "example_it": "Cerco una soluzione.",
+  "example_en": "I'm looking for a solution.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "motivo",
+  "english": "reason",
+  "pos": "noun",
+  "example_it": "Per quale motivo?",
+  "example_en": "For what reason?",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "esempio",
+  "english": "example",
+  "pos": "noun",
+  "example_it": "Per esempio, questo.",
+  "example_en": "For example, this.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "differenza",
+  "english": "difference",
+  "pos": "noun",
+  "example_it": "Qual è la differenza?",
+  "example_en": "What's the difference?",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "futuro",
+  "english": "future",
+  "pos": "noun",
+  "example_it": "Penso al futuro.",
+  "example_en": "I think about the future.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "passato",
+  "english": "past",
+  "pos": "noun",
+  "example_it": "Il passato è passato.",
+  "example_en": "The past is the past.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "presente",
+  "english": "present",
+  "pos": "noun",
+  "example_it": "Vivi nel presente.",
+  "example_en": "Live in the present.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "utile",
+  "english": "useful",
+  "pos": "adj",
+  "example_it": "L'italiano è utile.",
+  "example_en": "Italian is useful.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "difficile",
+  "english": "difficult",
+  "pos": "adj",
+  "example_it": "È difficile da capire.",
+  "example_en": "It's hard to understand.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "facile",
+  "english": "easy",
+  "pos": "adj",
+  "example_it": "Non è facile.",
+  "example_en": "It's not easy.",
+  "level": "B1",
+  "difficulty": 2
+ },
+ {
+  "italian": "importante",
+  "english": "important",
+  "pos": "adj",
+  "example_it": "È importante studiare.",
+  "example_en": "It's important to study.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "possibile",
+  "english": "possible",
+  "pos": "adj",
+  "example_it": "È possibile?",
+  "example_en": "Is it possible?",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "necessario",
+  "english": "necessary",
+  "pos": "adj",
+  "example_it": "Non è necessario.",
+  "example_en": "It's not necessary.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "probabilmente",
+  "english": "probably",
+  "pos": "adv",
+  "example_it": "Probabilmente vengo.",
+  "example_en": "I'll probably come.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "veramente",
+  "english": "really / truly",
+  "pos": "adv",
+  "example_it": "Veramente non lo so.",
+  "example_en": "I really don't know.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "quattro",
+  "english": "four",
+  "pos": "num",
+  "example_it": "Ho quattro libri.",
+  "example_en": "I have four books.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "cinque",
+  "english": "five",
+  "pos": "num",
+  "example_it": "Sono le cinque.",
+  "example_en": "It's five o'clock.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "sei",
+  "english": "six",
+  "pos": "num",
+  "example_it": "Sei anni.",
+  "example_en": "Six years.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "sette",
+  "english": "seven",
+  "pos": "num",
+  "example_it": "Sette giorni.",
+  "example_en": "Seven days.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "otto",
+  "english": "eight",
+  "pos": "num",
+  "example_it": "Otto ore.",
+  "example_en": "Eight hours.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "nove",
+  "english": "nine",
+  "pos": "num",
+  "example_it": "Le nove di sera.",
+  "example_en": "Nine in the evening.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "dieci",
+  "english": "ten",
+  "pos": "num",
+  "example_it": "Dieci minuti.",
+  "example_en": "Ten minutes.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "undici",
+  "english": "eleven",
+  "pos": "num",
+  "example_it": "Undici amici.",
+  "example_en": "Eleven friends.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "dodici",
+  "english": "twelve",
+  "pos": "num",
+  "example_it": "Dodici mesi.",
+  "example_en": "Twelve months.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "tredici",
+  "english": "thirteen",
+  "pos": "num",
+  "example_it": "Tredici anni.",
+  "example_en": "Thirteen years.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "quattordici",
+  "english": "fourteen",
+  "pos": "num",
+  "example_it": "Quattordici giorni.",
+  "example_en": "Fourteen days.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "quindici",
+  "english": "fifteen",
+  "pos": "num",
+  "example_it": "Quindici euro.",
+  "example_en": "Fifteen euros.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "sedici",
+  "english": "sixteen",
+  "pos": "num",
+  "example_it": "Sedici studenti.",
+  "example_en": "Sixteen students.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "diciassette",
+  "english": "seventeen",
+  "pos": "num",
+  "example_it": "Diciassette anni.",
+  "example_en": "Seventeen years old.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "diciotto",
+  "english": "eighteen",
+  "pos": "num",
+  "example_it": "A diciotto anni.",
+  "example_en": "At eighteen.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "diciannove",
+  "english": "nineteen",
+  "pos": "num",
+  "example_it": "Diciannove euro.",
+  "example_en": "Nineteen euros.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "venti",
+  "english": "twenty",
+  "pos": "num",
+  "example_it": "Venti minuti.",
+  "example_en": "Twenty minutes.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "trenta",
+  "english": "thirty",
+  "pos": "num",
+  "example_it": "Trenta giorni.",
+  "example_en": "Thirty days.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "quaranta",
+  "english": "forty",
+  "pos": "num",
+  "example_it": "Quaranta anni.",
+  "example_en": "Forty years.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "cinquanta",
+  "english": "fifty",
+  "pos": "num",
+  "example_it": "Cinquanta euro.",
+  "example_en": "Fifty euros.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "sessanta",
+  "english": "sixty",
+  "pos": "num",
+  "example_it": "Sessanta secondi.",
+  "example_en": "Sixty seconds.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "settanta",
+  "english": "seventy",
+  "pos": "num",
+  "example_it": "Settanta euro.",
+  "example_en": "Seventy euros.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "ottanta",
+  "english": "eighty",
+  "pos": "num",
+  "example_it": "Ottanta anni.",
+  "example_en": "Eighty years.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "novanta",
+  "english": "ninety",
+  "pos": "num",
+  "example_it": "Novanta minuti.",
+  "example_en": "Ninety minutes.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "cento",
+  "english": "one hundred",
+  "pos": "num",
+  "example_it": "Cento euro.",
+  "example_en": "One hundred euros.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "mille",
+  "english": "one thousand",
+  "pos": "num",
+  "example_it": "Mille grazie.",
+  "example_en": "Thousand thanks.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "milione",
+  "english": "million",
+  "pos": "num",
+  "example_it": "Un milione di euro.",
+  "example_en": "A million euros.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "primo",
+  "english": "first",
+  "pos": "num",
+  "example_it": "Il primo giorno.",
+  "example_en": "The first day.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "secondo",
+  "english": "second",
+  "pos": "num",
+  "example_it": "Il secondo posto.",
+  "example_en": "Second place.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "terzo",
+  "english": "third",
+  "pos": "num",
+  "example_it": "Il terzo piano.",
+  "example_en": "The third floor.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "ultimo",
+  "english": "last",
+  "pos": "adj",
+  "example_it": "L'ultimo treno.",
+  "example_en": "The last train.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "lunedì",
+  "english": "Monday",
+  "pos": "noun",
+  "example_it": "Ci vediamo lunedì.",
+  "example_en": "See you Monday.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "martedì",
+  "english": "Tuesday",
+  "pos": "noun",
+  "example_it": "Martedì lavoro.",
+  "example_en": "Tuesday I work.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "mercoledì",
+  "english": "Wednesday",
+  "pos": "noun",
+  "example_it": "Mercoledì pomeriggio.",
+  "example_en": "Wednesday afternoon.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "giovedì",
+  "english": "Thursday",
+  "pos": "noun",
+  "example_it": "Giovedì sera.",
+  "example_en": "Thursday evening.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "venerdì",
+  "english": "Friday",
+  "pos": "noun",
+  "example_it": "Venerdì è festa.",
+  "example_en": "Friday is a holiday.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "sabato",
+  "english": "Saturday",
+  "pos": "noun",
+  "example_it": "Sabato non lavoro.",
+  "example_en": "Saturday I don't work.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "domenica",
+  "english": "Sunday",
+  "pos": "noun",
+  "example_it": "Domenica andiamo al mare.",
+  "example_en": "Sunday we go to the beach.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "gennaio",
+  "english": "January",
+  "pos": "noun",
+  "example_it": "A gennaio fa freddo.",
+  "example_en": "It's cold in January.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "febbraio",
+  "english": "February",
+  "pos": "noun",
+  "example_it": "Febbraio è corto.",
+  "example_en": "February is short.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "marzo",
+  "english": "March",
+  "pos": "noun",
+  "example_it": "A marzo arriva la primavera.",
+  "example_en": "Spring arrives in March.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "aprile",
+  "english": "April",
+  "pos": "noun",
+  "example_it": "Ad aprile piove spesso.",
+  "example_en": "It rains a lot in April.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "maggio",
+  "english": "May",
+  "pos": "noun",
+  "example_it": "Maggio è bello.",
+  "example_en": "May is beautiful.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "giugno",
+  "english": "June",
+  "pos": "noun",
+  "example_it": "A giugno finisce la scuola.",
+  "example_en": "School ends in June.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "luglio",
+  "english": "July",
+  "pos": "noun",
+  "example_it": "Luglio è caldo.",
+  "example_en": "July is hot.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "agosto",
+  "english": "August",
+  "pos": "noun",
+  "example_it": "Ad agosto vado in vacanza.",
+  "example_en": "I go on vacation in August.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "settembre",
+  "english": "September",
+  "pos": "noun",
+  "example_it": "A settembre torna la scuola.",
+  "example_en": "School returns in September.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "ottobre",
+  "english": "October",
+  "pos": "noun",
+  "example_it": "Ottobre è autunno.",
+  "example_en": "October is autumn.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "novembre",
+  "english": "November",
+  "pos": "noun",
+  "example_it": "Novembre è grigio.",
+  "example_en": "November is gray.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "dicembre",
+  "english": "December",
+  "pos": "noun",
+  "example_it": "A dicembre nevica.",
+  "example_en": "It snows in December.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "mese",
+  "english": "month",
+  "pos": "noun",
+  "example_it": "Questo mese.",
+  "example_en": "This month.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "minuto",
+  "english": "minute",
+  "pos": "noun",
+  "example_it": "Un minuto, per favore.",
+  "example_en": "One minute, please.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "mattina",
+  "english": "morning",
+  "pos": "noun",
+  "example_it": "Di mattina presto.",
+  "example_en": "Early in the morning.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "pomeriggio",
+  "english": "afternoon",
+  "pos": "noun",
+  "example_it": "Nel pomeriggio.",
+  "example_en": "In the afternoon.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "sera",
+  "english": "evening",
+  "pos": "noun",
+  "example_it": "Buona sera.",
+  "example_en": "Good evening.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "notte",
+  "english": "night",
+  "pos": "noun",
+  "example_it": "Buona notte.",
+  "example_en": "Good night.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "weekend",
+  "english": "weekend",
+  "pos": "noun",
+  "example_it": "Buon weekend!",
+  "example_en": "Have a good weekend!",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "testa",
+  "english": "head",
+  "pos": "noun",
+  "example_it": "Mi fa male la testa.",
+  "example_en": "My head hurts.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "capelli",
+  "english": "hair",
+  "pos": "noun",
+  "example_it": "Ha i capelli lunghi.",
+  "example_en": "She has long hair.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "occhio",
+  "english": "eye",
+  "pos": "noun",
+  "example_it": "Ha gli occhi azzurri.",
+  "example_en": "He has blue eyes.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "naso",
+  "english": "nose",
+  "pos": "noun",
+  "example_it": "Ho il naso chiuso.",
+  "example_en": "My nose is stuffy.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "bocca",
+  "english": "mouth",
+  "pos": "noun",
+  "example_it": "Apri la bocca.",
+  "example_en": "Open your mouth.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "dente",
+  "english": "tooth",
+  "pos": "noun",
+  "example_it": "Mi fa male un dente.",
+  "example_en": "A tooth hurts.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "orecchio",
+  "english": "ear",
+  "pos": "noun",
+  "example_it": "Ho mal d'orecchio.",
+  "example_en": "I have an earache.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "viso",
+  "english": "face",
+  "pos": "noun",
+  "example_it": "Lavati il viso.",
+  "example_en": "Wash your face.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "collo",
+  "english": "neck",
+  "pos": "noun",
+  "example_it": "Mi fa male il collo.",
+  "example_en": "My neck hurts.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "braccio",
+  "english": "arm",
+  "pos": "noun",
+  "example_it": "Mi sono rotto il braccio.",
+  "example_en": "I broke my arm.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "mano",
+  "english": "hand",
+  "pos": "noun",
+  "example_it": "Dammi la mano.",
+  "example_en": "Give me your hand.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "dito",
+  "english": "finger",
+  "pos": "noun",
+  "example_it": "Ha cinque dita.",
+  "example_en": "There are five fingers.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "gamba",
+  "english": "leg",
+  "pos": "noun",
+  "example_it": "Mi fa male la gamba.",
+  "example_en": "My leg hurts.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "piede",
+  "english": "foot",
+  "pos": "noun",
+  "example_it": "I miei piedi sono freddi.",
+  "example_en": "My feet are cold.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "schiena",
+  "english": "back",
+  "pos": "noun",
+  "example_it": "Mi fa male la schiena.",
+  "example_en": "My back hurts.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "stomaco",
+  "english": "stomach",
+  "pos": "noun",
+  "example_it": "Ho mal di stomaco.",
+  "example_en": "I have a stomachache.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "cuore",
+  "english": "heart",
+  "pos": "noun",
+  "example_it": "Il cuore batte forte.",
+  "example_en": "The heart beats hard.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "corpo",
+  "english": "body",
+  "pos": "noun",
+  "example_it": "Il corpo umano.",
+  "example_en": "The human body.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "rosso",
+  "english": "red",
+  "pos": "adj",
+  "example_it": "Una mela rossa.",
+  "example_en": "A red apple.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "blu",
+  "english": "blue",
+  "pos": "adj",
+  "example_it": "Il cielo è blu.",
+  "example_en": "The sky is blue.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "azzurro",
+  "english": "light blue",
+  "pos": "adj",
+  "example_it": "Occhi azzurri.",
+  "example_en": "Light blue eyes.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "verde",
+  "english": "green",
+  "pos": "adj",
+  "example_it": "L'erba è verde.",
+  "example_en": "The grass is green.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "giallo",
+  "english": "yellow",
+  "pos": "adj",
+  "example_it": "Il sole è giallo.",
+  "example_en": "The sun is yellow.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "nero",
+  "english": "black",
+  "pos": "adj",
+  "example_it": "Un caffè nero.",
+  "example_en": "A black coffee.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "bianco",
+  "english": "white",
+  "pos": "adj",
+  "example_it": "Una camicia bianca.",
+  "example_en": "A white shirt.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "grigio",
+  "english": "gray",
+  "pos": "adj",
+  "example_it": "Il cielo è grigio.",
+  "example_en": "The sky is gray.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "marrone",
+  "english": "brown",
+  "pos": "adj",
+  "example_it": "Scarpe marroni.",
+  "example_en": "Brown shoes.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "rosa",
+  "english": "pink",
+  "pos": "adj",
+  "example_it": "Un fiore rosa.",
+  "example_en": "A pink flower.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "arancione",
+  "english": "orange (color)",
+  "pos": "adj",
+  "example_it": "Una maglia arancione.",
+  "example_en": "An orange shirt.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "viola",
+  "english": "purple",
+  "pos": "adj",
+  "example_it": "Un vestito viola.",
+  "example_en": "A purple dress.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "colore",
+  "english": "color",
+  "pos": "noun",
+  "example_it": "Quale colore preferisci?",
+  "example_en": "Which color do you prefer?",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "sole",
+  "english": "sun",
+  "pos": "noun",
+  "example_it": "C'è il sole oggi.",
+  "example_en": "It's sunny today.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "pioggia",
+  "english": "rain",
+  "pos": "noun",
+  "example_it": "Mi piace la pioggia.",
+  "example_en": "I like the rain.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "neve",
+  "english": "snow",
+  "pos": "noun",
+  "example_it": "La neve è bianca.",
+  "example_en": "Snow is white.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "vento",
+  "english": "wind",
+  "pos": "noun",
+  "example_it": "C'è vento forte.",
+  "example_en": "There is strong wind.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "nuvola",
+  "english": "cloud",
+  "pos": "noun",
+  "example_it": "Una grande nuvola.",
+  "example_en": "A big cloud.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "cielo",
+  "english": "sky",
+  "pos": "noun",
+  "example_it": "Il cielo è azzurro.",
+  "example_en": "The sky is light blue.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "temperatura",
+  "english": "temperature",
+  "pos": "noun",
+  "example_it": "La temperatura è alta.",
+  "example_en": "The temperature is high.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "piovere",
+  "english": "to rain",
+  "pos": "verb",
+  "example_it": "Sta piovendo.",
+  "example_en": "It's raining.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "nevicare",
+  "english": "to snow",
+  "pos": "verb",
+  "example_it": "Nevica in montagna.",
+  "example_en": "It snows in the mountains.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "nebbia",
+  "english": "fog",
+  "pos": "noun",
+  "example_it": "C'è nebbia stamattina.",
+  "example_en": "There's fog this morning.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "stagione",
+  "english": "season",
+  "pos": "noun",
+  "example_it": "La mia stagione preferita.",
+  "example_en": "My favorite season.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "primavera",
+  "english": "spring",
+  "pos": "noun",
+  "example_it": "In primavera fioriscono i fiori.",
+  "example_en": "Flowers bloom in spring.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "estate",
+  "english": "summer",
+  "pos": "noun",
+  "example_it": "L'estate è calda.",
+  "example_en": "Summer is hot.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "autunno",
+  "english": "autumn",
+  "pos": "noun",
+  "example_it": "In autunno cadono le foglie.",
+  "example_en": "Leaves fall in autumn.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "inverno",
+  "english": "winter",
+  "pos": "noun",
+  "example_it": "L'inverno è freddo.",
+  "example_en": "Winter is cold.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "cane",
+  "english": "dog",
+  "pos": "noun",
+  "example_it": "Il mio cane è grande.",
+  "example_en": "My dog is big.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "gatto",
+  "english": "cat",
+  "pos": "noun",
+  "example_it": "Il gatto dorme.",
+  "example_en": "The cat is sleeping.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "uccello",
+  "english": "bird",
+  "pos": "noun",
+  "example_it": "L'uccello canta.",
+  "example_en": "The bird sings.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "cavallo",
+  "english": "horse",
+  "pos": "noun",
+  "example_it": "Un cavallo bianco.",
+  "example_en": "A white horse.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "mucca",
+  "english": "cow",
+  "pos": "noun",
+  "example_it": "La mucca dà il latte.",
+  "example_en": "The cow gives milk.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "maiale",
+  "english": "pig",
+  "pos": "noun",
+  "example_it": "Il maiale è rosa.",
+  "example_en": "The pig is pink.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "pollo",
+  "english": "chicken",
+  "pos": "noun",
+  "example_it": "Mangio il pollo.",
+  "example_en": "I eat chicken.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "topo",
+  "english": "mouse",
+  "pos": "noun",
+  "example_it": "Il gatto caccia il topo.",
+  "example_en": "The cat hunts the mouse.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "animale",
+  "english": "animal",
+  "pos": "noun",
+  "example_it": "Un animale domestico.",
+  "example_en": "A pet.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "vestito",
+  "english": "dress / suit",
+  "pos": "noun",
+  "example_it": "Un bel vestito.",
+  "example_en": "A nice dress.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "camicia",
+  "english": "shirt",
+  "pos": "noun",
+  "example_it": "Una camicia bianca.",
+  "example_en": "A white shirt.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "pantaloni",
+  "english": "pants",
+  "pos": "noun",
+  "example_it": "I pantaloni sono nuovi.",
+  "example_en": "The pants are new.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "scarpe",
+  "english": "shoes",
+  "pos": "noun",
+  "example_it": "Mi piacciono queste scarpe.",
+  "example_en": "I like these shoes.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "cappello",
+  "english": "hat",
+  "pos": "noun",
+  "example_it": "Porto un cappello.",
+  "example_en": "I'm wearing a hat.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "giacca",
+  "english": "jacket",
+  "pos": "noun",
+  "example_it": "Fa freddo, prendi la giacca.",
+  "example_en": "It's cold, take the jacket.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "maglia",
+  "english": "sweater / shirt",
+  "pos": "noun",
+  "example_it": "Una maglia di lana.",
+  "example_en": "A wool sweater.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "gonna",
+  "english": "skirt",
+  "pos": "noun",
+  "example_it": "Una gonna nera.",
+  "example_en": "A black skirt.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "calze",
+  "english": "socks",
+  "pos": "noun",
+  "example_it": "Calze pulite.",
+  "example_en": "Clean socks.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "borsa",
+  "english": "bag",
+  "pos": "noun",
+  "example_it": "Una borsa di pelle.",
+  "example_en": "A leather bag.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "occhiali",
+  "english": "glasses",
+  "pos": "noun",
+  "example_it": "Porto gli occhiali.",
+  "example_en": "I wear glasses.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "cena",
+  "english": "dinner",
+  "pos": "noun",
+  "example_it": "La cena è pronta.",
+  "example_en": "Dinner is ready.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "pranzo",
+  "english": "lunch",
+  "pos": "noun",
+  "example_it": "Pranzo all'una.",
+  "example_en": "I have lunch at one.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "colazione",
+  "english": "breakfast",
+  "pos": "noun",
+  "example_it": "Faccio colazione.",
+  "example_en": "I'm having breakfast.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "spuntino",
+  "english": "snack",
+  "pos": "noun",
+  "example_it": "Un piccolo spuntino.",
+  "example_en": "A small snack.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "frutta",
+  "english": "fruit",
+  "pos": "noun",
+  "example_it": "Mangio molta frutta.",
+  "example_en": "I eat a lot of fruit.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "verdura",
+  "english": "vegetables",
+  "pos": "noun",
+  "example_it": "La verdura fa bene.",
+  "example_en": "Vegetables are good for you.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "carota",
+  "english": "carrot",
+  "pos": "noun",
+  "example_it": "Una carota arancione.",
+  "example_en": "An orange carrot.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "patata",
+  "english": "potato",
+  "pos": "noun",
+  "example_it": "Patate al forno.",
+  "example_en": "Baked potatoes.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "pomodoro",
+  "english": "tomato",
+  "pos": "noun",
+  "example_it": "Salsa di pomodoro.",
+  "example_en": "Tomato sauce.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "insalata",
+  "english": "salad",
+  "pos": "noun",
+  "example_it": "Un'insalata mista.",
+  "example_en": "A mixed salad.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "cipolla",
+  "english": "onion",
+  "pos": "noun",
+  "example_it": "Una cipolla rossa.",
+  "example_en": "A red onion.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "aglio",
+  "english": "garlic",
+  "pos": "noun",
+  "example_it": "Aglio e olio.",
+  "example_en": "Garlic and oil.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "limone",
+  "english": "lemon",
+  "pos": "noun",
+  "example_it": "Una fetta di limone.",
+  "example_en": "A slice of lemon.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "arancia",
+  "english": "orange (fruit)",
+  "pos": "noun",
+  "example_it": "Un'arancia dolce.",
+  "example_en": "A sweet orange.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "banana",
+  "english": "banana",
+  "pos": "noun",
+  "example_it": "Una banana matura.",
+  "example_en": "A ripe banana.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "uva",
+  "english": "grapes",
+  "pos": "noun",
+  "example_it": "L'uva è dolce.",
+  "example_en": "The grapes are sweet.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "fragola",
+  "english": "strawberry",
+  "pos": "noun",
+  "example_it": "Fragole fresche.",
+  "example_en": "Fresh strawberries.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "pera",
+  "english": "pear",
+  "pos": "noun",
+  "example_it": "Una pera matura.",
+  "example_en": "A ripe pear.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "formaggio",
+  "english": "cheese",
+  "pos": "noun",
+  "example_it": "Formaggio italiano.",
+  "example_en": "Italian cheese.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "burro",
+  "english": "butter",
+  "pos": "noun",
+  "example_it": "Pane e burro.",
+  "example_en": "Bread and butter.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "uovo",
+  "english": "egg",
+  "pos": "noun",
+  "example_it": "Un uovo sodo.",
+  "example_en": "A hard-boiled egg.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "zucchero",
+  "english": "sugar",
+  "pos": "noun",
+  "example_it": "Caffè senza zucchero.",
+  "example_en": "Coffee without sugar.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "sale",
+  "english": "salt",
+  "pos": "noun",
+  "example_it": "Manca il sale.",
+  "example_en": "It needs salt.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "pepe",
+  "english": "pepper",
+  "pos": "noun",
+  "example_it": "Sale e pepe.",
+  "example_en": "Salt and pepper.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "olio",
+  "english": "oil",
+  "pos": "noun",
+  "example_it": "Olio d'oliva.",
+  "example_en": "Olive oil.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "aceto",
+  "english": "vinegar",
+  "pos": "noun",
+  "example_it": "Aceto balsamico.",
+  "example_en": "Balsamic vinegar.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "riso",
+  "english": "rice",
+  "pos": "noun",
+  "example_it": "Riso bianco.",
+  "example_en": "White rice.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "zuppa",
+  "english": "soup",
+  "pos": "noun",
+  "example_it": "Una zuppa calda.",
+  "example_en": "A hot soup.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "dolce",
+  "english": "dessert / sweet",
+  "pos": "noun",
+  "example_it": "Un dolce buonissimo.",
+  "example_en": "A delicious dessert.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "gelato",
+  "english": "ice cream",
+  "pos": "noun",
+  "example_it": "Un gelato al cioccolato.",
+  "example_en": "A chocolate ice cream.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "cioccolato",
+  "english": "chocolate",
+  "pos": "noun",
+  "example_it": "Cioccolato fondente.",
+  "example_en": "Dark chocolate.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "torta",
+  "english": "cake",
+  "pos": "noun",
+  "example_it": "Una torta di compleanno.",
+  "example_en": "A birthday cake.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "biscotto",
+  "english": "cookie",
+  "pos": "noun",
+  "example_it": "Biscotti con il caffè.",
+  "example_en": "Cookies with coffee.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "panino",
+  "english": "sandwich",
+  "pos": "noun",
+  "example_it": "Un panino al prosciutto.",
+  "example_en": "A ham sandwich.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "prosciutto",
+  "english": "ham",
+  "pos": "noun",
+  "example_it": "Prosciutto crudo.",
+  "example_en": "Raw ham (prosciutto).",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "salame",
+  "english": "salami",
+  "pos": "noun",
+  "example_it": "Una fetta di salame.",
+  "example_en": "A slice of salami.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "spaghetti",
+  "english": "spaghetti",
+  "pos": "noun",
+  "example_it": "Spaghetti al pomodoro.",
+  "example_en": "Spaghetti with tomato.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "tè",
+  "english": "tea",
+  "pos": "noun",
+  "example_it": "Un tè caldo.",
+  "example_en": "A hot tea.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "succo",
+  "english": "juice",
+  "pos": "noun",
+  "example_it": "Succo d'arancia.",
+  "example_en": "Orange juice.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "birra",
+  "english": "beer",
+  "pos": "noun",
+  "example_it": "Una birra fredda.",
+  "example_en": "A cold beer.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "bibita",
+  "english": "soft drink",
+  "pos": "noun",
+  "example_it": "Una bibita gassata.",
+  "example_en": "A fizzy drink.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "bevanda",
+  "english": "drink / beverage",
+  "pos": "noun",
+  "example_it": "Una bevanda calda.",
+  "example_en": "A hot drink.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "bicchiere",
+  "english": "glass (cup)",
+  "pos": "noun",
+  "example_it": "Un bicchiere d'acqua.",
+  "example_en": "A glass of water.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "tazza",
+  "english": "cup / mug",
+  "pos": "noun",
+  "example_it": "Una tazza di tè.",
+  "example_en": "A cup of tea.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "bottiglia",
+  "english": "bottle",
+  "pos": "noun",
+  "example_it": "Una bottiglia di vino.",
+  "example_en": "A bottle of wine.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "piatto",
+  "english": "plate / dish",
+  "pos": "noun",
+  "example_it": "Un piatto pulito.",
+  "example_en": "A clean plate.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "forchetta",
+  "english": "fork",
+  "pos": "noun",
+  "example_it": "Mangia con la forchetta.",
+  "example_en": "Eat with the fork.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "coltello",
+  "english": "knife",
+  "pos": "noun",
+  "example_it": "Un coltello affilato.",
+  "example_en": "A sharp knife.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "cucchiaio",
+  "english": "spoon",
+  "pos": "noun",
+  "example_it": "Un cucchiaio di zucchero.",
+  "example_en": "A spoon of sugar.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "cucina",
+  "english": "kitchen / cuisine",
+  "pos": "noun",
+  "example_it": "Cucina italiana.",
+  "example_en": "Italian cuisine.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "frigorifero",
+  "english": "refrigerator",
+  "pos": "noun",
+  "example_it": "Metti in frigorifero.",
+  "example_en": "Put it in the fridge.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "forno",
+  "english": "oven",
+  "pos": "noun",
+  "example_it": "Pizza al forno.",
+  "example_en": "Oven-baked pizza.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "pentola",
+  "english": "pot",
+  "pos": "noun",
+  "example_it": "Una grande pentola.",
+  "example_en": "A big pot.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "padella",
+  "english": "pan",
+  "pos": "noun",
+  "example_it": "Una padella antiaderente.",
+  "example_en": "A non-stick pan.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "fame",
+  "english": "hunger",
+  "pos": "noun",
+  "example_it": "Ho fame.",
+  "example_en": "I'm hungry.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "sete",
+  "english": "thirst",
+  "pos": "noun",
+  "example_it": "Ho sete.",
+  "example_en": "I'm thirsty.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "buonissimo",
+  "english": "delicious",
+  "pos": "adj",
+  "example_it": "Questo dolce è buonissimo.",
+  "example_en": "This dessert is delicious.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "saporito",
+  "english": "tasty",
+  "pos": "adj",
+  "example_it": "Un piatto saporito.",
+  "example_en": "A tasty dish.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "cuocere",
+  "english": "to cook (food)",
+  "pos": "verb",
+  "example_it": "Cuocere la pasta.",
+  "example_en": "Cook the pasta.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "cucinare",
+  "english": "to cook",
+  "pos": "verb",
+  "example_it": "Mi piace cucinare.",
+  "example_en": "I like to cook.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "assaggiare",
+  "english": "to taste",
+  "pos": "verb",
+  "example_it": "Vuoi assaggiare?",
+  "example_en": "Do you want to taste?",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "ristorante",
+  "english": "restaurant",
+  "pos": "noun",
+  "example_it": "Un buon ristorante.",
+  "example_en": "A good restaurant.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "bar",
+  "english": "café / bar",
+  "pos": "noun",
+  "example_it": "Andiamo al bar.",
+  "example_en": "Let's go to the café.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "cameriere",
+  "english": "waiter",
+  "pos": "noun",
+  "example_it": "Il cameriere arriva.",
+  "example_en": "The waiter is coming.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "menu",
+  "english": "menu",
+  "pos": "noun",
+  "example_it": "Il menu, per favore.",
+  "example_en": "The menu, please.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "conto",
+  "english": "bill / check",
+  "pos": "noun",
+  "example_it": "Il conto, per favore.",
+  "example_en": "The check, please.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "tavolo",
+  "english": "table",
+  "pos": "noun",
+  "example_it": "Un tavolo per due.",
+  "example_en": "A table for two.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "prenotazione",
+  "english": "reservation",
+  "pos": "noun",
+  "example_it": "Ho una prenotazione.",
+  "example_en": "I have a reservation.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "ordine",
+  "english": "order",
+  "pos": "noun",
+  "example_it": "Pronto per l'ordine.",
+  "example_en": "Ready to order.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "ordinare",
+  "english": "to order",
+  "pos": "verb",
+  "example_it": "Vorrei ordinare.",
+  "example_en": "I'd like to order.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "pagare",
+  "english": "to pay",
+  "pos": "verb",
+  "example_it": "Posso pagare?",
+  "example_en": "Can I pay?",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "mancia",
+  "english": "tip",
+  "pos": "noun",
+  "example_it": "Lasciamo la mancia.",
+  "example_en": "Let's leave a tip.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "antipasto",
+  "english": "appetizer",
+  "pos": "noun",
+  "example_it": "Un antipasto misto.",
+  "example_en": "A mixed appetizer.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "contorno",
+  "english": "side dish",
+  "pos": "noun",
+  "example_it": "Come contorno l'insalata.",
+  "example_en": "For side, salad.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "negozio",
+  "english": "shop / store",
+  "pos": "noun",
+  "example_it": "Un negozio nuovo.",
+  "example_en": "A new shop.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "supermercato",
+  "english": "supermarket",
+  "pos": "noun",
+  "example_it": "Vado al supermercato.",
+  "example_en": "I'm going to the supermarket.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "mercato",
+  "english": "market",
+  "pos": "noun",
+  "example_it": "Il mercato del sabato.",
+  "example_en": "Saturday market.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "centro commerciale",
+  "english": "shopping mall",
+  "pos": "noun",
+  "example_it": "Andiamo al centro commerciale.",
+  "example_en": "Let's go to the mall.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "panetteria",
+  "english": "bakery",
+  "pos": "noun",
+  "example_it": "Pane fresco dalla panetteria.",
+  "example_en": "Fresh bread from the bakery.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "farmacia",
+  "english": "pharmacy",
+  "pos": "noun",
+  "example_it": "La farmacia è chiusa.",
+  "example_en": "The pharmacy is closed.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "libreria",
+  "english": "bookstore",
+  "pos": "noun",
+  "example_it": "Una libreria piccola.",
+  "example_en": "A small bookstore.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "comprare",
+  "english": "to buy",
+  "pos": "verb",
+  "example_it": "Voglio comprare il pane.",
+  "example_en": "I want to buy bread.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "vendere",
+  "english": "to sell",
+  "pos": "verb",
+  "example_it": "Vendono frutta fresca.",
+  "example_en": "They sell fresh fruit.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "costare",
+  "english": "to cost",
+  "pos": "verb",
+  "example_it": "Quanto costa?",
+  "example_en": "How much does it cost?",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "prezzo",
+  "english": "price",
+  "pos": "noun",
+  "example_it": "Un buon prezzo.",
+  "example_en": "A good price.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "euro",
+  "english": "euro",
+  "pos": "noun",
+  "example_it": "Costa dieci euro.",
+  "example_en": "It costs ten euros.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "centesimo",
+  "english": "cent",
+  "pos": "noun",
+  "example_it": "Cinquanta centesimi.",
+  "example_en": "Fifty cents.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "carta di credito",
+  "english": "credit card",
+  "pos": "noun",
+  "example_it": "Pago con la carta di credito.",
+  "example_en": "I'll pay by credit card.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "contanti",
+  "english": "cash",
+  "pos": "noun",
+  "example_it": "Pago in contanti.",
+  "example_en": "I'll pay in cash.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "sconto",
+  "english": "discount",
+  "pos": "noun",
+  "example_it": "C'è uno sconto.",
+  "example_en": "There's a discount.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "saldo",
+  "english": "sale (discounted)",
+  "pos": "noun",
+  "example_it": "I saldi estivi.",
+  "example_en": "Summer sales.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "scontrino",
+  "english": "receipt",
+  "pos": "noun",
+  "example_it": "Vuole lo scontrino?",
+  "example_en": "Do you want the receipt?",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "caro",
+  "english": "expensive / dear",
+  "pos": "adj",
+  "example_it": "È troppo caro.",
+  "example_en": "It's too expensive.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "economico",
+  "english": "cheap",
+  "pos": "adj",
+  "example_it": "Un hotel economico.",
+  "example_en": "A cheap hotel.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "gratis",
+  "english": "free (no cost)",
+  "pos": "adj",
+  "example_it": "Ingresso gratis.",
+  "example_en": "Free entry.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "banca",
+  "english": "bank",
+  "pos": "noun",
+  "example_it": "Vado in banca.",
+  "example_en": "I'm going to the bank.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "bancomat",
+  "english": "ATM",
+  "pos": "noun",
+  "example_it": "Cerco un bancomat.",
+  "example_en": "I'm looking for an ATM.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "appartamento",
+  "english": "apartment",
+  "pos": "noun",
+  "example_it": "Un appartamento luminoso.",
+  "example_en": "A bright apartment.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "stanza",
+  "english": "room",
+  "pos": "noun",
+  "example_it": "La mia stanza.",
+  "example_en": "My room.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "camera",
+  "english": "bedroom / room",
+  "pos": "noun",
+  "example_it": "La mia camera è grande.",
+  "example_en": "My bedroom is big.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "bagno",
+  "english": "bathroom",
+  "pos": "noun",
+  "example_it": "Dov'è il bagno?",
+  "example_en": "Where's the bathroom?",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "soggiorno",
+  "english": "living room",
+  "pos": "noun",
+  "example_it": "In soggiorno c'è il divano.",
+  "example_en": "In the living room there's the sofa.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "salotto",
+  "english": "lounge / parlor",
+  "pos": "noun",
+  "example_it": "Il salotto è caldo.",
+  "example_en": "The lounge is warm.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "balcone",
+  "english": "balcony",
+  "pos": "noun",
+  "example_it": "Un balcone con vista.",
+  "example_en": "A balcony with a view.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "giardino",
+  "english": "garden",
+  "pos": "noun",
+  "example_it": "Un piccolo giardino.",
+  "example_en": "A small garden.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "porta",
+  "english": "door",
+  "pos": "noun",
+  "example_it": "Apri la porta.",
+  "example_en": "Open the door.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "finestra",
+  "english": "window",
+  "pos": "noun",
+  "example_it": "La finestra è chiusa.",
+  "example_en": "The window is closed.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "muro",
+  "english": "wall",
+  "pos": "noun",
+  "example_it": "Un muro bianco.",
+  "example_en": "A white wall.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "pavimento",
+  "english": "floor",
+  "pos": "noun",
+  "example_it": "Pulisci il pavimento.",
+  "example_en": "Clean the floor.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "soffitto",
+  "english": "ceiling",
+  "pos": "noun",
+  "example_it": "Un soffitto alto.",
+  "example_en": "A high ceiling.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "scala",
+  "english": "stairs / ladder",
+  "pos": "noun",
+  "example_it": "Le scale sono ripide.",
+  "example_en": "The stairs are steep.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "ascensore",
+  "english": "elevator",
+  "pos": "noun",
+  "example_it": "L'ascensore è rotto.",
+  "example_en": "The elevator is broken.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "piano",
+  "english": "floor (level)",
+  "pos": "noun",
+  "example_it": "Al secondo piano.",
+  "example_en": "On the second floor.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "letto",
+  "english": "bed",
+  "pos": "noun",
+  "example_it": "Vado a letto.",
+  "example_en": "I'm going to bed.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "sedia",
+  "english": "chair",
+  "pos": "noun",
+  "example_it": "Una sedia comoda.",
+  "example_en": "A comfortable chair.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "divano",
+  "english": "sofa",
+  "pos": "noun",
+  "example_it": "Sul divano.",
+  "example_en": "On the sofa.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "armadio",
+  "english": "wardrobe / closet",
+  "pos": "noun",
+  "example_it": "Un armadio grande.",
+  "example_en": "A big wardrobe.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "scrivania",
+  "english": "desk",
+  "pos": "noun",
+  "example_it": "Lavoro alla scrivania.",
+  "example_en": "I work at the desk.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "specchio",
+  "english": "mirror",
+  "pos": "noun",
+  "example_it": "Lo specchio del bagno.",
+  "example_en": "The bathroom mirror.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "lampada",
+  "english": "lamp",
+  "pos": "noun",
+  "example_it": "Accendi la lampada.",
+  "example_en": "Turn on the lamp.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "tappeto",
+  "english": "carpet / rug",
+  "pos": "noun",
+  "example_it": "Un tappeto persiano.",
+  "example_en": "A Persian rug.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "quadro",
+  "english": "painting / picture",
+  "pos": "noun",
+  "example_it": "Un quadro famoso.",
+  "example_en": "A famous painting.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "fiore",
+  "english": "flower",
+  "pos": "noun",
+  "example_it": "Un mazzo di fiori.",
+  "example_en": "A bouquet of flowers.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "pianta",
+  "english": "plant",
+  "pos": "noun",
+  "example_it": "Una pianta verde.",
+  "example_en": "A green plant.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "telefono",
+  "english": "telephone",
+  "pos": "noun",
+  "example_it": "Suona il telefono.",
+  "example_en": "The phone is ringing.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "cellulare",
+  "english": "cell phone",
+  "pos": "noun",
+  "example_it": "Il mio cellulare è scarico.",
+  "example_en": "My cell phone is dead.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "computer",
+  "english": "computer",
+  "pos": "noun",
+  "example_it": "Lavoro al computer.",
+  "example_en": "I work on the computer.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "internet",
+  "english": "internet",
+  "pos": "noun",
+  "example_it": "Cerco su internet.",
+  "example_en": "I'm searching on the internet.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "email",
+  "english": "email",
+  "pos": "noun",
+  "example_it": "Mando un'email.",
+  "example_en": "I'm sending an email.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "messaggio",
+  "english": "message",
+  "pos": "noun",
+  "example_it": "Ho ricevuto un messaggio.",
+  "example_en": "I received a message.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "schermo",
+  "english": "screen",
+  "pos": "noun",
+  "example_it": "Lo schermo è rotto.",
+  "example_en": "The screen is broken.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "tastiera",
+  "english": "keyboard",
+  "pos": "noun",
+  "example_it": "La tastiera non funziona.",
+  "example_en": "The keyboard doesn't work.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "password",
+  "english": "password",
+  "pos": "noun",
+  "example_it": "Ho dimenticato la password.",
+  "example_en": "I forgot the password.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "sito",
+  "english": "website / site",
+  "pos": "noun",
+  "example_it": "Un sito web utile.",
+  "example_en": "A useful website.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "applicazione",
+  "english": "app / application",
+  "pos": "noun",
+  "example_it": "Scarica l'applicazione.",
+  "example_en": "Download the app.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "televisione",
+  "english": "television",
+  "pos": "noun",
+  "example_it": "Guardo la televisione.",
+  "example_en": "I watch television.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "radio",
+  "english": "radio",
+  "pos": "noun",
+  "example_it": "Ascolto la radio.",
+  "example_en": "I listen to the radio.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "musica",
+  "english": "music",
+  "pos": "noun",
+  "example_it": "Mi piace la musica.",
+  "example_en": "I like music.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "canzone",
+  "english": "song",
+  "pos": "noun",
+  "example_it": "Una bella canzone.",
+  "example_en": "A beautiful song.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "film",
+  "english": "film / movie",
+  "pos": "noun",
+  "example_it": "Un film italiano.",
+  "example_en": "An Italian film.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "video",
+  "english": "video",
+  "pos": "noun",
+  "example_it": "Un video divertente.",
+  "example_en": "A funny video.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "foto",
+  "english": "photo",
+  "pos": "noun",
+  "example_it": "Una bella foto.",
+  "example_en": "A nice photo.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "fotocamera",
+  "english": "camera",
+  "pos": "noun",
+  "example_it": "La mia fotocamera nuova.",
+  "example_en": "My new camera.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "chiamata",
+  "english": "phone call",
+  "pos": "noun",
+  "example_it": "Una chiamata importante.",
+  "example_en": "An important call.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "chiamare",
+  "english": "to call",
+  "pos": "verb",
+  "example_it": "Chiama tua madre.",
+  "example_en": "Call your mother.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "rispondere",
+  "english": "to answer",
+  "pos": "verb",
+  "example_it": "Rispondi al telefono.",
+  "example_en": "Answer the phone.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "spegnere",
+  "english": "to turn off",
+  "pos": "verb",
+  "example_it": "Spegni la luce.",
+  "example_en": "Turn off the light.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "accendere",
+  "english": "to turn on",
+  "pos": "verb",
+  "example_it": "Accendi il computer.",
+  "example_en": "Turn on the computer.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "autobus",
+  "english": "bus",
+  "pos": "noun",
+  "example_it": "Prendo l'autobus.",
+  "example_en": "I take the bus.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "metropolitana",
+  "english": "subway",
+  "pos": "noun",
+  "example_it": "Vado in metropolitana.",
+  "example_en": "I take the subway.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "tram",
+  "english": "tram",
+  "pos": "noun",
+  "example_it": "Il tram è pieno.",
+  "example_en": "The tram is full.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "taxi",
+  "english": "taxi",
+  "pos": "noun",
+  "example_it": "Chiamo un taxi.",
+  "example_en": "I'll call a taxi.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "bicicletta",
+  "english": "bicycle",
+  "pos": "noun",
+  "example_it": "Vado in bicicletta.",
+  "example_en": "I go by bicycle.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "moto",
+  "english": "motorcycle",
+  "pos": "noun",
+  "example_it": "La sua moto è veloce.",
+  "example_en": "His motorcycle is fast.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "nave",
+  "english": "ship",
+  "pos": "noun",
+  "example_it": "Una nave grande.",
+  "example_en": "A big ship.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "barca",
+  "english": "boat",
+  "pos": "noun",
+  "example_it": "Una piccola barca.",
+  "example_en": "A small boat.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "biglietto",
+  "english": "ticket",
+  "pos": "noun",
+  "example_it": "Un biglietto, per favore.",
+  "example_en": "A ticket, please.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "stazione",
+  "english": "station",
+  "pos": "noun",
+  "example_it": "La stazione è vicina.",
+  "example_en": "The station is nearby.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "aeroporto",
+  "english": "airport",
+  "pos": "noun",
+  "example_it": "All'aeroporto.",
+  "example_en": "At the airport.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "fermata",
+  "english": "stop (bus, etc.)",
+  "pos": "noun",
+  "example_it": "Alla prossima fermata.",
+  "example_en": "At the next stop.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "viaggio",
+  "english": "trip / journey",
+  "pos": "noun",
+  "example_it": "Un bel viaggio.",
+  "example_en": "A nice trip.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "vacanza",
+  "english": "vacation",
+  "pos": "noun",
+  "example_it": "In vacanza.",
+  "example_en": "On vacation.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "valigia",
+  "english": "suitcase",
+  "pos": "noun",
+  "example_it": "La mia valigia è pesante.",
+  "example_en": "My suitcase is heavy.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "passaporto",
+  "english": "passport",
+  "pos": "noun",
+  "example_it": "Il passaporto, per favore.",
+  "example_en": "The passport, please.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "guidare",
+  "english": "to drive",
+  "pos": "verb",
+  "example_it": "Guido la macchina.",
+  "example_en": "I drive the car.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "viaggiare",
+  "english": "to travel",
+  "pos": "verb",
+  "example_it": "Mi piace viaggiare.",
+  "example_en": "I like to travel.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "partire",
+  "english": "to leave / depart",
+  "pos": "verb",
+  "example_it": "Parto domani.",
+  "example_en": "I leave tomorrow.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "arrivare",
+  "english": "to arrive",
+  "pos": "verb",
+  "example_it": "Arrivo alle otto.",
+  "example_en": "I arrive at eight.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "centro",
+  "english": "center / downtown",
+  "pos": "noun",
+  "example_it": "Vado in centro.",
+  "example_en": "I'm going downtown.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "piazza",
+  "english": "square (city)",
+  "pos": "noun",
+  "example_it": "La piazza è bellissima.",
+  "example_en": "The square is beautiful.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "via",
+  "english": "street",
+  "pos": "noun",
+  "example_it": "Abito in Via Roma.",
+  "example_en": "I live on Roma Street.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "ponte",
+  "english": "bridge",
+  "pos": "noun",
+  "example_it": "Sotto il ponte.",
+  "example_en": "Under the bridge.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "chiesa",
+  "english": "church",
+  "pos": "noun",
+  "example_it": "Una chiesa antica.",
+  "example_en": "An old church.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "museo",
+  "english": "museum",
+  "pos": "noun",
+  "example_it": "Un museo famoso.",
+  "example_en": "A famous museum.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "teatro",
+  "english": "theater",
+  "pos": "noun",
+  "example_it": "Vado a teatro.",
+  "example_en": "I'm going to the theater.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "cinema",
+  "english": "cinema",
+  "pos": "noun",
+  "example_it": "Andiamo al cinema.",
+  "example_en": "Let's go to the cinema.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "ospedale",
+  "english": "hospital",
+  "pos": "noun",
+  "example_it": "All'ospedale.",
+  "example_en": "At the hospital.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "ufficio",
+  "english": "office",
+  "pos": "noun",
+  "example_it": "Vado in ufficio.",
+  "example_en": "I'm going to the office.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "università",
+  "english": "university",
+  "pos": "noun",
+  "example_it": "Studio all'università.",
+  "example_en": "I study at university.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "biblioteca",
+  "english": "library",
+  "pos": "noun",
+  "example_it": "In biblioteca.",
+  "example_en": "At the library.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "parco",
+  "english": "park",
+  "pos": "noun",
+  "example_it": "Andiamo al parco.",
+  "example_en": "Let's go to the park.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "spiaggia",
+  "english": "beach",
+  "pos": "noun",
+  "example_it": "In spiaggia.",
+  "example_en": "At the beach.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "mare",
+  "english": "sea",
+  "pos": "noun",
+  "example_it": "Vado al mare.",
+  "example_en": "I'm going to the sea.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "montagna",
+  "english": "mountain",
+  "pos": "noun",
+  "example_it": "In montagna.",
+  "example_en": "In the mountains.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "lago",
+  "english": "lake",
+  "pos": "noun",
+  "example_it": "Un lago grande.",
+  "example_en": "A big lake.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "fiume",
+  "english": "river",
+  "pos": "noun",
+  "example_it": "Il fiume scorre.",
+  "example_en": "The river flows.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "campagna",
+  "english": "countryside",
+  "pos": "noun",
+  "example_it": "Vivo in campagna.",
+  "example_en": "I live in the countryside.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "isola",
+  "english": "island",
+  "pos": "noun",
+  "example_it": "Un'isola tropicale.",
+  "example_en": "A tropical island.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "albergo",
+  "english": "hotel",
+  "pos": "noun",
+  "example_it": "Un albergo a quattro stelle.",
+  "example_en": "A four-star hotel.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "hotel",
+  "english": "hotel (loanword)",
+  "pos": "noun",
+  "example_it": "L'hotel è caro.",
+  "example_en": "The hotel is expensive.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "stadio",
+  "english": "stadium",
+  "pos": "noun",
+  "example_it": "Vado allo stadio.",
+  "example_en": "I'm going to the stadium.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "palestra",
+  "english": "gym",
+  "pos": "noun",
+  "example_it": "Vado in palestra.",
+  "example_en": "I go to the gym.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "piscina",
+  "english": "swimming pool",
+  "pos": "noun",
+  "example_it": "In piscina.",
+  "example_en": "In the swimming pool.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "salve",
+  "english": "hello (formal)",
+  "pos": "interj",
+  "example_it": "Salve, come va?",
+  "example_en": "Hello, how's it going?",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "arrivederci",
+  "english": "goodbye (formal)",
+  "pos": "interj",
+  "example_it": "Arrivederci e grazie.",
+  "example_en": "Goodbye and thanks.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "addio",
+  "english": "farewell",
+  "pos": "interj",
+  "example_it": "Addio, amico.",
+  "example_en": "Farewell, friend.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "benvenuto",
+  "english": "welcome",
+  "pos": "interj",
+  "example_it": "Benvenuto a casa.",
+  "example_en": "Welcome home.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "auguri",
+  "english": "best wishes",
+  "pos": "interj",
+  "example_it": "Tanti auguri!",
+  "example_en": "Best wishes!",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "salute",
+  "english": "cheers / health",
+  "pos": "interj",
+  "example_it": "Alla salute!",
+  "example_en": "To your health!",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "scusi",
+  "english": "excuse me (formal)",
+  "pos": "interj",
+  "example_it": "Scusi, dove è la stazione?",
+  "example_en": "Excuse me, where's the station?",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "uomo",
+  "english": "man",
+  "pos": "noun",
+  "example_it": "Un uomo gentile.",
+  "example_en": "A kind man.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "donna",
+  "english": "woman",
+  "pos": "noun",
+  "example_it": "Una donna intelligente.",
+  "example_en": "An intelligent woman.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "ragazzo",
+  "english": "boy",
+  "pos": "noun",
+  "example_it": "Un ragazzo simpatico.",
+  "example_en": "A nice boy.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "ragazza",
+  "english": "girl",
+  "pos": "noun",
+  "example_it": "Una ragazza dolce.",
+  "example_en": "A sweet girl.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "bambino",
+  "english": "child / boy",
+  "pos": "noun",
+  "example_it": "Un bambino felice.",
+  "example_en": "A happy child.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "bambina",
+  "english": "child / girl",
+  "pos": "noun",
+  "example_it": "Una bambina piccola.",
+  "example_en": "A small girl.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "neonato",
+  "english": "newborn",
+  "pos": "noun",
+  "example_it": "Un neonato bellissimo.",
+  "example_en": "A beautiful newborn.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "adulto",
+  "english": "adult",
+  "pos": "noun",
+  "example_it": "Sono un adulto.",
+  "example_en": "I'm an adult.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "anziano",
+  "english": "elderly person",
+  "pos": "noun",
+  "example_it": "Un anziano signore.",
+  "example_en": "An elderly gentleman.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "giovane",
+  "english": "young person",
+  "pos": "noun",
+  "example_it": "I giovani d'oggi.",
+  "example_en": "Today's youth.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "persona",
+  "english": "person",
+  "pos": "noun",
+  "example_it": "Una persona simpatica.",
+  "example_en": "A nice person.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "gente",
+  "english": "people",
+  "pos": "noun",
+  "example_it": "C'è molta gente.",
+  "example_en": "There are many people.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "signore",
+  "english": "Mr. / sir",
+  "pos": "noun",
+  "example_it": "Buongiorno, signore.",
+  "example_en": "Good morning, sir.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "signora",
+  "english": "Mrs. / madam",
+  "pos": "noun",
+  "example_it": "La signora Rossi.",
+  "example_en": "Mrs. Rossi.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "signorina",
+  "english": "miss",
+  "pos": "noun",
+  "example_it": "Signorina, scusi.",
+  "example_en": "Miss, excuse me.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "marito",
+  "english": "husband",
+  "pos": "noun",
+  "example_it": "Mio marito è italiano.",
+  "example_en": "My husband is Italian.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "moglie",
+  "english": "wife",
+  "pos": "noun",
+  "example_it": "Sua moglie è bella.",
+  "example_en": "His wife is beautiful.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "fidanzato",
+  "english": "boyfriend / fiancé",
+  "pos": "noun",
+  "example_it": "Il mio fidanzato.",
+  "example_en": "My boyfriend.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "fidanzata",
+  "english": "girlfriend / fiancée",
+  "pos": "noun",
+  "example_it": "La mia fidanzata.",
+  "example_en": "My girlfriend.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "nonno",
+  "english": "grandfather",
+  "pos": "noun",
+  "example_it": "Mio nonno ha ottanta anni.",
+  "example_en": "My grandfather is eighty.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "nonna",
+  "english": "grandmother",
+  "pos": "noun",
+  "example_it": "Mia nonna cucina bene.",
+  "example_en": "My grandmother cooks well.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "zio",
+  "english": "uncle",
+  "pos": "noun",
+  "example_it": "Mio zio Marco.",
+  "example_en": "My uncle Marco.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "zia",
+  "english": "aunt",
+  "pos": "noun",
+  "example_it": "Mia zia abita a Napoli.",
+  "example_en": "My aunt lives in Naples.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "cugino",
+  "english": "cousin (m)",
+  "pos": "noun",
+  "example_it": "Mio cugino è giovane.",
+  "example_en": "My cousin is young.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "cugina",
+  "english": "cousin (f)",
+  "pos": "noun",
+  "example_it": "Mia cugina vive in Italia.",
+  "example_en": "My cousin lives in Italy.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "nipote",
+  "english": "nephew/niece/grandchild",
+  "pos": "noun",
+  "example_it": "Il mio nipote piccolo.",
+  "example_en": "My little nephew.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "genitori",
+  "english": "parents",
+  "pos": "noun",
+  "example_it": "I miei genitori.",
+  "example_en": "My parents.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "parente",
+  "english": "relative",
+  "pos": "noun",
+  "example_it": "Un parente lontano.",
+  "example_en": "A distant relative.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "amore",
+  "english": "love",
+  "pos": "noun",
+  "example_it": "Il mio grande amore.",
+  "example_en": "My great love.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "alto",
+  "english": "tall",
+  "pos": "adj",
+  "example_it": "Un uomo alto.",
+  "example_en": "A tall man.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "basso",
+  "english": "short (height)",
+  "pos": "adj",
+  "example_it": "Una donna bassa.",
+  "example_en": "A short woman.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "magro",
+  "english": "thin",
+  "pos": "adj",
+  "example_it": "È molto magro.",
+  "example_en": "He's very thin.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "grasso",
+  "english": "fat",
+  "pos": "adj",
+  "example_it": "Un gatto grasso.",
+  "example_en": "A fat cat.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "lungo",
+  "english": "long",
+  "pos": "adj",
+  "example_it": "Una strada lunga.",
+  "example_en": "A long road.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "corto",
+  "english": "short (length)",
+  "pos": "adj",
+  "example_it": "Capelli corti.",
+  "example_en": "Short hair.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "largo",
+  "english": "wide",
+  "pos": "adj",
+  "example_it": "Una strada larga.",
+  "example_en": "A wide road.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "stretto",
+  "english": "narrow / tight",
+  "pos": "adj",
+  "example_it": "Una via stretta.",
+  "example_en": "A narrow street.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "pesante",
+  "english": "heavy",
+  "pos": "adj",
+  "example_it": "Una valigia pesante.",
+  "example_en": "A heavy suitcase.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "leggero",
+  "english": "light (weight)",
+  "pos": "adj",
+  "example_it": "Una borsa leggera.",
+  "example_en": "A light bag.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "pieno",
+  "english": "full",
+  "pos": "adj",
+  "example_it": "Il bicchiere è pieno.",
+  "example_en": "The glass is full.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "vuoto",
+  "english": "empty",
+  "pos": "adj",
+  "example_it": "Il bar è vuoto.",
+  "example_en": "The café is empty.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "veloce",
+  "english": "fast",
+  "pos": "adj",
+  "example_it": "Una macchina veloce.",
+  "example_en": "A fast car.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "lento",
+  "english": "slow",
+  "pos": "adj",
+  "example_it": "Un treno lento.",
+  "example_en": "A slow train.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "forte",
+  "english": "strong / loud",
+  "pos": "adj",
+  "example_it": "Un caffè forte.",
+  "example_en": "A strong coffee.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "debole",
+  "english": "weak",
+  "pos": "adj",
+  "example_it": "Mi sento debole.",
+  "example_en": "I feel weak.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "duro",
+  "english": "hard",
+  "pos": "adj",
+  "example_it": "Un pane duro.",
+  "example_en": "Hard bread.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "morbido",
+  "english": "soft",
+  "pos": "adj",
+  "example_it": "Un cuscino morbido.",
+  "example_en": "A soft pillow.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "fresco",
+  "english": "fresh / cool",
+  "pos": "adj",
+  "example_it": "Aria fresca.",
+  "example_en": "Fresh air.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "asciutto",
+  "english": "dry",
+  "pos": "adj",
+  "example_it": "Vestiti asciutti.",
+  "example_en": "Dry clothes.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "bagnato",
+  "english": "wet",
+  "pos": "adj",
+  "example_it": "Sono bagnato.",
+  "example_en": "I'm wet.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "pulito",
+  "english": "clean",
+  "pos": "adj",
+  "example_it": "Una camera pulita.",
+  "example_en": "A clean room.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "sporco",
+  "english": "dirty",
+  "pos": "adj",
+  "example_it": "Le scarpe sono sporche.",
+  "example_en": "The shoes are dirty.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "pronto",
+  "english": "ready",
+  "pos": "adj",
+  "example_it": "Pronto?",
+  "example_en": "Ready? / Hello (phone)?",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "stesso",
+  "english": "same",
+  "pos": "adj",
+  "example_it": "La stessa cosa.",
+  "example_en": "The same thing.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "diverso",
+  "english": "different",
+  "pos": "adj",
+  "example_it": "È diverso.",
+  "example_en": "It's different.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "simile",
+  "english": "similar",
+  "pos": "adj",
+  "example_it": "Una storia simile.",
+  "example_en": "A similar story.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "vero",
+  "english": "true / real",
+  "pos": "adj",
+  "example_it": "È vero?",
+  "example_en": "Is it true?",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "falso",
+  "english": "false / fake",
+  "pos": "adj",
+  "example_it": "Una notizia falsa.",
+  "example_en": "A false news story.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "giusto",
+  "english": "right / correct",
+  "pos": "adj",
+  "example_it": "È giusto.",
+  "example_en": "It's right.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "sbagliato",
+  "english": "wrong",
+  "pos": "adj",
+  "example_it": "È sbagliato.",
+  "example_en": "It's wrong.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "ricco",
+  "english": "rich",
+  "pos": "adj",
+  "example_it": "Una famiglia ricca.",
+  "example_en": "A rich family.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "povero",
+  "english": "poor",
+  "pos": "adj",
+  "example_it": "Un paese povero.",
+  "example_en": "A poor country.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "intelligente",
+  "english": "intelligent",
+  "pos": "adj",
+  "example_it": "Un ragazzo intelligente.",
+  "example_en": "An intelligent boy.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "stupido",
+  "english": "stupid",
+  "pos": "adj",
+  "example_it": "Una scelta stupida.",
+  "example_en": "A stupid choice.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "simpatico",
+  "english": "nice / likeable",
+  "pos": "adj",
+  "example_it": "Sei simpatico.",
+  "example_en": "You're nice.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "antipatico",
+  "english": "unpleasant",
+  "pos": "adj",
+  "example_it": "È antipatico.",
+  "example_en": "He's unpleasant.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "gentile",
+  "english": "kind / polite",
+  "pos": "adj",
+  "example_it": "Molto gentile.",
+  "example_en": "Very kind.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "educato",
+  "english": "well-mannered",
+  "pos": "adj",
+  "example_it": "Un bambino educato.",
+  "example_en": "A well-mannered child.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "maleducato",
+  "english": "rude",
+  "pos": "adj",
+  "example_it": "Un cliente maleducato.",
+  "example_en": "A rude customer.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "tranquillo",
+  "english": "calm",
+  "pos": "adj",
+  "example_it": "Stai tranquillo.",
+  "example_en": "Stay calm.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "nervoso",
+  "english": "nervous",
+  "pos": "adj",
+  "example_it": "Sono un po' nervoso.",
+  "example_en": "I'm a bit nervous.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "stressato",
+  "english": "stressed",
+  "pos": "adj",
+  "example_it": "Sono stressato.",
+  "example_en": "I'm stressed.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "occupato",
+  "english": "busy",
+  "pos": "adj",
+  "example_it": "Sono molto occupato.",
+  "example_en": "I'm very busy.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "libero",
+  "english": "free / available",
+  "pos": "adj",
+  "example_it": "Sei libero stasera?",
+  "example_en": "Are you free tonight?",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "noioso",
+  "english": "boring",
+  "pos": "adj",
+  "example_it": "Un film noioso.",
+  "example_en": "A boring film.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "divertente",
+  "english": "fun / funny",
+  "pos": "adj",
+  "example_it": "Una serata divertente.",
+  "example_en": "A fun evening.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "interessante",
+  "english": "interesting",
+  "pos": "adj",
+  "example_it": "Un libro interessante.",
+  "example_en": "An interesting book.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "famoso",
+  "english": "famous",
+  "pos": "adj",
+  "example_it": "Un cantante famoso.",
+  "example_en": "A famous singer.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "popolare",
+  "english": "popular",
+  "pos": "adj",
+  "example_it": "Un ristorante popolare.",
+  "example_en": "A popular restaurant.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "strano",
+  "english": "strange / weird",
+  "pos": "adj",
+  "example_it": "Che strano!",
+  "example_en": "How strange!",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "normale",
+  "english": "normal",
+  "pos": "adj",
+  "example_it": "Una giornata normale.",
+  "example_en": "A normal day.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "speciale",
+  "english": "special",
+  "pos": "adj",
+  "example_it": "Un giorno speciale.",
+  "example_en": "A special day.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "perfetto",
+  "english": "perfect",
+  "pos": "adj",
+  "example_it": "È perfetto!",
+  "example_en": "It's perfect!",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "terribile",
+  "english": "terrible",
+  "pos": "adj",
+  "example_it": "Una giornata terribile.",
+  "example_en": "A terrible day.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "fantastico",
+  "english": "fantastic",
+  "pos": "adj",
+  "example_it": "Una serata fantastica.",
+  "example_en": "A fantastic evening.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "incredibile",
+  "english": "incredible",
+  "pos": "adj",
+  "example_it": "È incredibile!",
+  "example_en": "It's incredible!",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "bravo",
+  "english": "good (at)",
+  "pos": "adj",
+  "example_it": "Sei bravo!",
+  "example_en": "Well done!",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "triste",
+  "english": "sad",
+  "pos": "adj",
+  "example_it": "Sono triste.",
+  "example_en": "I'm sad.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "arrabbiato",
+  "english": "angry",
+  "pos": "adj",
+  "example_it": "È arrabbiato con me.",
+  "example_en": "He's angry with me.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "contento",
+  "english": "happy / content",
+  "pos": "adj",
+  "example_it": "Sono contento.",
+  "example_en": "I'm happy.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "preoccupato",
+  "english": "worried",
+  "pos": "adj",
+  "example_it": "Sono preoccupato.",
+  "example_en": "I'm worried.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "spaventato",
+  "english": "scared",
+  "pos": "adj",
+  "example_it": "Sono spaventato.",
+  "example_en": "I'm scared.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "innamorato",
+  "english": "in love",
+  "pos": "adj",
+  "example_it": "Sono innamorato.",
+  "example_en": "I'm in love.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "geloso",
+  "english": "jealous",
+  "pos": "adj",
+  "example_it": "È geloso.",
+  "example_en": "He's jealous.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "annoiato",
+  "english": "bored",
+  "pos": "adj",
+  "example_it": "Sono annoiato.",
+  "example_en": "I'm bored.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "sorpreso",
+  "english": "surprised",
+  "pos": "adj",
+  "example_it": "Sono sorpreso.",
+  "example_en": "I'm surprised.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "imbarazzato",
+  "english": "embarrassed",
+  "pos": "adj",
+  "example_it": "Sono imbarazzato.",
+  "example_en": "I'm embarrassed.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "deluso",
+  "english": "disappointed",
+  "pos": "adj",
+  "example_it": "Sono molto deluso.",
+  "example_en": "I'm very disappointed.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "soddisfatto",
+  "english": "satisfied",
+  "pos": "adj",
+  "example_it": "Sono soddisfatto.",
+  "example_en": "I'm satisfied.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "orgoglioso",
+  "english": "proud",
+  "pos": "adj",
+  "example_it": "Sono orgoglioso di te.",
+  "example_en": "I'm proud of you.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "lavorare",
+  "english": "to work",
+  "pos": "verb",
+  "example_it": "Lavoro in ufficio.",
+  "example_en": "I work in an office.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "azienda",
+  "english": "company / firm",
+  "pos": "noun",
+  "example_it": "Una grande azienda.",
+  "example_en": "A big company.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "ditta",
+  "english": "firm / business",
+  "pos": "noun",
+  "example_it": "La nostra ditta.",
+  "example_en": "Our firm.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "capo",
+  "english": "boss",
+  "pos": "noun",
+  "example_it": "Il mio capo.",
+  "example_en": "My boss.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "collega",
+  "english": "colleague",
+  "pos": "noun",
+  "example_it": "Il mio collega.",
+  "example_en": "My colleague.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "stipendio",
+  "english": "salary",
+  "pos": "noun",
+  "example_it": "Un buono stipendio.",
+  "example_en": "A good salary.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "riunione",
+  "english": "meeting",
+  "pos": "noun",
+  "example_it": "Una lunga riunione.",
+  "example_en": "A long meeting.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "progetto",
+  "english": "project",
+  "pos": "noun",
+  "example_it": "Un nuovo progetto.",
+  "example_en": "A new project.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "carriera",
+  "english": "career",
+  "pos": "noun",
+  "example_it": "Una carriera lunga.",
+  "example_en": "A long career.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "esperienza",
+  "english": "experience",
+  "pos": "noun",
+  "example_it": "Molta esperienza.",
+  "example_en": "A lot of experience.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "medico",
+  "english": "doctor",
+  "pos": "noun",
+  "example_it": "Vado dal medico.",
+  "example_en": "I'm going to the doctor.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "dottore",
+  "english": "doctor (title)",
+  "pos": "noun",
+  "example_it": "Buongiorno, dottore.",
+  "example_en": "Good morning, doctor.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "infermiere",
+  "english": "nurse",
+  "pos": "noun",
+  "example_it": "L'infermiere è gentile.",
+  "example_en": "The nurse is kind.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "insegnante",
+  "english": "teacher",
+  "pos": "noun",
+  "example_it": "Il mio insegnante.",
+  "example_en": "My teacher.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "professore",
+  "english": "professor",
+  "pos": "noun",
+  "example_it": "Il professor Bianchi.",
+  "example_en": "Professor Bianchi.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "studente",
+  "english": "student",
+  "pos": "noun",
+  "example_it": "Sono uno studente.",
+  "example_en": "I'm a student.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "avvocato",
+  "english": "lawyer",
+  "pos": "noun",
+  "example_it": "Un buon avvocato.",
+  "example_en": "A good lawyer.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "ingegnere",
+  "english": "engineer",
+  "pos": "noun",
+  "example_it": "Mio fratello è ingegnere.",
+  "example_en": "My brother is an engineer.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "architetto",
+  "english": "architect",
+  "pos": "noun",
+  "example_it": "Un architetto famoso.",
+  "example_en": "A famous architect.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "cuoco",
+  "english": "cook",
+  "pos": "noun",
+  "example_it": "Un cuoco esperto.",
+  "example_en": "An experienced cook.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "operaio",
+  "english": "factory worker",
+  "pos": "noun",
+  "example_it": "Un operaio in fabbrica.",
+  "example_en": "A factory worker.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "impiegato",
+  "english": "office worker",
+  "pos": "noun",
+  "example_it": "Un impiegato in banca.",
+  "example_en": "A bank clerk.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "commesso",
+  "english": "shop assistant",
+  "pos": "noun",
+  "example_it": "Il commesso è gentile.",
+  "example_en": "The shop assistant is kind.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "poliziotto",
+  "english": "police officer",
+  "pos": "noun",
+  "example_it": "Un poliziotto in uniforme.",
+  "example_en": "A police officer in uniform.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "soldato",
+  "english": "soldier",
+  "pos": "noun",
+  "example_it": "Un soldato coraggioso.",
+  "example_en": "A brave soldier.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "artista",
+  "english": "artist",
+  "pos": "noun",
+  "example_it": "Un artista famoso.",
+  "example_en": "A famous artist.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "musicista",
+  "english": "musician",
+  "pos": "noun",
+  "example_it": "Una musicista talentuosa.",
+  "example_en": "A talented musician.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "cantante",
+  "english": "singer",
+  "pos": "noun",
+  "example_it": "Una cantante italiana.",
+  "example_en": "An Italian singer.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "scrittore",
+  "english": "writer",
+  "pos": "noun",
+  "example_it": "Uno scrittore famoso.",
+  "example_en": "A famous writer.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "giornalista",
+  "english": "journalist",
+  "pos": "noun",
+  "example_it": "Una giornalista in TV.",
+  "example_en": "A journalist on TV.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "attore",
+  "english": "actor",
+  "pos": "noun",
+  "example_it": "Un attore italiano.",
+  "example_en": "An Italian actor.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "calciatore",
+  "english": "soccer player",
+  "pos": "noun",
+  "example_it": "Un calciatore famoso.",
+  "example_en": "A famous soccer player.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "professione",
+  "english": "profession",
+  "pos": "noun",
+  "example_it": "Che professione fai?",
+  "example_en": "What do you do for work?",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "mestiere",
+  "english": "trade / job",
+  "pos": "noun",
+  "example_it": "Un mestiere onesto.",
+  "example_en": "An honest trade.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "studiare",
+  "english": "to study",
+  "pos": "verb",
+  "example_it": "Studio italiano.",
+  "example_en": "I study Italian.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "imparare",
+  "english": "to learn",
+  "pos": "verb",
+  "example_it": "Voglio imparare.",
+  "example_en": "I want to learn.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "insegnare",
+  "english": "to teach",
+  "pos": "verb",
+  "example_it": "Insegna inglese.",
+  "example_en": "She teaches English.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "lezione",
+  "english": "lesson / class",
+  "pos": "noun",
+  "example_it": "Una lezione di italiano.",
+  "example_en": "An Italian lesson.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "corso",
+  "english": "course",
+  "pos": "noun",
+  "example_it": "Un corso intensivo.",
+  "example_en": "An intensive course.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "classe",
+  "english": "class / classroom",
+  "pos": "noun",
+  "example_it": "In classe.",
+  "example_en": "In class.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "compito",
+  "english": "homework / task",
+  "pos": "noun",
+  "example_it": "Faccio i compiti.",
+  "example_en": "I do my homework.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "esame",
+  "english": "exam",
+  "pos": "noun",
+  "example_it": "Domani ho l'esame.",
+  "example_en": "I have an exam tomorrow.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "voto",
+  "english": "grade",
+  "pos": "noun",
+  "example_it": "Un buon voto.",
+  "example_en": "A good grade.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "libro",
+  "english": "book",
+  "pos": "noun",
+  "example_it": "Un libro nuovo.",
+  "example_en": "A new book.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "quaderno",
+  "english": "notebook",
+  "pos": "noun",
+  "example_it": "Il mio quaderno.",
+  "example_en": "My notebook.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "penna",
+  "english": "pen",
+  "pos": "noun",
+  "example_it": "Una penna blu.",
+  "example_en": "A blue pen.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "matita",
+  "english": "pencil",
+  "pos": "noun",
+  "example_it": "Una matita rossa.",
+  "example_en": "A red pencil.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "zaino",
+  "english": "backpack",
+  "pos": "noun",
+  "example_it": "Il mio zaino è pesante.",
+  "example_en": "My backpack is heavy.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "lingua",
+  "english": "language",
+  "pos": "noun",
+  "example_it": "La lingua italiana.",
+  "example_en": "The Italian language.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "italiano",
+  "english": "Italian",
+  "pos": "adj",
+  "example_it": "Cibo italiano.",
+  "example_en": "Italian food.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "inglese",
+  "english": "English",
+  "pos": "adj",
+  "example_it": "Parlo inglese.",
+  "example_en": "I speak English.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "francese",
+  "english": "French",
+  "pos": "adj",
+  "example_it": "Vino francese.",
+  "example_en": "French wine.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "spagnolo",
+  "english": "Spanish",
+  "pos": "adj",
+  "example_it": "Imparo lo spagnolo.",
+  "example_en": "I'm learning Spanish.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "tedesco",
+  "english": "German",
+  "pos": "adj",
+  "example_it": "Birra tedesca.",
+  "example_en": "German beer.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "parola",
+  "english": "word",
+  "pos": "noun",
+  "example_it": "Una parola difficile.",
+  "example_en": "A difficult word.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "frase",
+  "english": "sentence / phrase",
+  "pos": "noun",
+  "example_it": "Una frase lunga.",
+  "example_en": "A long sentence.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "domanda",
+  "english": "question",
+  "pos": "noun",
+  "example_it": "Una buona domanda.",
+  "example_en": "A good question.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "risposta",
+  "english": "answer",
+  "pos": "noun",
+  "example_it": "La risposta giusta.",
+  "example_en": "The right answer.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "errore",
+  "english": "mistake / error",
+  "pos": "noun",
+  "example_it": "Un piccolo errore.",
+  "example_en": "A small mistake.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "regola",
+  "english": "rule",
+  "pos": "noun",
+  "example_it": "Una regola importante.",
+  "example_en": "An important rule.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "aiutare",
+  "english": "to help",
+  "pos": "verb",
+  "example_it": "Mi puoi aiutare?",
+  "example_en": "Can you help me?",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "amare",
+  "english": "to love",
+  "pos": "verb",
+  "example_it": "Ti amo.",
+  "example_en": "I love you.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "odiare",
+  "english": "to hate",
+  "pos": "verb",
+  "example_it": "Odio il lunedì.",
+  "example_en": "I hate Mondays.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "abitare",
+  "english": "to live (reside)",
+  "pos": "verb",
+  "example_it": "Abito a Roma.",
+  "example_en": "I live in Rome.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "vivere",
+  "english": "to live",
+  "pos": "verb",
+  "example_it": "Vivere in Italia.",
+  "example_en": "To live in Italy.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "morire",
+  "english": "to die",
+  "pos": "verb",
+  "example_it": "Tutti dobbiamo morire.",
+  "example_en": "We all have to die.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "nascere",
+  "english": "to be born",
+  "pos": "verb",
+  "example_it": "Nato a Milano.",
+  "example_en": "Born in Milan.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "crescere",
+  "english": "to grow",
+  "pos": "verb",
+  "example_it": "I bambini crescono.",
+  "example_en": "Children grow.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "iniziare",
+  "english": "to start / begin",
+  "pos": "verb",
+  "example_it": "Inizia il film.",
+  "example_en": "The film starts.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "cominciare",
+  "english": "to begin",
+  "pos": "verb",
+  "example_it": "Cominciamo!",
+  "example_en": "Let's begin!",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "smettere",
+  "english": "to stop / quit",
+  "pos": "verb",
+  "example_it": "Smetti di fumare.",
+  "example_en": "Stop smoking.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "fermare",
+  "english": "to stop (something)",
+  "pos": "verb",
+  "example_it": "Ferma la macchina.",
+  "example_en": "Stop the car.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "continuare",
+  "english": "to continue",
+  "pos": "verb",
+  "example_it": "Continua a parlare.",
+  "example_en": "Continue speaking.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "provare",
+  "english": "to try",
+  "pos": "verb",
+  "example_it": "Provo a capire.",
+  "example_en": "I try to understand.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "tentare",
+  "english": "to attempt",
+  "pos": "verb",
+  "example_it": "Tento di nuovo.",
+  "example_en": "I'll try again.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "riuscire",
+  "english": "to succeed / manage",
+  "pos": "verb",
+  "example_it": "Non riesco a dormire.",
+  "example_en": "I can't manage to sleep.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "fallire",
+  "english": "to fail",
+  "pos": "verb",
+  "example_it": "Non voglio fallire.",
+  "example_en": "I don't want to fail.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "scegliere",
+  "english": "to choose",
+  "pos": "verb",
+  "example_it": "Scegli tu.",
+  "example_en": "You choose.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "preferire",
+  "english": "to prefer",
+  "pos": "verb",
+  "example_it": "Preferisco il tè.",
+  "example_en": "I prefer tea.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "volere",
+  "english": "to want",
+  "pos": "verb",
+  "example_it": "Voglio andare.",
+  "example_en": "I want to go.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "potere",
+  "english": "to be able to",
+  "pos": "verb",
+  "example_it": "Posso aiutare.",
+  "example_en": "I can help.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "dovere",
+  "english": "to have to",
+  "pos": "verb",
+  "example_it": "Devo studiare.",
+  "example_en": "I have to study.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "sapere",
+  "english": "to know (facts)",
+  "pos": "verb",
+  "example_it": "So la verità.",
+  "example_en": "I know the truth.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "conoscere",
+  "english": "to know (people)",
+  "pos": "verb",
+  "example_it": "Conosco Marco.",
+  "example_en": "I know Marco.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "capire",
+  "english": "to understand",
+  "pos": "verb",
+  "example_it": "Non capisco.",
+  "example_en": "I don't understand.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "ascoltare",
+  "english": "to listen",
+  "pos": "verb",
+  "example_it": "Ascolta la musica.",
+  "example_en": "Listen to the music.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "sentire",
+  "english": "to hear / feel",
+  "pos": "verb",
+  "example_it": "Senti questo.",
+  "example_en": "Listen to this.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "vedere",
+  "english": "to see",
+  "pos": "verb",
+  "example_it": "Vedo bene.",
+  "example_en": "I can see well.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "guardare",
+  "english": "to watch / look",
+  "pos": "verb",
+  "example_it": "Guarda il film.",
+  "example_en": "Watch the film.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "leggere",
+  "english": "to read",
+  "pos": "verb",
+  "example_it": "Leggo un libro.",
+  "example_en": "I'm reading a book.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "scrivere",
+  "english": "to write",
+  "pos": "verb",
+  "example_it": "Scrivo una lettera.",
+  "example_en": "I'm writing a letter.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "disegnare",
+  "english": "to draw",
+  "pos": "verb",
+  "example_it": "Disegno bene.",
+  "example_en": "I draw well.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "dipingere",
+  "english": "to paint",
+  "pos": "verb",
+  "example_it": "Dipingo paesaggi.",
+  "example_en": "I paint landscapes.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "cantare",
+  "english": "to sing",
+  "pos": "verb",
+  "example_it": "Canta una canzone.",
+  "example_en": "Sing a song.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "ballare",
+  "english": "to dance",
+  "pos": "verb",
+  "example_it": "Ballano insieme.",
+  "example_en": "They dance together.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "suonare",
+  "english": "to play (instrument)",
+  "pos": "verb",
+  "example_it": "Suono la chitarra.",
+  "example_en": "I play guitar.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "giocare",
+  "english": "to play (game)",
+  "pos": "verb",
+  "example_it": "I bambini giocano.",
+  "example_en": "The children play.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "vincere",
+  "english": "to win",
+  "pos": "verb",
+  "example_it": "Voglio vincere.",
+  "example_en": "I want to win.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "correre",
+  "english": "to run",
+  "pos": "verb",
+  "example_it": "Corro ogni mattina.",
+  "example_en": "I run every morning.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "camminare",
+  "english": "to walk",
+  "pos": "verb",
+  "example_it": "Cammino al parco.",
+  "example_en": "I walk in the park.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "saltare",
+  "english": "to jump",
+  "pos": "verb",
+  "example_it": "Il bambino salta.",
+  "example_en": "The child jumps.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "nuotare",
+  "english": "to swim",
+  "pos": "verb",
+  "example_it": "Nuoto in piscina.",
+  "example_en": "I swim in the pool.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "volare",
+  "english": "to fly",
+  "pos": "verb",
+  "example_it": "L'aereo vola.",
+  "example_en": "The airplane flies.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "salire",
+  "english": "to go up / climb",
+  "pos": "verb",
+  "example_it": "Saliamo le scale.",
+  "example_en": "We go up the stairs.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "scendere",
+  "english": "to go down",
+  "pos": "verb",
+  "example_it": "Scendi qui.",
+  "example_en": "Get off here.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "entrare",
+  "english": "to enter",
+  "pos": "verb",
+  "example_it": "Entra, prego.",
+  "example_en": "Come in, please.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "uscire",
+  "english": "to go out / exit",
+  "pos": "verb",
+  "example_it": "Esco di casa.",
+  "example_en": "I leave the house.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "tornare",
+  "english": "to return",
+  "pos": "verb",
+  "example_it": "Torno presto.",
+  "example_en": "I'll be back soon.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "restare",
+  "english": "to stay",
+  "pos": "verb",
+  "example_it": "Resto a casa.",
+  "example_en": "I'm staying home.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "rimanere",
+  "english": "to remain",
+  "pos": "verb",
+  "example_it": "Rimani con me.",
+  "example_en": "Stay with me.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "aspettare",
+  "english": "to wait",
+  "pos": "verb",
+  "example_it": "Aspetto un amico.",
+  "example_en": "I'm waiting for a friend.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "incontrare",
+  "english": "to meet",
+  "pos": "verb",
+  "example_it": "Incontro Maria al bar.",
+  "example_en": "I'm meeting Maria at the café.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "salutare",
+  "english": "to greet",
+  "pos": "verb",
+  "example_it": "Salutiamo gli amici.",
+  "example_en": "Let's greet our friends.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "presentare",
+  "english": "to introduce",
+  "pos": "verb",
+  "example_it": "Ti presento Marco.",
+  "example_en": "Let me introduce Marco.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "raccontare",
+  "english": "to tell (a story)",
+  "pos": "verb",
+  "example_it": "Racconta una storia.",
+  "example_en": "Tell a story.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "domandare",
+  "english": "to ask (a question)",
+  "pos": "verb",
+  "example_it": "Domando aiuto.",
+  "example_en": "I'm asking for help.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "chiedere",
+  "english": "to ask / request",
+  "pos": "verb",
+  "example_it": "Chiedi al cameriere.",
+  "example_en": "Ask the waiter.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "ringraziare",
+  "english": "to thank",
+  "pos": "verb",
+  "example_it": "Voglio ringraziarti.",
+  "example_en": "I want to thank you.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "scusare",
+  "english": "to excuse",
+  "pos": "verb",
+  "example_it": "Scusami!",
+  "example_en": "Excuse me!",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "regalare",
+  "english": "to give as a gift",
+  "pos": "verb",
+  "example_it": "Le regalo un libro.",
+  "example_en": "I give her a book.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "donare",
+  "english": "to donate",
+  "pos": "verb",
+  "example_it": "Doniamo soldi.",
+  "example_en": "We donate money.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "ricevere",
+  "english": "to receive",
+  "pos": "verb",
+  "example_it": "Ricevo un'email.",
+  "example_en": "I receive an email.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "inviare",
+  "english": "to send",
+  "pos": "verb",
+  "example_it": "Invio il file.",
+  "example_en": "I'm sending the file.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "spedire",
+  "english": "to ship / mail",
+  "pos": "verb",
+  "example_it": "Spedisco un pacco.",
+  "example_en": "I'm mailing a package.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "portare",
+  "english": "to bring / carry",
+  "pos": "verb",
+  "example_it": "Porto il vino.",
+  "example_en": "I'll bring the wine.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "prendere",
+  "english": "to take",
+  "pos": "verb",
+  "example_it": "Prendo il treno.",
+  "example_en": "I'm taking the train.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "mettere",
+  "english": "to put",
+  "pos": "verb",
+  "example_it": "Metti qui.",
+  "example_en": "Put it here.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "tenere",
+  "english": "to hold / keep",
+  "pos": "verb",
+  "example_it": "Tieni questo.",
+  "example_en": "Hold this.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "lasciare",
+  "english": "to leave (behind)",
+  "pos": "verb",
+  "example_it": "Lascia la chiave.",
+  "example_en": "Leave the key.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "dare",
+  "english": "to give",
+  "pos": "verb",
+  "example_it": "Dammi il libro.",
+  "example_en": "Give me the book.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "aprire",
+  "english": "to open",
+  "pos": "verb",
+  "example_it": "Apri la finestra.",
+  "example_en": "Open the window.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "chiudere",
+  "english": "to close",
+  "pos": "verb",
+  "example_it": "Chiudi la porta.",
+  "example_en": "Close the door.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "rompere",
+  "english": "to break",
+  "pos": "verb",
+  "example_it": "Ho rotto il vetro.",
+  "example_en": "I broke the glass.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "riparare",
+  "english": "to repair",
+  "pos": "verb",
+  "example_it": "Devo riparare la macchina.",
+  "example_en": "I have to repair the car.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "costruire",
+  "english": "to build",
+  "pos": "verb",
+  "example_it": "Costruiamo una casa.",
+  "example_en": "We're building a house.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "creare",
+  "english": "to create",
+  "pos": "verb",
+  "example_it": "Creo arte.",
+  "example_en": "I create art.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "cambiare",
+  "english": "to change",
+  "pos": "verb",
+  "example_it": "Voglio cambiare.",
+  "example_en": "I want to change.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "girare",
+  "english": "to turn / spin",
+  "pos": "verb",
+  "example_it": "Gira a destra.",
+  "example_en": "Turn right.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "muovere",
+  "english": "to move",
+  "pos": "verb",
+  "example_it": "Muovi le mani.",
+  "example_en": "Move your hands.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "pulire",
+  "english": "to clean",
+  "pos": "verb",
+  "example_it": "Pulisco la cucina.",
+  "example_en": "I'm cleaning the kitchen.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "sporcare",
+  "english": "to dirty",
+  "pos": "verb",
+  "example_it": "Non sporcare il pavimento.",
+  "example_en": "Don't dirty the floor.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "lavare",
+  "english": "to wash",
+  "pos": "verb",
+  "example_it": "Lavo i piatti.",
+  "example_en": "I'm washing the dishes.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "asciugare",
+  "english": "to dry",
+  "pos": "verb",
+  "example_it": "Asciuga i piatti.",
+  "example_en": "Dry the dishes.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "indossare",
+  "english": "to wear",
+  "pos": "verb",
+  "example_it": "Indosso un vestito.",
+  "example_en": "I'm wearing a dress.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "togliere",
+  "english": "to remove / take off",
+  "pos": "verb",
+  "example_it": "Togli le scarpe.",
+  "example_en": "Take off your shoes.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "dormire",
+  "english": "to sleep",
+  "pos": "verb",
+  "example_it": "Dormo otto ore.",
+  "example_en": "I sleep eight hours.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "svegliare",
+  "english": "to wake up (someone)",
+  "pos": "verb",
+  "example_it": "Svegliami alle sette.",
+  "example_en": "Wake me at seven.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "alzare",
+  "english": "to raise / lift",
+  "pos": "verb",
+  "example_it": "Alza il volume.",
+  "example_en": "Turn up the volume.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "sedere",
+  "english": "to sit",
+  "pos": "verb",
+  "example_it": "Siediti qui.",
+  "example_en": "Sit here.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "riposare",
+  "english": "to rest",
+  "pos": "verb",
+  "example_it": "Devo riposare.",
+  "example_en": "I need to rest.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "respirare",
+  "english": "to breathe",
+  "pos": "verb",
+  "example_it": "Respira profondamente.",
+  "example_en": "Breathe deeply.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "ridere",
+  "english": "to laugh",
+  "pos": "verb",
+  "example_it": "Ridiamo insieme.",
+  "example_en": "We laugh together.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "sorridere",
+  "english": "to smile",
+  "pos": "verb",
+  "example_it": "Sorridi alla foto.",
+  "example_en": "Smile for the photo.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "piangere",
+  "english": "to cry",
+  "pos": "verb",
+  "example_it": "Il bambino piange.",
+  "example_en": "The child is crying.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "gridare",
+  "english": "to shout",
+  "pos": "verb",
+  "example_it": "Non gridare.",
+  "example_en": "Don't shout.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "baciare",
+  "english": "to kiss",
+  "pos": "verb",
+  "example_it": "Bacia il bambino.",
+  "example_en": "Kiss the child.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "abbracciare",
+  "english": "to hug",
+  "pos": "verb",
+  "example_it": "Abbraccia tua sorella.",
+  "example_en": "Hug your sister.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "sport",
+  "english": "sport",
+  "pos": "noun",
+  "example_it": "Faccio sport.",
+  "example_en": "I play sports.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "calcio",
+  "english": "soccer",
+  "pos": "noun",
+  "example_it": "Mi piace il calcio.",
+  "example_en": "I like soccer.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "tennis",
+  "english": "tennis",
+  "pos": "noun",
+  "example_it": "Gioco a tennis.",
+  "example_en": "I play tennis.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "pallacanestro",
+  "english": "basketball",
+  "pos": "noun",
+  "example_it": "La pallacanestro è popolare.",
+  "example_en": "Basketball is popular.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "nuoto",
+  "english": "swimming",
+  "pos": "noun",
+  "example_it": "Il nuoto è uno sport.",
+  "example_en": "Swimming is a sport.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "corsa",
+  "english": "running",
+  "pos": "noun",
+  "example_it": "La corsa fa bene.",
+  "example_en": "Running is good for you.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "partita",
+  "english": "game / match",
+  "pos": "noun",
+  "example_it": "La partita di calcio.",
+  "example_en": "The soccer match.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "squadra",
+  "english": "team",
+  "pos": "noun",
+  "example_it": "La mia squadra preferita.",
+  "example_en": "My favorite team.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "allenamento",
+  "english": "training",
+  "pos": "noun",
+  "example_it": "Vado all'allenamento.",
+  "example_en": "I'm going to training.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "vittoria",
+  "english": "victory",
+  "pos": "noun",
+  "example_it": "Una grande vittoria.",
+  "example_en": "A big victory.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "sconfitta",
+  "english": "defeat",
+  "pos": "noun",
+  "example_it": "Una brutta sconfitta.",
+  "example_en": "A bad defeat.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "hobby",
+  "english": "hobby",
+  "pos": "noun",
+  "example_it": "Il mio hobby.",
+  "example_en": "My hobby.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "passatempo",
+  "english": "pastime",
+  "pos": "noun",
+  "example_it": "Un passatempo divertente.",
+  "example_en": "A fun pastime.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "lettura",
+  "english": "reading",
+  "pos": "noun",
+  "example_it": "Amo la lettura.",
+  "example_en": "I love reading.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "scrittura",
+  "english": "writing",
+  "pos": "noun",
+  "example_it": "La scrittura creativa.",
+  "example_en": "Creative writing.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "viaggi",
+  "english": "travels",
+  "pos": "noun",
+  "example_it": "I miei viaggi.",
+  "example_en": "My travels.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "fotografia",
+  "english": "photography",
+  "pos": "noun",
+  "example_it": "Mi piace la fotografia.",
+  "example_en": "I like photography.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "malato",
+  "english": "sick",
+  "pos": "adj",
+  "example_it": "Sono malato.",
+  "example_en": "I'm sick.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "malattia",
+  "english": "illness",
+  "pos": "noun",
+  "example_it": "Una malattia rara.",
+  "example_en": "A rare illness.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "febbre",
+  "english": "fever",
+  "pos": "noun",
+  "example_it": "Ho la febbre.",
+  "example_en": "I have a fever.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "dolore",
+  "english": "pain",
+  "pos": "noun",
+  "example_it": "Sento dolore.",
+  "example_en": "I feel pain.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "raffreddore",
+  "english": "cold (illness)",
+  "pos": "noun",
+  "example_it": "Ho il raffreddore.",
+  "example_en": "I have a cold.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "tosse",
+  "english": "cough",
+  "pos": "noun",
+  "example_it": "Una brutta tosse.",
+  "example_en": "A bad cough.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "mal di testa",
+  "english": "headache",
+  "pos": "noun",
+  "example_it": "Ho mal di testa.",
+  "example_en": "I have a headache.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "medicina",
+  "english": "medicine",
+  "pos": "noun",
+  "example_it": "Prendo la medicina.",
+  "example_en": "I take the medicine.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "pillola",
+  "english": "pill",
+  "pos": "noun",
+  "example_it": "Una pillola al giorno.",
+  "example_en": "A pill a day.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "ricetta",
+  "english": "prescription / recipe",
+  "pos": "noun",
+  "example_it": "Una ricetta del medico.",
+  "example_en": "A doctor's prescription.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "controllo",
+  "english": "check-up / control",
+  "pos": "noun",
+  "example_it": "Faccio un controllo.",
+  "example_en": "I'm having a check-up.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "sano",
+  "english": "healthy",
+  "pos": "adj",
+  "example_it": "Cibo sano.",
+  "example_en": "Healthy food.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "energia",
+  "english": "energy",
+  "pos": "noun",
+  "example_it": "Mi serve energia.",
+  "example_en": "I need energy.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "destra",
+  "english": "right (direction)",
+  "pos": "noun",
+  "example_it": "A destra.",
+  "example_en": "On the right.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "sinistra",
+  "english": "left (direction)",
+  "pos": "noun",
+  "example_it": "A sinistra.",
+  "example_en": "On the left.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "dritto",
+  "english": "straight",
+  "pos": "adv",
+  "example_it": "Vai sempre dritto.",
+  "example_en": "Go straight ahead.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "vicino",
+  "english": "near",
+  "pos": "adv",
+  "example_it": "Vicino alla casa.",
+  "example_en": "Near the house.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "lontano",
+  "english": "far",
+  "pos": "adv",
+  "example_it": "È lontano da qui.",
+  "example_en": "It's far from here.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "qui",
+  "english": "here",
+  "pos": "adv",
+  "example_it": "Sono qui.",
+  "example_en": "I'm here.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "qua",
+  "english": "here (general)",
+  "pos": "adv",
+  "example_it": "Vieni qua.",
+  "example_en": "Come here.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "lì",
+  "english": "there",
+  "pos": "adv",
+  "example_it": "Vai lì.",
+  "example_en": "Go there.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "là",
+  "english": "there (further)",
+  "pos": "adv",
+  "example_it": "Là in fondo.",
+  "example_en": "Way over there.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "dentro",
+  "english": "inside",
+  "pos": "adv",
+  "example_it": "Dentro la casa.",
+  "example_en": "Inside the house.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "fuori",
+  "english": "outside",
+  "pos": "adv",
+  "example_it": "Andiamo fuori.",
+  "example_en": "Let's go outside.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "sopra",
+  "english": "above / on top",
+  "pos": "adv",
+  "example_it": "Sopra il tavolo.",
+  "example_en": "On the table.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "sotto",
+  "english": "below / under",
+  "pos": "adv",
+  "example_it": "Sotto il letto.",
+  "example_en": "Under the bed.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "davanti",
+  "english": "in front",
+  "pos": "adv",
+  "example_it": "Davanti alla porta.",
+  "example_en": "In front of the door.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "dietro",
+  "english": "behind",
+  "pos": "adv",
+  "example_it": "Dietro la sedia.",
+  "example_en": "Behind the chair.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "accanto",
+  "english": "next to",
+  "pos": "adv",
+  "example_it": "Accanto a me.",
+  "example_en": "Next to me.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "tra",
+  "english": "between / among",
+  "pos": "prep",
+  "example_it": "Tra noi due.",
+  "example_en": "Between us two.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "fra",
+  "english": "between / in (time)",
+  "pos": "prep",
+  "example_it": "Fra cinque minuti.",
+  "example_en": "In five minutes.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "verso",
+  "english": "toward",
+  "pos": "prep",
+  "example_it": "Vado verso casa.",
+  "example_en": "I'm heading home.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "fino a",
+  "english": "until / up to",
+  "pos": "prep",
+  "example_it": "Fino a domani.",
+  "example_en": "Until tomorrow.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "intorno",
+  "english": "around",
+  "pos": "adv",
+  "example_it": "Intorno alla casa.",
+  "example_en": "Around the house.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "ovunque",
+  "english": "everywhere",
+  "pos": "adv",
+  "example_it": "Ti cerco ovunque.",
+  "example_en": "I'm looking for you everywhere.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "nessun posto",
+  "english": "nowhere",
+  "pos": "noun",
+  "example_it": "Non vado in nessun posto.",
+  "example_en": "I'm not going anywhere.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "morte",
+  "english": "death",
+  "pos": "noun",
+  "example_it": "La morte è triste.",
+  "example_en": "Death is sad.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "verità",
+  "english": "truth",
+  "pos": "noun",
+  "example_it": "Dimmi la verità.",
+  "example_en": "Tell me the truth.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "bugia",
+  "english": "lie",
+  "pos": "noun",
+  "example_it": "Una piccola bugia.",
+  "example_en": "A small lie.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "speranza",
+  "english": "hope",
+  "pos": "noun",
+  "example_it": "Una nuova speranza.",
+  "example_en": "A new hope.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "paura",
+  "english": "fear",
+  "pos": "noun",
+  "example_it": "Ho paura.",
+  "example_en": "I'm afraid.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "coraggio",
+  "english": "courage",
+  "pos": "noun",
+  "example_it": "Ci vuole coraggio.",
+  "example_en": "It takes courage.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "fortuna",
+  "english": "luck / fortune",
+  "pos": "noun",
+  "example_it": "Buona fortuna!",
+  "example_en": "Good luck!",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "sfortuna",
+  "english": "bad luck",
+  "pos": "noun",
+  "example_it": "Che sfortuna!",
+  "example_en": "What bad luck!",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "destino",
+  "english": "fate / destiny",
+  "pos": "noun",
+  "example_it": "È il destino.",
+  "example_en": "It's fate.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "passione",
+  "english": "passion",
+  "pos": "noun",
+  "example_it": "La sua grande passione.",
+  "example_en": "His great passion.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "felicità",
+  "english": "happiness",
+  "pos": "noun",
+  "example_it": "La felicità è importante.",
+  "example_en": "Happiness is important.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "tristezza",
+  "english": "sadness",
+  "pos": "noun",
+  "example_it": "Una grande tristezza.",
+  "example_en": "A great sadness.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "rabbia",
+  "english": "anger",
+  "pos": "noun",
+  "example_it": "Sento rabbia.",
+  "example_en": "I feel anger.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "gioia",
+  "english": "joy",
+  "pos": "noun",
+  "example_it": "Una grande gioia.",
+  "example_en": "A great joy.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "emozione",
+  "english": "emotion",
+  "pos": "noun",
+  "example_it": "Una forte emozione.",
+  "example_en": "A strong emotion.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "sentimento",
+  "english": "feeling",
+  "pos": "noun",
+  "example_it": "Un sentimento profondo.",
+  "example_en": "A deep feeling.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "carattere",
+  "english": "character / personality",
+  "pos": "noun",
+  "example_it": "Un carattere forte.",
+  "example_en": "A strong character.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "personalità",
+  "english": "personality",
+  "pos": "noun",
+  "example_it": "Una personalità unica.",
+  "example_en": "A unique personality.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "cultura",
+  "english": "culture",
+  "pos": "noun",
+  "example_it": "La cultura italiana.",
+  "example_en": "Italian culture.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "tradizione",
+  "english": "tradition",
+  "pos": "noun",
+  "example_it": "Una vecchia tradizione.",
+  "example_en": "An old tradition.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "abitudine",
+  "english": "habit",
+  "pos": "noun",
+  "example_it": "Una buona abitudine.",
+  "example_en": "A good habit.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "religione",
+  "english": "religion",
+  "pos": "noun",
+  "example_it": "La religione cattolica.",
+  "example_en": "The Catholic religion.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "storia",
+  "english": "history / story",
+  "pos": "noun",
+  "example_it": "Una bella storia.",
+  "example_en": "A nice story.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "arte",
+  "english": "art",
+  "pos": "noun",
+  "example_it": "L'arte italiana.",
+  "example_en": "Italian art.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "scienza",
+  "english": "science",
+  "pos": "noun",
+  "example_it": "La scienza moderna.",
+  "example_en": "Modern science.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "filosofia",
+  "english": "philosophy",
+  "pos": "noun",
+  "example_it": "Studio filosofia.",
+  "example_en": "I study philosophy.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "politica",
+  "english": "politics",
+  "pos": "noun",
+  "example_it": "Non parlo di politica.",
+  "example_en": "I don't talk politics.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "governo",
+  "english": "government",
+  "pos": "noun",
+  "example_it": "Il nuovo governo.",
+  "example_en": "The new government.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "presidente",
+  "english": "president",
+  "pos": "noun",
+  "example_it": "Il presidente parla.",
+  "example_en": "The president speaks.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "elezioni",
+  "english": "elections",
+  "pos": "noun",
+  "example_it": "Le elezioni nazionali.",
+  "example_en": "The national elections.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "legge",
+  "english": "law",
+  "pos": "noun",
+  "example_it": "Una nuova legge.",
+  "example_en": "A new law.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "diritto",
+  "english": "right (legal)",
+  "pos": "noun",
+  "example_it": "I diritti umani.",
+  "example_en": "Human rights.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "libertà",
+  "english": "freedom",
+  "pos": "noun",
+  "example_it": "La libertà di parola.",
+  "example_en": "Freedom of speech.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "pace",
+  "english": "peace",
+  "pos": "noun",
+  "example_it": "Vogliamo la pace.",
+  "example_en": "We want peace.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "guerra",
+  "english": "war",
+  "pos": "noun",
+  "example_it": "La guerra mondiale.",
+  "example_en": "The world war.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "società",
+  "english": "society",
+  "pos": "noun",
+  "example_it": "La società moderna.",
+  "example_en": "Modern society.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "comunità",
+  "english": "community",
+  "pos": "noun",
+  "example_it": "La nostra comunità.",
+  "example_en": "Our community.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "popolazione",
+  "english": "population",
+  "pos": "noun",
+  "example_it": "La popolazione cresce.",
+  "example_en": "The population grows.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "ambiente",
+  "english": "environment",
+  "pos": "noun",
+  "example_it": "Proteggiamo l'ambiente.",
+  "example_en": "Let's protect the environment.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "natura",
+  "english": "nature",
+  "pos": "noun",
+  "example_it": "Amo la natura.",
+  "example_en": "I love nature.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "mondo",
+  "english": "world",
+  "pos": "noun",
+  "example_it": "Tutto il mondo.",
+  "example_en": "The whole world.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "terra",
+  "english": "earth / land",
+  "pos": "noun",
+  "example_it": "La Terra è rotonda.",
+  "example_en": "The Earth is round.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "parere",
+  "english": "opinion / view",
+  "pos": "noun",
+  "example_it": "A mio parere.",
+  "example_en": "In my view.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "consiglio",
+  "english": "advice",
+  "pos": "noun",
+  "example_it": "Un buon consiglio.",
+  "example_en": "Good advice.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "suggerimento",
+  "english": "suggestion",
+  "pos": "noun",
+  "example_it": "Un utile suggerimento.",
+  "example_en": "A useful suggestion.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "critica",
+  "english": "criticism",
+  "pos": "noun",
+  "example_it": "Una critica costruttiva.",
+  "example_en": "Constructive criticism.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "discussione",
+  "english": "discussion / argument",
+  "pos": "noun",
+  "example_it": "Una lunga discussione.",
+  "example_en": "A long discussion.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "conversazione",
+  "english": "conversation",
+  "pos": "noun",
+  "example_it": "Una conversazione interessante.",
+  "example_en": "An interesting conversation.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "dialogo",
+  "english": "dialogue",
+  "pos": "noun",
+  "example_it": "Un dialogo aperto.",
+  "example_en": "An open dialogue.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "discorso",
+  "english": "speech / talk",
+  "pos": "noun",
+  "example_it": "Un lungo discorso.",
+  "example_en": "A long speech.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "commento",
+  "english": "comment",
+  "pos": "noun",
+  "example_it": "Un commento utile.",
+  "example_en": "A useful comment.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "discutere",
+  "english": "to discuss",
+  "pos": "verb",
+  "example_it": "Discutiamo del problema.",
+  "example_en": "Let's discuss the problem.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "esprimere",
+  "english": "to express",
+  "pos": "verb",
+  "example_it": "Esprimo le mie idee.",
+  "example_en": "I express my ideas.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "dichiarare",
+  "english": "to declare",
+  "pos": "verb",
+  "example_it": "Dichiaro la verità.",
+  "example_en": "I declare the truth.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "ammettere",
+  "english": "to admit",
+  "pos": "verb",
+  "example_it": "Ammetto che è difficile.",
+  "example_en": "I admit it's difficult.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "negare",
+  "english": "to deny",
+  "pos": "verb",
+  "example_it": "Nego ogni accusa.",
+  "example_en": "I deny every accusation.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "promettere",
+  "english": "to promise",
+  "pos": "verb",
+  "example_it": "Te lo prometto.",
+  "example_en": "I promise you.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "consigliare",
+  "english": "to advise",
+  "pos": "verb",
+  "example_it": "Ti consiglio questo libro.",
+  "example_en": "I recommend this book.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "suggerire",
+  "english": "to suggest",
+  "pos": "verb",
+  "example_it": "Suggerisco di partire.",
+  "example_en": "I suggest leaving.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "criticare",
+  "english": "to criticize",
+  "pos": "verb",
+  "example_it": "Non mi criticare.",
+  "example_en": "Don't criticize me.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "lamentarsi",
+  "english": "to complain",
+  "pos": "verb",
+  "example_it": "Si lamenta sempre.",
+  "example_en": "He always complains.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "desiderare",
+  "english": "to desire / wish",
+  "pos": "verb",
+  "example_it": "Desidero un caffè.",
+  "example_en": "I'd like a coffee.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "augurare",
+  "english": "to wish (someone)",
+  "pos": "verb",
+  "example_it": "Ti auguro buon viaggio.",
+  "example_en": "I wish you a good trip.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "sperare",
+  "english": "to hope",
+  "pos": "verb",
+  "example_it": "Spero di vederti.",
+  "example_en": "I hope to see you.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "dubitare",
+  "english": "to doubt",
+  "pos": "verb",
+  "example_it": "Dubito che sia vero.",
+  "example_en": "I doubt it's true.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "supporre",
+  "english": "to suppose",
+  "pos": "verb",
+  "example_it": "Suppongo di sì.",
+  "example_en": "I suppose so.",
+  "level": "B1",
+  "difficulty": 5
+ },
+ {
+  "italian": "immaginare",
+  "english": "to imagine",
+  "pos": "verb",
+  "example_it": "Immagina la scena.",
+  "example_en": "Imagine the scene.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "evitare",
+  "english": "to avoid",
+  "pos": "verb",
+  "example_it": "Evita lo zucchero.",
+  "example_en": "Avoid sugar.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "permettere",
+  "english": "to allow",
+  "pos": "verb",
+  "example_it": "Non lo permetto.",
+  "example_en": "I don't allow it.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "vietare",
+  "english": "to forbid",
+  "pos": "verb",
+  "example_it": "È vietato fumare.",
+  "example_en": "Smoking is forbidden.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "obbligare",
+  "english": "to force / oblige",
+  "pos": "verb",
+  "example_it": "Mi obbligano a partire.",
+  "example_en": "They force me to leave.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "convincere",
+  "english": "to convince",
+  "pos": "verb",
+  "example_it": "Convincimi.",
+  "example_en": "Convince me.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "ammirare",
+  "english": "to admire",
+  "pos": "verb",
+  "example_it": "Ammiro la tua forza.",
+  "example_en": "I admire your strength.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "rispettare",
+  "english": "to respect",
+  "pos": "verb",
+  "example_it": "Rispetta gli anziani.",
+  "example_en": "Respect the elderly.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "ignorare",
+  "english": "to ignore",
+  "pos": "verb",
+  "example_it": "Mi ignora.",
+  "example_en": "He's ignoring me.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "considerare",
+  "english": "to consider",
+  "pos": "verb",
+  "example_it": "Considera l'idea.",
+  "example_en": "Consider the idea.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "notare",
+  "english": "to notice",
+  "pos": "verb",
+  "example_it": "Noti la differenza?",
+  "example_en": "Do you notice the difference?",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "accorgersi",
+  "english": "to realize",
+  "pos": "verb",
+  "example_it": "Mi sono accorto.",
+  "example_en": "I realized.",
+  "level": "B1",
+  "difficulty": 5
+ },
+ {
+  "italian": "preoccuparsi",
+  "english": "to worry",
+  "pos": "verb",
+  "example_it": "Non preoccuparti.",
+  "example_en": "Don't worry.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "fidarsi",
+  "english": "to trust",
+  "pos": "verb",
+  "example_it": "Mi fido di te.",
+  "example_en": "I trust you.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "abituarsi",
+  "english": "to get used to",
+  "pos": "verb",
+  "example_it": "Mi abituo al lavoro.",
+  "example_en": "I'm getting used to the job.",
+  "level": "B1",
+  "difficulty": 5
+ },
+ {
+  "italian": "prima",
+  "english": "before / first",
+  "pos": "adv",
+  "example_it": "Prima il lavoro.",
+  "example_en": "Work first.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "dopo",
+  "english": "after / later",
+  "pos": "adv",
+  "example_it": "Dopo cena.",
+  "example_en": "After dinner.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "poi",
+  "english": "then",
+  "pos": "adv",
+  "example_it": "E poi?",
+  "example_en": "And then?",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "subito",
+  "english": "immediately",
+  "pos": "adv",
+  "example_it": "Vengo subito.",
+  "example_en": "I'll come right away.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "presto",
+  "english": "soon / early",
+  "pos": "adv",
+  "example_it": "A presto!",
+  "example_en": "See you soon!",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "tardi",
+  "english": "late",
+  "pos": "adv",
+  "example_it": "È troppo tardi.",
+  "example_en": "It's too late.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "spesso",
+  "english": "often",
+  "pos": "adv",
+  "example_it": "Mangio spesso.",
+  "example_en": "I eat often.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "raramente",
+  "english": "rarely",
+  "pos": "adv",
+  "example_it": "Raramente bevo birra.",
+  "example_en": "I rarely drink beer.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "improvvisamente",
+  "english": "suddenly",
+  "pos": "adv",
+  "example_it": "Improvvisamente, è arrivato.",
+  "example_en": "Suddenly, he arrived.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "lentamente",
+  "english": "slowly",
+  "pos": "adv",
+  "example_it": "Parla lentamente.",
+  "example_en": "Speak slowly.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "rapidamente",
+  "english": "quickly",
+  "pos": "adv",
+  "example_it": "Vai rapidamente.",
+  "example_en": "Go quickly.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "facilmente",
+  "english": "easily",
+  "pos": "adv",
+  "example_it": "Lo capisco facilmente.",
+  "example_en": "I understand easily.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "molto",
+  "english": "very / a lot",
+  "pos": "adv",
+  "example_it": "Molto bene!",
+  "example_en": "Very good!",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "poco",
+  "english": "a little",
+  "pos": "adv",
+  "example_it": "Solo un poco.",
+  "example_en": "Just a little.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "abbastanza",
+  "english": "enough",
+  "pos": "adv",
+  "example_it": "Ho mangiato abbastanza.",
+  "example_en": "I've eaten enough.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "troppo",
+  "english": "too / too much",
+  "pos": "adv",
+  "example_it": "È troppo caldo.",
+  "example_en": "It's too hot.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "tanto",
+  "english": "so much / a lot",
+  "pos": "adv",
+  "example_it": "Ti voglio tanto bene.",
+  "example_en": "I love you so much.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "quasi",
+  "english": "almost",
+  "pos": "adv",
+  "example_it": "Quasi pronto.",
+  "example_en": "Almost ready.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "circa",
+  "english": "about / approximately",
+  "pos": "adv",
+  "example_it": "Circa dieci minuti.",
+  "example_en": "About ten minutes.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "soltanto",
+  "english": "only / just",
+  "pos": "adv",
+  "example_it": "Soltanto un momento.",
+  "example_en": "Just a moment.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "solo",
+  "english": "only / alone",
+  "pos": "adv",
+  "example_it": "Solo io.",
+  "example_en": "Only me.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "anche se",
+  "english": "even if / although",
+  "pos": "conj",
+  "example_it": "Vengo anche se piove.",
+  "example_en": "I'll come even if it rains.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "benché",
+  "english": "although",
+  "pos": "conj",
+  "example_it": "Benché sia tardi.",
+  "example_en": "Although it's late.",
+  "level": "B1",
+  "difficulty": 5
+ },
+ {
+  "italian": "sebbene",
+  "english": "although",
+  "pos": "conj",
+  "example_it": "Sebbene sia stanco.",
+  "example_en": "Although I'm tired.",
+  "level": "B1",
+  "difficulty": 5
+ },
+ {
+  "italian": "tuttavia",
+  "english": "however / nevertheless",
+  "pos": "conj",
+  "example_it": "È difficile, tuttavia possibile.",
+  "example_en": "It's hard, however possible.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "comunque",
+  "english": "anyway / however",
+  "pos": "adv",
+  "example_it": "Comunque, andiamo.",
+  "example_en": "Anyway, let's go.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "infatti",
+  "english": "in fact",
+  "pos": "adv",
+  "example_it": "Infatti, è vero.",
+  "example_en": "In fact, it's true.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "invece",
+  "english": "instead",
+  "pos": "adv",
+  "example_it": "Invece di andare.",
+  "example_en": "Instead of going.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "inoltre",
+  "english": "moreover",
+  "pos": "adv",
+  "example_it": "Inoltre, è economico.",
+  "example_en": "Moreover, it's cheap.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "infine",
+  "english": "finally",
+  "pos": "adv",
+  "example_it": "Infine, abbiamo finito.",
+  "example_en": "Finally, we've finished.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "quindi",
+  "english": "therefore",
+  "pos": "conj",
+  "example_it": "Piove, quindi resto.",
+  "example_en": "It's raining, so I'll stay.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "perciò",
+  "english": "therefore",
+  "pos": "conj",
+  "example_it": "È tardi, perciò vado.",
+  "example_en": "It's late, so I'm going.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "allora",
+  "english": "then / so",
+  "pos": "adv",
+  "example_it": "Allora, andiamo.",
+  "example_en": "So, let's go.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "se",
+  "english": "if",
+  "pos": "conj",
+  "example_it": "Se vuoi.",
+  "example_en": "If you want.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "ma",
+  "english": "but",
+  "pos": "conj",
+  "example_it": "Sì, ma...",
+  "example_en": "Yes, but...",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "e",
+  "english": "and",
+  "pos": "conj",
+  "example_it": "Pane e burro.",
+  "example_en": "Bread and butter.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "o",
+  "english": "or",
+  "pos": "conj",
+  "example_it": "Tè o caffè?",
+  "example_en": "Tea or coffee?",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "che",
+  "english": "that / which",
+  "pos": "conj",
+  "example_it": "Penso che sia giusto.",
+  "example_en": "I think it's right.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "tutto",
+  "english": "all / everything",
+  "pos": "pron",
+  "example_it": "Tutto bene.",
+  "example_en": "All good.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "tutti",
+  "english": "everyone / all",
+  "pos": "pron",
+  "example_it": "Tutti insieme.",
+  "example_en": "All together.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "niente",
+  "english": "nothing",
+  "pos": "pron",
+  "example_it": "Non vedo niente.",
+  "example_en": "I don't see anything.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "nulla",
+  "english": "nothing (formal)",
+  "pos": "pron",
+  "example_it": "Non c'è nulla.",
+  "example_en": "There's nothing.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "qualcosa",
+  "english": "something",
+  "pos": "pron",
+  "example_it": "Voglio qualcosa.",
+  "example_en": "I want something.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "qualcuno",
+  "english": "someone",
+  "pos": "pron",
+  "example_it": "Qualcuno è qui.",
+  "example_en": "Someone is here.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "nessuno",
+  "english": "no one",
+  "pos": "pron",
+  "example_it": "Nessuno è venuto.",
+  "example_en": "No one came.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "ognuno",
+  "english": "each one",
+  "pos": "pron",
+  "example_it": "Ognuno paga la sua parte.",
+  "example_en": "Each one pays their share.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "alcuni",
+  "english": "some",
+  "pos": "adj",
+  "example_it": "Alcuni amici.",
+  "example_en": "Some friends.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "molti",
+  "english": "many",
+  "pos": "adj",
+  "example_it": "Molti studenti.",
+  "example_en": "Many students.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "pochi",
+  "english": "few",
+  "pos": "adj",
+  "example_it": "Pochi soldi.",
+  "example_en": "Little money.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "ogni",
+  "english": "every / each",
+  "pos": "adj",
+  "example_it": "Ogni giorno.",
+  "example_en": "Every day.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "altro",
+  "english": "other / another",
+  "pos": "adj",
+  "example_it": "Un altro caffè.",
+  "example_en": "Another coffee.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "questo",
+  "english": "this",
+  "pos": "pron",
+  "example_it": "Questo è bello.",
+  "example_en": "This is nice.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "quello",
+  "english": "that",
+  "pos": "pron",
+  "example_it": "Quello là.",
+  "example_en": "That one over there.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "quanto",
+  "english": "how much",
+  "pos": "adv",
+  "example_it": "Quanto costa?",
+  "example_en": "How much?",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "quanti",
+  "english": "how many",
+  "pos": "adj",
+  "example_it": "Quanti anni hai?",
+  "example_en": "How old are you?",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "come",
+  "english": "how / like",
+  "pos": "adv",
+  "example_it": "Come stai?",
+  "example_en": "How are you?",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "dove",
+  "english": "where",
+  "pos": "adv",
+  "example_it": "Dove sei?",
+  "example_en": "Where are you?",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "chi",
+  "english": "who",
+  "pos": "pron",
+  "example_it": "Chi è?",
+  "example_en": "Who is it?",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "che cosa",
+  "english": "what",
+  "pos": "pron",
+  "example_it": "Che cosa fai?",
+  "example_en": "What are you doing?",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "cosa",
+  "english": "thing / what",
+  "pos": "noun",
+  "example_it": "Una cosa.",
+  "example_en": "A thing.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "scopo",
+  "english": "purpose / goal",
+  "pos": "noun",
+  "example_it": "Lo scopo della vita.",
+  "example_en": "The purpose of life.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "obiettivo",
+  "english": "objective",
+  "pos": "noun",
+  "example_it": "Il mio obiettivo.",
+  "example_en": "My objective.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "risultato",
+  "english": "result",
+  "pos": "noun",
+  "example_it": "Un buon risultato.",
+  "example_en": "A good result.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "successo",
+  "english": "success",
+  "pos": "noun",
+  "example_it": "Un grande successo.",
+  "example_en": "A great success.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "fallimento",
+  "english": "failure",
+  "pos": "noun",
+  "example_it": "Un fallimento totale.",
+  "example_en": "A total failure.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "occasione",
+  "english": "occasion / opportunity",
+  "pos": "noun",
+  "example_it": "Una buona occasione.",
+  "example_en": "A good opportunity.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "possibilità",
+  "english": "possibility",
+  "pos": "noun",
+  "example_it": "Una possibilità reale.",
+  "example_en": "A real possibility.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "opportunità",
+  "english": "opportunity",
+  "pos": "noun",
+  "example_it": "Una grande opportunità.",
+  "example_en": "A great opportunity.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "rischio",
+  "english": "risk",
+  "pos": "noun",
+  "example_it": "Un grosso rischio.",
+  "example_en": "A big risk.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "pericolo",
+  "english": "danger",
+  "pos": "noun",
+  "example_it": "Attenzione, pericolo!",
+  "example_en": "Watch out, danger!",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "sicurezza",
+  "english": "safety / security",
+  "pos": "noun",
+  "example_it": "La sicurezza prima di tutto.",
+  "example_en": "Safety first.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "qualità",
+  "english": "quality",
+  "pos": "noun",
+  "example_it": "Alta qualità.",
+  "example_en": "High quality.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "quantità",
+  "english": "quantity",
+  "pos": "noun",
+  "example_it": "Una grande quantità.",
+  "example_en": "A large quantity.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "tipo",
+  "english": "type / kind",
+  "pos": "noun",
+  "example_it": "Che tipo di musica?",
+  "example_en": "What kind of music?",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "modo",
+  "english": "way / manner",
+  "pos": "noun",
+  "example_it": "In questo modo.",
+  "example_en": "In this way.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "metodo",
+  "english": "method",
+  "pos": "noun",
+  "example_it": "Un buon metodo.",
+  "example_en": "A good method.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "sistema",
+  "english": "system",
+  "pos": "noun",
+  "example_it": "Il sistema funziona.",
+  "example_en": "The system works.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "informazione",
+  "english": "information",
+  "pos": "noun",
+  "example_it": "Cerco informazioni.",
+  "example_en": "I'm looking for information.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "notizia",
+  "english": "news (item)",
+  "pos": "noun",
+  "example_it": "Una buona notizia.",
+  "example_en": "Good news.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "novità",
+  "english": "news / novelty",
+  "pos": "noun",
+  "example_it": "Che novità?",
+  "example_en": "What's new?",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "fatto",
+  "english": "fact",
+  "pos": "noun",
+  "example_it": "Un fatto importante.",
+  "example_en": "An important fact.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "evento",
+  "english": "event",
+  "pos": "noun",
+  "example_it": "Un grande evento.",
+  "example_en": "A big event.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "festa",
+  "english": "party / holiday",
+  "pos": "noun",
+  "example_it": "Una bella festa.",
+  "example_en": "A nice party.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "compleanno",
+  "english": "birthday",
+  "pos": "noun",
+  "example_it": "Buon compleanno!",
+  "example_en": "Happy birthday!",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "matrimonio",
+  "english": "marriage / wedding",
+  "pos": "noun",
+  "example_it": "Il loro matrimonio.",
+  "example_en": "Their wedding.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "regalo",
+  "english": "gift",
+  "pos": "noun",
+  "example_it": "Un bel regalo.",
+  "example_en": "A nice gift.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "sorpresa",
+  "english": "surprise",
+  "pos": "noun",
+  "example_it": "Che sorpresa!",
+  "example_en": "What a surprise!",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "documento",
+  "english": "document",
+  "pos": "noun",
+  "example_it": "Un documento importante.",
+  "example_en": "An important document.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "carta",
+  "english": "paper / card",
+  "pos": "noun",
+  "example_it": "Un foglio di carta.",
+  "example_en": "A sheet of paper.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "foglio",
+  "english": "sheet",
+  "pos": "noun",
+  "example_it": "Un foglio bianco.",
+  "example_en": "A blank sheet.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "busta",
+  "english": "envelope / bag",
+  "pos": "noun",
+  "example_it": "Una busta gialla.",
+  "example_en": "A yellow envelope.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "pacco",
+  "english": "package",
+  "pos": "noun",
+  "example_it": "Un pacco grande.",
+  "example_en": "A big package.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "posta",
+  "english": "mail / post office",
+  "pos": "noun",
+  "example_it": "Vado in posta.",
+  "example_en": "I'm going to the post office.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "indirizzo",
+  "english": "address",
+  "pos": "noun",
+  "example_it": "Il mio indirizzo.",
+  "example_en": "My address.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "numero",
+  "english": "number",
+  "pos": "noun",
+  "example_it": "Il tuo numero di telefono.",
+  "example_en": "Your phone number.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "data",
+  "english": "date",
+  "pos": "noun",
+  "example_it": "Che data è oggi?",
+  "example_en": "What's today's date?",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "nome",
+  "english": "name",
+  "pos": "noun",
+  "example_it": "Come ti chiami?",
+  "example_en": "What's your name?",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "cognome",
+  "english": "surname",
+  "pos": "noun",
+  "example_it": "Il mio cognome è Rossi.",
+  "example_en": "My surname is Rossi.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "età",
+  "english": "age",
+  "pos": "noun",
+  "example_it": "Che età hai?",
+  "example_en": "What's your age?",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "nazionalità",
+  "english": "nationality",
+  "pos": "noun",
+  "example_it": "Qual è la tua nazionalità?",
+  "example_en": "What's your nationality?",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "europeo",
+  "english": "European",
+  "pos": "adj",
+  "example_it": "L'Unione Europea.",
+  "example_en": "The European Union.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "americano",
+  "english": "American",
+  "pos": "adj",
+  "example_it": "Un film americano.",
+  "example_en": "An American film.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "asiatico",
+  "english": "Asian",
+  "pos": "adj",
+  "example_it": "Cucina asiatica.",
+  "example_en": "Asian cuisine.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "africano",
+  "english": "African",
+  "pos": "adj",
+  "example_it": "Musica africana.",
+  "example_en": "African music.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "Italia",
+  "english": "Italy",
+  "pos": "noun",
+  "example_it": "Vivo in Italia.",
+  "example_en": "I live in Italy.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "Roma",
+  "english": "Rome",
+  "pos": "noun",
+  "example_it": "Roma è la capitale.",
+  "example_en": "Rome is the capital.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "Milano",
+  "english": "Milan",
+  "pos": "noun",
+  "example_it": "Milano è grande.",
+  "example_en": "Milan is big.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "Napoli",
+  "english": "Naples",
+  "pos": "noun",
+  "example_it": "Napoli è bellissima.",
+  "example_en": "Naples is beautiful.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "Firenze",
+  "english": "Florence",
+  "pos": "noun",
+  "example_it": "Visito Firenze.",
+  "example_en": "I'm visiting Florence.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "Venezia",
+  "english": "Venice",
+  "pos": "noun",
+  "example_it": "Venezia ha canali.",
+  "example_en": "Venice has canals.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "calendario",
+  "english": "calendar",
+  "pos": "noun",
+  "example_it": "Sul calendario.",
+  "example_en": "On the calendar.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "orologio",
+  "english": "clock / watch",
+  "pos": "noun",
+  "example_it": "Un orologio nuovo.",
+  "example_en": "A new watch.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "appuntamento",
+  "english": "appointment",
+  "pos": "noun",
+  "example_it": "Un appuntamento dal medico.",
+  "example_en": "A doctor's appointment.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "incontro",
+  "english": "meeting (encounter)",
+  "pos": "noun",
+  "example_it": "Un incontro casuale.",
+  "example_en": "A casual meeting.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "viale",
+  "english": "avenue",
+  "pos": "noun",
+  "example_it": "Un viale alberato.",
+  "example_en": "A tree-lined avenue.",
+  "level": "B1",
+  "difficulty": 5
+ },
+ {
+  "italian": "quartiere",
+  "english": "neighborhood",
+  "pos": "noun",
+  "example_it": "Il mio quartiere.",
+  "example_en": "My neighborhood.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "periferia",
+  "english": "outskirts / suburbs",
+  "pos": "noun",
+  "example_it": "In periferia.",
+  "example_en": "In the outskirts.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "incidente",
+  "english": "accident",
+  "pos": "noun",
+  "example_it": "Un incidente stradale.",
+  "example_en": "A traffic accident.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "emergenza",
+  "english": "emergency",
+  "pos": "noun",
+  "example_it": "Un'emergenza medica.",
+  "example_en": "A medical emergency.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "polizia",
+  "english": "police",
+  "pos": "noun",
+  "example_it": "Chiama la polizia.",
+  "example_en": "Call the police.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "ambulanza",
+  "english": "ambulance",
+  "pos": "noun",
+  "example_it": "Chiama un'ambulanza.",
+  "example_en": "Call an ambulance.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "vigili del fuoco",
+  "english": "firefighters",
+  "pos": "noun",
+  "example_it": "I vigili del fuoco arrivano.",
+  "example_en": "The firefighters are coming.",
+  "level": "B1",
+  "difficulty": 5
+ },
+ {
+  "italian": "aiuto",
+  "english": "help",
+  "pos": "noun",
+  "example_it": "Aiuto, per favore!",
+  "example_en": "Help, please!",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "favore",
+  "english": "favor",
+  "pos": "noun",
+  "example_it": "Mi fai un favore?",
+  "example_en": "Will you do me a favor?",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "scelta",
+  "english": "choice",
+  "pos": "noun",
+  "example_it": "Una buona scelta.",
+  "example_en": "A good choice.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "decisione",
+  "english": "decision",
+  "pos": "noun",
+  "example_it": "Una decisione difficile.",
+  "example_en": "A difficult decision.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "spiegazione",
+  "english": "explanation",
+  "pos": "noun",
+  "example_it": "Una buona spiegazione.",
+  "example_en": "A good explanation.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "definizione",
+  "english": "definition",
+  "pos": "noun",
+  "example_it": "La definizione esatta.",
+  "example_en": "The exact definition.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "introduzione",
+  "english": "introduction",
+  "pos": "noun",
+  "example_it": "Una breve introduzione.",
+  "example_en": "A brief introduction.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "conclusione",
+  "english": "conclusion",
+  "pos": "noun",
+  "example_it": "In conclusione.",
+  "example_en": "In conclusion.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "introdurre",
+  "english": "to introduce",
+  "pos": "verb",
+  "example_it": "Introduce un nuovo argomento.",
+  "example_en": "He introduces a new topic.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "concludere",
+  "english": "to conclude",
+  "pos": "verb",
+  "example_it": "Concludo qui.",
+  "example_en": "I'll conclude here.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "argomento",
+  "english": "topic / subject",
+  "pos": "noun",
+  "example_it": "Un argomento interessante.",
+  "example_en": "An interesting topic.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "tema",
+  "english": "theme",
+  "pos": "noun",
+  "example_it": "Il tema principale.",
+  "example_en": "The main theme.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "punto",
+  "english": "point",
+  "pos": "noun",
+  "example_it": "Un punto importante.",
+  "example_en": "An important point.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "parte",
+  "english": "part",
+  "pos": "noun",
+  "example_it": "Una parte di me.",
+  "example_en": "A part of me.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "metà",
+  "english": "half",
+  "pos": "noun",
+  "example_it": "Solo metà.",
+  "example_en": "Just half.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "doppio",
+  "english": "double",
+  "pos": "adj",
+  "example_it": "Un caffè doppio.",
+  "example_en": "A double coffee.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "totale",
+  "english": "total",
+  "pos": "noun",
+  "example_it": "Il totale è venti euro.",
+  "example_en": "The total is twenty euros.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "intero",
+  "english": "entire / whole",
+  "pos": "adj",
+  "example_it": "Un intero giorno.",
+  "example_en": "A whole day.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "nessun",
+  "english": "no / none",
+  "pos": "adj",
+  "example_it": "Nessun problema.",
+  "example_en": "No problem.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "ciascuno",
+  "english": "each",
+  "pos": "adj",
+  "example_it": "Ciascuno di noi.",
+  "example_en": "Each one of us.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "vario",
+  "english": "various",
+  "pos": "adj",
+  "example_it": "Vari tipi.",
+  "example_en": "Various types.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "diversi",
+  "english": "several",
+  "pos": "adj",
+  "example_it": "Diversi giorni.",
+  "example_en": "Several days.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "parecchi",
+  "english": "quite a few",
+  "pos": "adj",
+  "example_it": "Parecchi anni fa.",
+  "example_en": "Quite a few years ago.",
+  "level": "B1",
+  "difficulty": 5
+ },
+ {
+  "italian": "puro",
+  "english": "pure",
+  "pos": "adj",
+  "example_it": "Puro silenzio.",
+  "example_en": "Pure silence.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "buio",
+  "english": "dark / darkness",
+  "pos": "adj",
+  "example_it": "È buio fuori.",
+  "example_en": "It's dark outside.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "luce",
+  "english": "light",
+  "pos": "noun",
+  "example_it": "Accendi la luce.",
+  "example_en": "Turn on the light.",
+  "level": "A1",
+  "difficulty": 2
+ },
+ {
+  "italian": "ombra",
+  "english": "shadow / shade",
+  "pos": "noun",
+  "example_it": "All'ombra dell'albero.",
+  "example_en": "In the shade of the tree.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "rumore",
+  "english": "noise",
+  "pos": "noun",
+  "example_it": "Che rumore!",
+  "example_en": "What a noise!",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "silenzio",
+  "english": "silence",
+  "pos": "noun",
+  "example_it": "Silenzio, per favore.",
+  "example_en": "Silence, please.",
+  "level": "B1",
+  "difficulty": 3
+ },
+ {
+  "italian": "voce",
+  "english": "voice",
+  "pos": "noun",
+  "example_it": "Una voce dolce.",
+  "example_en": "A sweet voice.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "suono",
+  "english": "sound",
+  "pos": "noun",
+  "example_it": "Un suono strano.",
+  "example_en": "A strange sound.",
+  "level": "B1",
+  "difficulty": 4
+ },
+ {
+  "italian": "albero",
+  "english": "tree",
+  "pos": "noun",
+  "example_it": "Un grande albero.",
+  "example_en": "A big tree.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "foglia",
+  "english": "leaf",
+  "pos": "noun",
+  "example_it": "Una foglia gialla.",
+  "example_en": "A yellow leaf.",
+  "level": "A2",
+  "difficulty": 3
+ },
+ {
+  "italian": "erba",
+  "english": "grass",
+  "pos": "noun",
+  "example_it": "L'erba verde.",
+  "example_en": "The green grass.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "stella",
+  "english": "star",
+  "pos": "noun",
+  "example_it": "Le stelle nel cielo.",
+  "example_en": "The stars in the sky.",
+  "level": "A2",
+  "difficulty": 2
+ },
+ {
+  "italian": "luna",
+  "english": "moon",
+  "pos": "noun",
+  "example_it": "La luna piena.",
+  "example_en": "The full moon.",
+  "level": "A1",
+  "difficulty": 1
+ },
+ {
+  "italian": "sentiero",
+  "english": "path / trail",
+  "pos": "noun",
+  "example_it": "Un sentiero stretto.",
+  "example_en": "A narrow path.",
+  "level": "B1",
+  "difficulty": 5
+ }
+]

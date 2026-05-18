@@ -1,0 +1,2028 @@
+[
+ {
+  "english": "I eat an apple.",
+  "italian": "Io mangio una mela.",
+  "words": [
+   "Io",
+   "mangio",
+   "una",
+   "mela"
+  ],
+  "grammar_point": "present tense, indefinite article",
+  "level": "A1",
+  "explanation": "Subject + present-tense verb + indefinite article + noun."
+ },
+ {
+  "english": "She is tired.",
+  "italian": "Lei è stanca.",
+  "words": [
+   "Lei",
+   "è",
+   "stanca"
+  ],
+  "grammar_point": "essere + adjective agreement (f.)",
+  "level": "A1",
+  "explanation": "Adjectives agree with the subject's gender: 'stanca' for a woman."
+ },
+ {
+  "english": "I am Italian.",
+  "italian": "Io sono italiano.",
+  "words": [
+   "Io",
+   "sono",
+   "italiano"
+  ],
+  "grammar_point": "essere + nationality",
+  "level": "A1",
+  "explanation": "Nationalities are not capitalized in Italian."
+ },
+ {
+  "english": "We have a dog.",
+  "italian": "Noi abbiamo un cane.",
+  "words": [
+   "Noi",
+   "abbiamo",
+   "un",
+   "cane"
+  ],
+  "grammar_point": "avere + indefinite article",
+  "level": "A1",
+  "explanation": "'Noi abbiamo' = 'we have'; 'un cane' = 'a dog' (m.)."
+ },
+ {
+  "english": "The book is on the table.",
+  "italian": "Il libro è sul tavolo.",
+  "words": [
+   "Il",
+   "libro",
+   "è",
+   "sul",
+   "tavolo"
+  ],
+  "grammar_point": "preposition + article ('su' + 'il' = 'sul')",
+  "level": "A1",
+  "explanation": "'Su' contracts with the article: su + il = sul."
+ },
+ {
+  "english": "I drink water.",
+  "italian": "Io bevo acqua.",
+  "words": [
+   "Io",
+   "bevo",
+   "acqua"
+  ],
+  "grammar_point": "present tense, irregular verb",
+  "level": "A1",
+  "explanation": "'Bere' is irregular: io bevo, tu bevi, lui beve…"
+ },
+ {
+  "english": "He goes to school.",
+  "italian": "Lui va a scuola.",
+  "words": [
+   "Lui",
+   "va",
+   "a",
+   "scuola"
+  ],
+  "grammar_point": "andare + 'a' for places",
+  "level": "A1",
+  "explanation": "'Andare a + place'. With 'scuola' no article is used."
+ },
+ {
+  "english": "I am at home.",
+  "italian": "Io sono a casa.",
+  "words": [
+   "Io",
+   "sono",
+   "a",
+   "casa"
+  ],
+  "grammar_point": "essere + 'a casa' (no article)",
+  "level": "A1",
+  "explanation": "'A casa' is a fixed expression with no article."
+ },
+ {
+  "english": "Marco speaks English.",
+  "italian": "Marco parla inglese.",
+  "words": [
+   "Marco",
+   "parla",
+   "inglese"
+  ],
+  "grammar_point": "regular -are verb in present",
+  "level": "A1",
+  "explanation": "'Parlare' (regular -are): parlo, parli, parla, parliamo…"
+ },
+ {
+  "english": "I have two brothers.",
+  "italian": "Io ho due fratelli.",
+  "words": [
+   "Io",
+   "ho",
+   "due",
+   "fratelli"
+  ],
+  "grammar_point": "avere + number + plural noun",
+  "level": "A1",
+  "explanation": "Masculine nouns ending in -o usually take -i in the plural."
+ },
+ {
+  "english": "The house is big.",
+  "italian": "La casa è grande.",
+  "words": [
+   "La",
+   "casa",
+   "è",
+   "grande"
+  ],
+  "grammar_point": "definite article + adjective",
+  "level": "A1",
+  "explanation": "'Grande' is invariable in the singular for both genders."
+ },
+ {
+  "english": "I drink a coffee.",
+  "italian": "Io bevo un caffè.",
+  "words": [
+   "Io",
+   "bevo",
+   "un",
+   "caffè"
+  ],
+  "grammar_point": "indefinite article (m.)",
+  "level": "A1",
+  "explanation": "'Un caffè' = a coffee. 'Caffè' is masculine."
+ },
+ {
+  "english": "He is my friend.",
+  "italian": "Lui è il mio amico.",
+  "words": [
+   "Lui",
+   "è",
+   "il",
+   "mio",
+   "amico"
+  ],
+  "grammar_point": "possessive with article",
+  "level": "A1",
+  "explanation": "Possessives normally take the article: 'il mio amico'."
+ },
+ {
+  "english": "I read a book.",
+  "italian": "Io leggo un libro.",
+  "words": [
+   "Io",
+   "leggo",
+   "un",
+   "libro"
+  ],
+  "grammar_point": "present tense -ere verb",
+  "level": "A1",
+  "explanation": "'Leggere' (irregular -ere): leggo, leggi, legge…"
+ },
+ {
+  "english": "You sleep a lot.",
+  "italian": "Tu dormi molto.",
+  "words": [
+   "Tu",
+   "dormi",
+   "molto"
+  ],
+  "grammar_point": "regular -ire verb + adverb",
+  "level": "A1",
+  "explanation": "'Dormire' (regular -ire): dormo, dormi, dorme…"
+ },
+ {
+  "english": "We are friends.",
+  "italian": "Noi siamo amici.",
+  "words": [
+   "Noi",
+   "siamo",
+   "amici"
+  ],
+  "grammar_point": "essere + plural noun",
+  "level": "A1",
+  "explanation": "'Amico' → plural 'amici' (note the hard 'c' becomes 'ch' in 'amici'? — no: 'amici' is correct, the -ci is soft)."
+ },
+ {
+  "english": "I live in Milan.",
+  "italian": "Io abito a Milano.",
+  "words": [
+   "Io",
+   "abito",
+   "a",
+   "Milano"
+  ],
+  "grammar_point": "abitare a + city",
+  "level": "A1",
+  "explanation": "Cities take 'a': abito a Milano, a Roma, a Napoli."
+ },
+ {
+  "english": "The pizza is good.",
+  "italian": "La pizza è buona.",
+  "words": [
+   "La",
+   "pizza",
+   "è",
+   "buona"
+  ],
+  "grammar_point": "adjective agreement (f. sg.)",
+  "level": "A1",
+  "explanation": "'Buona' agrees with 'pizza' (feminine singular)."
+ },
+ {
+  "english": "I want a coffee.",
+  "italian": "Io voglio un caffè.",
+  "words": [
+   "Io",
+   "voglio",
+   "un",
+   "caffè"
+  ],
+  "grammar_point": "volere + noun",
+  "level": "A1",
+  "explanation": "'Volere' is irregular: voglio, vuoi, vuole, vogliamo…"
+ },
+ {
+  "english": "Today is Monday.",
+  "italian": "Oggi è lunedì.",
+  "words": [
+   "Oggi",
+   "è",
+   "lunedì"
+  ],
+  "grammar_point": "days of the week",
+  "level": "A1",
+  "explanation": "Days are not capitalized in Italian."
+ },
+ {
+  "english": "Yesterday I went to Rome.",
+  "italian": "Ieri sono andato a Roma.",
+  "words": [
+   "Ieri",
+   "sono",
+   "andato",
+   "a",
+   "Roma"
+  ],
+  "grammar_point": "passato prossimo with essere",
+  "level": "A2",
+  "explanation": "'Andare' takes 'essere'. Past participle agrees with the subject."
+ },
+ {
+  "english": "I have to buy bread.",
+  "italian": "Devo comprare il pane.",
+  "words": [
+   "Devo",
+   "comprare",
+   "il",
+   "pane"
+  ],
+  "grammar_point": "modal verb dovere + infinitive",
+  "level": "A2",
+  "explanation": "Modal verbs are followed by the infinitive: devo + comprare."
+ },
+ {
+  "english": "I can come tomorrow.",
+  "italian": "Posso venire domani.",
+  "words": [
+   "Posso",
+   "venire",
+   "domani"
+  ],
+  "grammar_point": "potere + infinitive",
+  "level": "A2",
+  "explanation": "'Potere' (can) + infinitive expresses ability/possibility."
+ },
+ {
+  "english": "She wants to study Italian.",
+  "italian": "Lei vuole studiare l'italiano.",
+  "words": [
+   "Lei",
+   "vuole",
+   "studiare",
+   "l'italiano"
+  ],
+  "grammar_point": "volere + infinitive + definite article with language",
+  "level": "A2",
+  "explanation": "Languages take the article: l'italiano, il francese, lo spagnolo."
+ },
+ {
+  "english": "I have eaten the pizza.",
+  "italian": "Ho mangiato la pizza.",
+  "words": [
+   "Ho",
+   "mangiato",
+   "la",
+   "pizza"
+  ],
+  "grammar_point": "passato prossimo with avere",
+  "level": "A2",
+  "explanation": "Most transitive verbs use 'avere'; participle does not agree by default."
+ },
+ {
+  "english": "We have studied a lot.",
+  "italian": "Abbiamo studiato molto.",
+  "words": [
+   "Abbiamo",
+   "studiato",
+   "molto"
+  ],
+  "grammar_point": "passato prossimo + adverb",
+  "level": "A2",
+  "explanation": "Adverbs of quantity often follow the participle."
+ },
+ {
+  "english": "I call her every day.",
+  "italian": "La chiamo ogni giorno.",
+  "words": [
+   "La",
+   "chiamo",
+   "ogni",
+   "giorno"
+  ],
+  "grammar_point": "direct object pronoun (la)",
+  "level": "A2",
+  "explanation": "'La' = her/it (f.) goes BEFORE the conjugated verb."
+ },
+ {
+  "english": "He doesn't call me anymore.",
+  "italian": "Non mi chiama più.",
+  "words": [
+   "Non",
+   "mi",
+   "chiama",
+   "più"
+  ],
+  "grammar_point": "negation + object pronoun + 'più'",
+  "level": "A2",
+  "explanation": "'Non … più' = no longer / not anymore."
+ },
+ {
+  "english": "I always wake up early.",
+  "italian": "Mi sveglio sempre presto.",
+  "words": [
+   "Mi",
+   "sveglio",
+   "sempre",
+   "presto"
+  ],
+  "grammar_point": "reflexive verb + frequency adverb",
+  "level": "A2",
+  "explanation": "Reflexive: 'svegliarsi' → mi sveglio, ti svegli, si sveglia…"
+ },
+ {
+  "english": "We met at the bar.",
+  "italian": "Ci siamo incontrati al bar.",
+  "words": [
+   "Ci",
+   "siamo",
+   "incontrati",
+   "al",
+   "bar"
+  ],
+  "grammar_point": "reflexive in passato prossimo",
+  "level": "A2",
+  "explanation": "Reflexives use 'essere' in the past; participle agrees in number/gender."
+ },
+ {
+  "english": "He arrived late because of the train.",
+  "italian": "È arrivato tardi a causa del treno.",
+  "words": [
+   "È",
+   "arrivato",
+   "tardi",
+   "a",
+   "causa",
+   "del",
+   "treno"
+  ],
+  "grammar_point": "passato prossimo (essere) + 'a causa di'",
+  "level": "A2",
+  "explanation": "'A causa di' = 'because of'; 'di + il' = 'del'."
+ },
+ {
+  "english": "I always drink coffee in the morning.",
+  "italian": "Bevo sempre il caffè la mattina.",
+  "words": [
+   "Bevo",
+   "sempre",
+   "il",
+   "caffè",
+   "la",
+   "mattina"
+  ],
+  "grammar_point": "frequency + parts of the day",
+  "level": "A2",
+  "explanation": "Parts of the day take the article: la mattina, il pomeriggio."
+ },
+ {
+  "english": "I have already seen this film.",
+  "italian": "Ho già visto questo film.",
+  "words": [
+   "Ho",
+   "già",
+   "visto",
+   "questo",
+   "film"
+  ],
+  "grammar_point": "passato prossimo + 'già' between aux. and participle",
+  "level": "A2",
+  "explanation": "Adverbs like 'già', 'ancora', 'mai' go between auxiliary and participle."
+ },
+ {
+  "english": "We go to the sea in summer.",
+  "italian": "Andiamo al mare in estate.",
+  "words": [
+   "Andiamo",
+   "al",
+   "mare",
+   "in",
+   "estate"
+  ],
+  "grammar_point": "preposition contractions + seasons",
+  "level": "A2",
+  "explanation": "'A + il = al'. Seasons use 'in': in estate, in inverno."
+ },
+ {
+  "english": "She speaks well because she studies a lot.",
+  "italian": "Parla bene perché studia molto.",
+  "words": [
+   "Parla",
+   "bene",
+   "perché",
+   "studia",
+   "molto"
+  ],
+  "grammar_point": "subordination with 'perché'",
+  "level": "A2",
+  "explanation": "'Perché' connects a result with its reason."
+ },
+ {
+  "english": "While I was eating, the phone rang.",
+  "italian": "Mentre mangiavo, il telefono ha squillato.",
+  "words": [
+   "Mentre",
+   "mangiavo,",
+   "il",
+   "telefono",
+   "ha",
+   "squillato"
+  ],
+  "grammar_point": "imperfetto for ongoing action + passato prossimo for interrupting event",
+  "level": "A2",
+  "explanation": "Imperfetto sets the background; passato prossimo describes the punctual event."
+ },
+ {
+  "english": "I have known him for two years.",
+  "italian": "Lo conosco da due anni.",
+  "words": [
+   "Lo",
+   "conosco",
+   "da",
+   "due",
+   "anni"
+  ],
+  "grammar_point": "present + 'da' for ongoing time",
+  "level": "A2",
+  "explanation": "Italian uses the present tense + 'da' where English uses 'for/since' with the perfect."
+ },
+ {
+  "english": "There are many people here.",
+  "italian": "Ci sono molte persone qui.",
+  "words": [
+   "Ci",
+   "sono",
+   "molte",
+   "persone",
+   "qui"
+  ],
+  "grammar_point": "ci sono + agreement",
+  "level": "A2",
+  "explanation": "'Ci sono' = there are. 'Molte persone' is f. plural."
+ },
+ {
+  "english": "Can you help me, please?",
+  "italian": "Puoi aiutarmi, per favore?",
+  "words": [
+   "Puoi",
+   "aiutarmi,",
+   "per",
+   "favore?"
+  ],
+  "grammar_point": "modal + infinitive with attached pronoun",
+  "level": "A2",
+  "explanation": "Object pronouns can attach to the end of an infinitive: aiutare + mi → aiutarmi."
+ },
+ {
+  "english": "If I have time, I'll call you.",
+  "italian": "Se ho tempo, ti chiamo.",
+  "words": [
+   "Se",
+   "ho",
+   "tempo,",
+   "ti",
+   "chiamo"
+  ],
+  "grammar_point": "real conditional (Type 1)",
+  "level": "B1",
+  "explanation": "Italian commonly uses present + present for likely conditions."
+ },
+ {
+  "english": "I think Italian is useful.",
+  "italian": "Penso che l'italiano sia utile.",
+  "words": [
+   "Penso",
+   "che",
+   "l'italiano",
+   "sia",
+   "utile"
+  ],
+  "grammar_point": "subjunctive after verbs of opinion ('penso che')",
+  "level": "B1",
+  "explanation": "Verbs of opinion typically trigger the subjunctive: 'sia' = subj. of 'essere'."
+ },
+ {
+  "english": "When I was a child, I used to play in the park.",
+  "italian": "Quando ero bambino, giocavo al parco.",
+  "words": [
+   "Quando",
+   "ero",
+   "bambino,",
+   "giocavo",
+   "al",
+   "parco"
+  ],
+  "grammar_point": "imperfetto for habitual past actions",
+  "level": "B1",
+  "explanation": "Imperfetto describes ongoing or habitual situations in the past."
+ },
+ {
+  "english": "Tomorrow I will go to the doctor.",
+  "italian": "Domani andrò dal medico.",
+  "words": [
+   "Domani",
+   "andrò",
+   "dal",
+   "medico"
+  ],
+  "grammar_point": "futuro semplice + 'da' for going to a person",
+  "level": "B1",
+  "explanation": "'Da + person' = at/to that person's place: 'dal medico' = at the doctor's."
+ },
+ {
+  "english": "I would like a glass of water.",
+  "italian": "Vorrei un bicchiere d'acqua.",
+  "words": [
+   "Vorrei",
+   "un",
+   "bicchiere",
+   "d'acqua"
+  ],
+  "grammar_point": "conditional 'vorrei' for polite requests",
+  "level": "B1",
+  "explanation": "'Vorrei' is the conditional of 'volere'; the standard polite form."
+ },
+ {
+  "english": "I hope you are well.",
+  "italian": "Spero che tu stia bene.",
+  "words": [
+   "Spero",
+   "che",
+   "tu",
+   "stia",
+   "bene"
+  ],
+  "grammar_point": "subjunctive after 'sperare che'",
+  "level": "B1",
+  "explanation": "'Sperare che' triggers the subjunctive; 'stia' is subj. of 'stare'."
+ },
+ {
+  "english": "Although it is raining, I'm going out.",
+  "italian": "Anche se piove, esco.",
+  "words": [
+   "Anche",
+   "se",
+   "piove,",
+   "esco"
+  ],
+  "grammar_point": "concessive 'anche se' + indicative",
+  "level": "B1",
+  "explanation": "'Anche se' = 'even though / although' and uses the indicative."
+ },
+ {
+  "english": "I have been studying Italian for a year.",
+  "italian": "Studio italiano da un anno.",
+  "words": [
+   "Studio",
+   "italiano",
+   "da",
+   "un",
+   "anno"
+  ],
+  "grammar_point": "present + 'da' for duration up to now",
+  "level": "B1",
+  "explanation": "Italian uses present + 'da' where English uses present perfect continuous."
+ },
+ {
+  "english": "If I had time, I would travel more.",
+  "italian": "Se avessi tempo, viaggerei di più.",
+  "words": [
+   "Se",
+   "avessi",
+   "tempo,",
+   "viaggerei",
+   "di",
+   "più"
+  ],
+  "grammar_point": "hypothetical (Type 2): congiuntivo imperfetto + condizionale",
+  "level": "B1",
+  "explanation": "'Se avessi … viaggerei' = unreal/hypothetical present condition."
+ },
+ {
+  "english": "I don't know whether he is coming.",
+  "italian": "Non so se viene.",
+  "words": [
+   "Non",
+   "so",
+   "se",
+   "viene"
+  ],
+  "grammar_point": "indirect question with 'se' + indicative",
+  "level": "B1",
+  "explanation": "'Se' meaning 'whether/if' in indirect questions takes the indicative here."
+ },
+ {
+  "english": "I had already eaten when he arrived.",
+  "italian": "Avevo già mangiato quando è arrivato.",
+  "words": [
+   "Avevo",
+   "già",
+   "mangiato",
+   "quando",
+   "è",
+   "arrivato"
+  ],
+  "grammar_point": "trapassato prossimo for an action before another past action",
+  "level": "B1",
+  "explanation": "Trapassato prossimo (avevo + participle) marks anteriority in the past."
+ },
+ {
+  "english": "It's important to study every day.",
+  "italian": "È importante studiare ogni giorno.",
+  "words": [
+   "È",
+   "importante",
+   "studiare",
+   "ogni",
+   "giorno"
+  ],
+  "grammar_point": "impersonal expression + infinitive",
+  "level": "B1",
+  "explanation": "'È + adj. + infinitive' is a common impersonal pattern."
+ },
+ {
+  "english": "I'm going to Italy to learn the language.",
+  "italian": "Vado in Italia per imparare la lingua.",
+  "words": [
+   "Vado",
+   "in",
+   "Italia",
+   "per",
+   "imparare",
+   "la",
+   "lingua"
+  ],
+  "grammar_point": "purpose with 'per + infinitive'",
+  "level": "B1",
+  "explanation": "'Per + infinitive' expresses purpose ('in order to')."
+ },
+ {
+  "english": "My name is Marco.",
+  "italian": "Mi chiamo Marco.",
+  "words": [
+   "Mi",
+   "chiamo",
+   "Marco"
+  ],
+  "grammar_point": "reflexive verb chiamarsi",
+  "level": "A1",
+  "explanation": "'Mi chiamo' literally means 'I call myself'."
+ },
+ {
+  "english": "What is your name?",
+  "italian": "Come ti chiami?",
+  "words": [
+   "Come",
+   "ti",
+   "chiami"
+  ],
+  "grammar_point": "question with reflexive",
+  "level": "A1",
+  "explanation": "'Come ti chiami?' uses 'ti' (yourself) for informal 'you'."
+ },
+ {
+  "english": "How are you?",
+  "italian": "Come stai?",
+  "words": [
+   "Come",
+   "stai"
+  ],
+  "grammar_point": "stare in greetings",
+  "level": "A1",
+  "explanation": "Use 'stare' (not essere) when asking about wellbeing."
+ },
+ {
+  "english": "I am fine, thanks.",
+  "italian": "Sto bene, grazie.",
+  "words": [
+   "Sto",
+   "bene",
+   ",",
+   "grazie"
+  ],
+  "grammar_point": "stare + adverb",
+  "level": "A1",
+  "explanation": "Reply with 'sto bene' to 'come stai?'."
+ },
+ {
+  "english": "Where do you live?",
+  "italian": "Dove abiti?",
+  "words": [
+   "Dove",
+   "abiti"
+  ],
+  "grammar_point": "interrogative + verb",
+  "level": "A1",
+  "explanation": "'Dove' = where; subject pronoun is dropped."
+ },
+ {
+  "english": "I live in Rome.",
+  "italian": "Abito a Roma.",
+  "words": [
+   "Abito",
+   "a",
+   "Roma"
+  ],
+  "grammar_point": "abitare + a + city",
+  "level": "A1",
+  "explanation": "Use 'a' before city names with 'abitare'."
+ },
+ {
+  "english": "I am twenty years old.",
+  "italian": "Ho venti anni.",
+  "words": [
+   "Ho",
+   "venti",
+   "anni"
+  ],
+  "grammar_point": "avere for age",
+  "level": "A1",
+  "explanation": "Italian uses 'avere' (to have) for age, not 'essere'."
+ },
+ {
+  "english": "How old are you?",
+  "italian": "Quanti anni hai?",
+  "words": [
+   "Quanti",
+   "anni",
+   "hai"
+  ],
+  "grammar_point": "age question",
+  "level": "A1",
+  "explanation": "Literally 'how many years do you have?'"
+ },
+ {
+  "english": "Do you want some water?",
+  "italian": "Vuoi dell'acqua?",
+  "words": [
+   "Vuoi",
+   "dell'",
+   "acqua"
+  ],
+  "grammar_point": "partitive 'di+il'",
+  "level": "A1",
+  "explanation": "'Dell'' = di + l' (some); used for unspecified quantities."
+ },
+ {
+  "english": "Can you help me?",
+  "italian": "Puoi aiutarmi?",
+  "words": [
+   "Puoi",
+   "aiutarmi"
+  ],
+  "grammar_point": "potere + infinitive with attached pronoun",
+  "level": "A1",
+  "explanation": "'Aiutarmi' = aiutare + mi (help me) - object pronoun attaches to infinitive."
+ },
+ {
+  "english": "I don't speak Italian well.",
+  "italian": "Non parlo bene italiano.",
+  "words": [
+   "Non",
+   "parlo",
+   "bene",
+   "italiano"
+  ],
+  "grammar_point": "negation + adverb",
+  "level": "A1",
+  "explanation": "'Non' goes before the verb to negate."
+ },
+ {
+  "english": "She speaks three languages.",
+  "italian": "Lei parla tre lingue.",
+  "words": [
+   "Lei",
+   "parla",
+   "tre",
+   "lingue"
+  ],
+  "grammar_point": "subject pronoun + verb + object",
+  "level": "A1",
+  "explanation": "Plural 'lingue' (the noun ends in -e in singular feminine)."
+ },
+ {
+  "english": "We go to school.",
+  "italian": "Andiamo a scuola.",
+  "words": [
+   "Andiamo",
+   "a",
+   "scuola"
+  ],
+  "grammar_point": "andare a + place",
+  "level": "A1",
+  "explanation": "Use 'a' (without article) for 'a scuola', 'a casa', 'a letto'."
+ },
+ {
+  "english": "I am going home.",
+  "italian": "Vado a casa.",
+  "words": [
+   "Vado",
+   "a",
+   "casa"
+  ],
+  "grammar_point": "andare a casa",
+  "level": "A1",
+  "explanation": "'A casa' = home, no article needed."
+ },
+ {
+  "english": "The train arrives at five.",
+  "italian": "Il treno arriva alle cinque.",
+  "words": [
+   "Il",
+   "treno",
+   "arriva",
+   "alle",
+   "cinque"
+  ],
+  "grammar_point": "time with 'alle'",
+  "level": "A1",
+  "explanation": "'Alle' (a + le) is used for hours from 2 onwards: alle due, alle tre..."
+ },
+ {
+  "english": "I get up at seven.",
+  "italian": "Mi alzo alle sette.",
+  "words": [
+   "Mi",
+   "alzo",
+   "alle",
+   "sette"
+  ],
+  "grammar_point": "reflexive + time",
+  "level": "A1",
+  "explanation": "'Alzarsi' is reflexive: mi alzo, ti alzi, si alza..."
+ },
+ {
+  "english": "There is a cat in the garden.",
+  "italian": "C'è un gatto in giardino.",
+  "words": [
+   "C'",
+   "è",
+   "un",
+   "gatto",
+   "in",
+   "giardino"
+  ],
+  "grammar_point": "c'è (there is)",
+  "level": "A1",
+  "explanation": "'C'è' for singular 'there is'; 'ci sono' for plural."
+ },
+ {
+  "english": "There are many people.",
+  "italian": "Ci sono molte persone.",
+  "words": [
+   "Ci",
+   "sono",
+   "molte",
+   "persone"
+  ],
+  "grammar_point": "ci sono (there are)",
+  "level": "A1",
+  "explanation": "'Molte' agrees with feminine plural 'persone'."
+ },
+ {
+  "english": "I drink water every day.",
+  "italian": "Bevo acqua ogni giorno.",
+  "words": [
+   "Bevo",
+   "acqua",
+   "ogni",
+   "giorno"
+  ],
+  "grammar_point": "frequency adverb",
+  "level": "A1",
+  "explanation": "'Ogni' (every) is invariable: ogni giorno, ogni anno..."
+ },
+ {
+  "english": "I have a headache.",
+  "italian": "Ho mal di testa.",
+  "words": [
+   "Ho",
+   "mal",
+   "di",
+   "testa"
+  ],
+  "grammar_point": "avere + symptom",
+  "level": "A1",
+  "explanation": "'Mal di...' for body aches: mal di testa, mal di stomaco."
+ },
+ {
+  "english": "It is hot today.",
+  "italian": "Fa caldo oggi.",
+  "words": [
+   "Fa",
+   "caldo",
+   "oggi"
+  ],
+  "grammar_point": "weather with 'fare'",
+  "level": "A1",
+  "explanation": "Italian uses 'fare' for weather: fa caldo, fa freddo, fa bel tempo."
+ },
+ {
+  "english": "It is raining.",
+  "italian": "Sta piovendo.",
+  "words": [
+   "Sta",
+   "piovendo"
+  ],
+  "grammar_point": "stare + gerund (continuous)",
+  "level": "A1",
+  "explanation": "'Stare + gerundio' = present continuous, similar to '-ing' in English."
+ },
+ {
+  "english": "I like pizza.",
+  "italian": "Mi piace la pizza.",
+  "words": [
+   "Mi",
+   "piace",
+   "la",
+   "pizza"
+  ],
+  "grammar_point": "piacere construction",
+  "level": "A1",
+  "explanation": "'Piacere' literally 'to be pleasing'; 'pizza' is the subject."
+ },
+ {
+  "english": "They like the songs.",
+  "italian": "Gli piacciono le canzoni.",
+  "words": [
+   "Gli",
+   "piacciono",
+   "le",
+   "canzoni"
+  ],
+  "grammar_point": "piacere with plural",
+  "level": "A2",
+  "explanation": "'Piacciono' (plural) because the songs are the subject."
+ },
+ {
+  "english": "Do you like wine?",
+  "italian": "Ti piace il vino?",
+  "words": [
+   "Ti",
+   "piace",
+   "il",
+   "vino"
+  ],
+  "grammar_point": "piacere question",
+  "level": "A1",
+  "explanation": "'Ti' (informal you) + piace (singular) + article + noun."
+ },
+ {
+  "english": "I don't like coffee.",
+  "italian": "Non mi piace il caffè.",
+  "words": [
+   "Non",
+   "mi",
+   "piace",
+   "il",
+   "caffè"
+  ],
+  "grammar_point": "negative piacere",
+  "level": "A1",
+  "explanation": "'Non' goes before the indirect pronoun 'mi'."
+ },
+ {
+  "english": "I am hungry.",
+  "italian": "Ho fame.",
+  "words": [
+   "Ho",
+   "fame"
+  ],
+  "grammar_point": "avere + bodily state",
+  "level": "A1",
+  "explanation": "Italian uses avere (not be) for hunger, thirst, sleep, fear, etc."
+ },
+ {
+  "english": "I am thirsty.",
+  "italian": "Ho sete.",
+  "words": [
+   "Ho",
+   "sete"
+  ],
+  "grammar_point": "avere + bodily state",
+  "level": "A1",
+  "explanation": "Same pattern: avere + sete (thirst)."
+ },
+ {
+  "english": "I am sleepy.",
+  "italian": "Ho sonno.",
+  "words": [
+   "Ho",
+   "sonno"
+  ],
+  "grammar_point": "avere + bodily state",
+  "level": "A1",
+  "explanation": "'Sonno' = sleep (the noun); 'avere sonno' = to be sleepy."
+ },
+ {
+  "english": "I am cold.",
+  "italian": "Ho freddo.",
+  "words": [
+   "Ho",
+   "freddo"
+  ],
+  "grammar_point": "avere + bodily state",
+  "level": "A1",
+  "explanation": "Use avere (not essere) for being cold/hot personally."
+ },
+ {
+  "english": "The shop is closed today.",
+  "italian": "Il negozio è chiuso oggi.",
+  "words": [
+   "Il",
+   "negozio",
+   "è",
+   "chiuso",
+   "oggi"
+  ],
+  "grammar_point": "essere + past participle as adjective",
+  "level": "A1",
+  "explanation": "'Chiuso' (closed) is the past participle of chiudere, used as an adjective."
+ },
+ {
+  "english": "I work in an office.",
+  "italian": "Lavoro in un ufficio.",
+  "words": [
+   "Lavoro",
+   "in",
+   "un",
+   "ufficio"
+  ],
+  "grammar_point": "preposition 'in' + indefinite article",
+  "level": "A1",
+  "explanation": "'In' before indefinite articles or no article (in città, in casa)."
+ },
+ {
+  "english": "Two coffees, please.",
+  "italian": "Due caffè, per favore.",
+  "words": [
+   "Due",
+   "caffè",
+   ",",
+   "per",
+   "favore"
+  ],
+  "grammar_point": "ordering at a café",
+  "level": "A1",
+  "explanation": "'Caffè' is invariable in plural (no -i)."
+ },
+ {
+  "english": "How much does it cost?",
+  "italian": "Quanto costa?",
+  "words": [
+   "Quanto",
+   "costa"
+  ],
+  "grammar_point": "asking price",
+  "level": "A1",
+  "explanation": "Singular 'quanto' for one item; 'quanto costano' for plural."
+ },
+ {
+  "english": "It costs ten euros.",
+  "italian": "Costa dieci euro.",
+  "words": [
+   "Costa",
+   "dieci",
+   "euro"
+  ],
+  "grammar_point": "stating price",
+  "level": "A1",
+  "explanation": "'Euro' is invariable in plural in Italian."
+ },
+ {
+  "english": "I'm looking for the station.",
+  "italian": "Cerco la stazione.",
+  "words": [
+   "Cerco",
+   "la",
+   "stazione"
+  ],
+  "grammar_point": "cercare + direct object",
+  "level": "A1",
+  "explanation": "'Cercare' takes a direct object - no preposition needed."
+ },
+ {
+  "english": "Turn left.",
+  "italian": "Gira a sinistra.",
+  "words": [
+   "Gira",
+   "a",
+   "sinistra"
+  ],
+  "grammar_point": "imperative + direction",
+  "level": "A1",
+  "explanation": "Imperative tu form of -are verbs ends in -a."
+ },
+ {
+  "english": "Go straight ahead.",
+  "italian": "Vai sempre dritto.",
+  "words": [
+   "Vai",
+   "sempre",
+   "dritto"
+  ],
+  "grammar_point": "imperative + adverb",
+  "level": "A1",
+  "explanation": "Imperative tu form of 'andare' is 'vai'."
+ },
+ {
+  "english": "Yesterday I went to the cinema.",
+  "italian": "Ieri sono andato al cinema.",
+  "words": [
+   "Ieri",
+   "sono",
+   "andato",
+   "al",
+   "cinema"
+  ],
+  "grammar_point": "passato prossimo with essere",
+  "level": "A2",
+  "explanation": "'Andare' takes 'essere' as auxiliary; participle agrees with subject."
+ },
+ {
+  "english": "I have eaten too much.",
+  "italian": "Ho mangiato troppo.",
+  "words": [
+   "Ho",
+   "mangiato",
+   "troppo"
+  ],
+  "grammar_point": "passato prossimo with avere",
+  "level": "A2",
+  "explanation": "'Mangiare' takes 'avere'; participle stays invariable with avere."
+ },
+ {
+  "english": "Have you seen Maria?",
+  "italian": "Hai visto Maria?",
+  "words": [
+   "Hai",
+   "visto",
+   "Maria"
+  ],
+  "grammar_point": "passato prossimo question",
+  "level": "A2",
+  "explanation": "'Visto' is the irregular past participle of vedere."
+ },
+ {
+  "english": "We met at the party.",
+  "italian": "Ci siamo conosciuti alla festa.",
+  "words": [
+   "Ci",
+   "siamo",
+   "conosciuti",
+   "alla",
+   "festa"
+  ],
+  "grammar_point": "reflexive passato prossimo",
+  "level": "A2",
+  "explanation": "Reflexive verbs always take essere; participle agrees with subject."
+ },
+ {
+  "english": "She got up early this morning.",
+  "italian": "Si è alzata presto stamattina.",
+  "words": [
+   "Si",
+   "è",
+   "alzata",
+   "presto",
+   "stamattina"
+  ],
+  "grammar_point": "reflexive past, feminine",
+  "level": "A2",
+  "explanation": "'Alzata' (feminine singular) because subject is 'lei'."
+ },
+ {
+  "english": "What did you do yesterday?",
+  "italian": "Cosa hai fatto ieri?",
+  "words": [
+   "Cosa",
+   "hai",
+   "fatto",
+   "ieri"
+  ],
+  "grammar_point": "passato prossimo question",
+  "level": "A2",
+  "explanation": "'Fatto' is the irregular past participle of fare."
+ },
+ {
+  "english": "He was born in 1990.",
+  "italian": "È nato nel 1990.",
+  "words": [
+   "È",
+   "nato",
+   "nel",
+   "1990"
+  ],
+  "grammar_point": "nascere + year",
+  "level": "A2",
+  "explanation": "'Nel' = in + il, used before years."
+ },
+ {
+  "english": "I have lived here for two years.",
+  "italian": "Vivo qui da due anni.",
+  "words": [
+   "Vivo",
+   "qui",
+   "da",
+   "due",
+   "anni"
+  ],
+  "grammar_point": "present + da (duration)",
+  "level": "A2",
+  "explanation": "Italian uses present tense with 'da' for actions still ongoing."
+ },
+ {
+  "english": "I have to go now.",
+  "italian": "Devo andare adesso.",
+  "words": [
+   "Devo",
+   "andare",
+   "adesso"
+  ],
+  "grammar_point": "dovere + infinitive",
+  "level": "A2",
+  "explanation": "Modal verbs (dovere/potere/volere) take an infinitive directly."
+ },
+ {
+  "english": "Can you repeat, please?",
+  "italian": "Puoi ripetere, per favore?",
+  "words": [
+   "Puoi",
+   "ripetere",
+   ",",
+   "per",
+   "favore"
+  ],
+  "grammar_point": "potere + infinitive (request)",
+  "level": "A2",
+  "explanation": "'Potere' for permission/ability; followed by infinitive."
+ },
+ {
+  "english": "I want to learn Italian.",
+  "italian": "Voglio imparare l'italiano.",
+  "words": [
+   "Voglio",
+   "imparare",
+   "l'",
+   "italiano"
+  ],
+  "grammar_point": "volere + infinitive",
+  "level": "A2",
+  "explanation": "Definite article often precedes language names."
+ },
+ {
+  "english": "I know how to swim.",
+  "italian": "So nuotare.",
+  "words": [
+   "So",
+   "nuotare"
+  ],
+  "grammar_point": "sapere + infinitive (skill)",
+  "level": "A2",
+  "explanation": "'Sapere + infinitive' = to know how to (skill)."
+ },
+ {
+  "english": "I know Marco well.",
+  "italian": "Conosco bene Marco.",
+  "words": [
+   "Conosco",
+   "bene",
+   "Marco"
+  ],
+  "grammar_point": "conoscere (people)",
+  "level": "A2",
+  "explanation": "'Conoscere' for people/places; 'sapere' for facts/skills."
+ },
+ {
+  "english": "I'd like a glass of red wine.",
+  "italian": "Vorrei un bicchiere di vino rosso.",
+  "words": [
+   "Vorrei",
+   "un",
+   "bicchiere",
+   "di",
+   "vino",
+   "rosso"
+  ],
+  "grammar_point": "polite request with conditional",
+  "level": "A2",
+  "explanation": "'Vorrei' (conditional of volere) is more polite than 'voglio'."
+ },
+ {
+  "english": "Could you tell me the time?",
+  "italian": "Potresti dirmi l'ora?",
+  "words": [
+   "Potresti",
+   "dirmi",
+   "l'",
+   "ora"
+  ],
+  "grammar_point": "polite request",
+  "level": "A2",
+  "explanation": "'Potresti' (conditional) for polite requests; 'dirmi' = dire + mi."
+ },
+ {
+  "english": "I'm reading a book about Italy.",
+  "italian": "Sto leggendo un libro sull'Italia.",
+  "words": [
+   "Sto",
+   "leggendo",
+   "un",
+   "libro",
+   "sull'",
+   "Italia"
+  ],
+  "grammar_point": "present continuous + preposition",
+  "level": "A2",
+  "explanation": "'Sull'' = su + l' (about/on)."
+ },
+ {
+  "english": "He is sleeping in his room.",
+  "italian": "Sta dormendo in camera sua.",
+  "words": [
+   "Sta",
+   "dormendo",
+   "in",
+   "camera",
+   "sua"
+  ],
+  "grammar_point": "stare + gerund + possessive",
+  "level": "A2",
+  "explanation": "Possessive 'sua' agrees with 'camera' (feminine)."
+ },
+ {
+  "english": "I'm thinking about you.",
+  "italian": "Sto pensando a te.",
+  "words": [
+   "Sto",
+   "pensando",
+   "a",
+   "te"
+  ],
+  "grammar_point": "pensare + a (about)",
+  "level": "A2",
+  "explanation": "'Pensare a' = to think about; 'pensare di' for opinions."
+ },
+ {
+  "english": "Tomorrow I will leave for Rome.",
+  "italian": "Domani partirò per Roma.",
+  "words": [
+   "Domani",
+   "partirò",
+   "per",
+   "Roma"
+  ],
+  "grammar_point": "futuro semplice",
+  "level": "A2",
+  "explanation": "'Partirò' = io form of futuro; 'per' = for/toward."
+ },
+ {
+  "english": "We will see each other tomorrow.",
+  "italian": "Ci vedremo domani.",
+  "words": [
+   "Ci",
+   "vedremo",
+   "domani"
+  ],
+  "grammar_point": "reflexive future",
+  "level": "A2",
+  "explanation": "Reciprocal action: 'ci' (each other) + vedremo (we will see)."
+ },
+ {
+  "english": "I will call you tonight.",
+  "italian": "Ti chiamerò stasera.",
+  "words": [
+   "Ti",
+   "chiamerò",
+   "stasera"
+  ],
+  "grammar_point": "futuro + object pronoun",
+  "level": "A2",
+  "explanation": "Object pronoun 'ti' goes before the conjugated verb."
+ },
+ {
+  "english": "Maybe it will rain tomorrow.",
+  "italian": "Forse pioverà domani.",
+  "words": [
+   "Forse",
+   "pioverà",
+   "domani"
+  ],
+  "grammar_point": "future + adverb of probability",
+  "level": "A2",
+  "explanation": "'Forse' = maybe; 'pioverà' = it will rain (no subject pronoun)."
+ },
+ {
+  "english": "I would like to travel more.",
+  "italian": "Vorrei viaggiare di più.",
+  "words": [
+   "Vorrei",
+   "viaggiare",
+   "di",
+   "più"
+  ],
+  "grammar_point": "conditional + comparative",
+  "level": "A2",
+  "explanation": "'Di più' = more (as quantity)."
+ },
+ {
+  "english": "If I have time, I'll come.",
+  "italian": "Se ho tempo, vengo.",
+  "words": [
+   "Se",
+   "ho",
+   "tempo",
+   ",",
+   "vengo"
+  ],
+  "grammar_point": "real conditional (se + present + present)",
+  "level": "A2",
+  "explanation": "Periodo ipotetico tipo 1: present in both clauses for likely conditions."
+ },
+ {
+  "english": "I think she's right.",
+  "italian": "Penso che abbia ragione.",
+  "words": [
+   "Penso",
+   "che",
+   "abbia",
+   "ragione"
+  ],
+  "grammar_point": "subjunctive after pensare",
+  "level": "A2",
+  "explanation": "'Pensare che' typically triggers the subjunctive ('abbia' from avere)."
+ },
+ {
+  "english": "I don't know if he'll come.",
+  "italian": "Non so se viene.",
+  "words": [
+   "Non",
+   "so",
+   "se",
+   "viene"
+  ],
+  "grammar_point": "indirect question with se",
+  "level": "A2",
+  "explanation": "'Se' = whether/if; followed by indicative for indirect questions."
+ },
+ {
+  "english": "Speak slowly, please.",
+  "italian": "Parla lentamente, per favore.",
+  "words": [
+   "Parla",
+   "lentamente",
+   ",",
+   "per",
+   "favore"
+  ],
+  "grammar_point": "imperative + adverb",
+  "level": "A2",
+  "explanation": "Adverbs of manner often end in '-mente' (like English '-ly')."
+ },
+ {
+  "english": "Don't go yet!",
+  "italian": "Non andare ancora!",
+  "words": [
+   "Non",
+   "andare",
+   "ancora"
+  ],
+  "grammar_point": "negative imperative (tu)",
+  "level": "A2",
+  "explanation": "Negative tu imperative = non + infinitive."
+ },
+ {
+  "english": "Listen to me carefully.",
+  "italian": "Ascoltami attentamente.",
+  "words": [
+   "Ascoltami",
+   "attentamente"
+  ],
+  "grammar_point": "imperative + attached pronoun",
+  "level": "A2",
+  "explanation": "Object pronoun attaches to affirmative imperative: ascolta + mi."
+ },
+ {
+  "english": "Give it to me.",
+  "italian": "Dammelo.",
+  "words": [
+   "Dammelo"
+  ],
+  "grammar_point": "double pronoun on imperative",
+  "level": "B1",
+  "explanation": "'Dammelo' = da + mi + lo (give + me + it). Mi → me before lo/la."
+ },
+ {
+  "english": "I had already left when she arrived.",
+  "italian": "Ero già partito quando è arrivata.",
+  "words": [
+   "Ero",
+   "già",
+   "partito",
+   "quando",
+   "è",
+   "arrivata"
+  ],
+  "grammar_point": "trapassato prossimo",
+  "level": "B1",
+  "explanation": "Trapassato prossimo (had + verb) for an action before another past action."
+ },
+ {
+  "english": "If I were rich, I would travel.",
+  "italian": "Se fossi ricco, viaggerei.",
+  "words": [
+   "Se",
+   "fossi",
+   "ricco",
+   ",",
+   "viaggerei"
+  ],
+  "grammar_point": "hypothetical (se + congiuntivo + condizionale)",
+  "level": "B1",
+  "explanation": "Periodo ipotetico tipo 2: imperfect subjunctive + present conditional."
+ },
+ {
+  "english": "I want you to come tonight.",
+  "italian": "Voglio che tu venga stasera.",
+  "words": [
+   "Voglio",
+   "che",
+   "tu",
+   "venga",
+   "stasera"
+  ],
+  "grammar_point": "subjunctive after volere che",
+  "level": "B1",
+  "explanation": "'Volere che' triggers the subjunctive: 'venga' (present subjunctive of venire)."
+ },
+ {
+  "english": "It's necessary that we leave early.",
+  "italian": "È necessario che partiamo presto.",
+  "words": [
+   "È",
+   "necessario",
+   "che",
+   "partiamo",
+   "presto"
+  ],
+  "grammar_point": "subjunctive after impersonal expressions",
+  "level": "B1",
+  "explanation": "Impersonal 'è necessario che' triggers subjunctive 'partiamo'."
+ },
+ {
+  "english": "The book that I'm reading is interesting.",
+  "italian": "Il libro che sto leggendo è interessante.",
+  "words": [
+   "Il",
+   "libro",
+   "che",
+   "sto",
+   "leggendo",
+   "è",
+   "interessante"
+  ],
+  "grammar_point": "relative pronoun che",
+  "level": "B1",
+  "explanation": "'Che' (relative) = that/which; can refer to subject or object."
+ },
+ {
+  "english": "The friend with whom I went to Rome.",
+  "italian": "L'amico con cui sono andato a Roma.",
+  "words": [
+   "L'",
+   "amico",
+   "con",
+   "cui",
+   "sono",
+   "andato",
+   "a",
+   "Roma"
+  ],
+  "grammar_point": "relative pronoun cui after preposition",
+  "level": "B1",
+  "explanation": "After prepositions, use 'cui' (not che) as the relative pronoun."
+ },
+ {
+  "english": "I have known her for many years.",
+  "italian": "La conosco da molti anni.",
+  "words": [
+   "La",
+   "conosco",
+   "da",
+   "molti",
+   "anni"
+  ],
+  "grammar_point": "present + da + duration",
+  "level": "B1",
+  "explanation": "Italian uses simple present (not present perfect) with 'da' for ongoing situations."
+ },
+ {
+  "english": "Although it's raining, we'll go out.",
+  "italian": "Sebbene piova, usciremo.",
+  "words": [
+   "Sebbene",
+   "piova",
+   ",",
+   "usciremo"
+  ],
+  "grammar_point": "subjunctive after sebbene",
+  "level": "B1",
+  "explanation": "'Sebbene' (although) triggers subjunctive: 'piova' (subj. of piovere)."
+ },
+ {
+  "english": "Before going out, I closed the windows.",
+  "italian": "Prima di uscire, ho chiuso le finestre.",
+  "words": [
+   "Prima",
+   "di",
+   "uscire",
+   ",",
+   "ho",
+   "chiuso",
+   "le",
+   "finestre"
+  ],
+  "grammar_point": "prima di + infinitive",
+  "level": "B1",
+  "explanation": "'Prima di + infinitive' = before + verb-ing."
+ },
+ {
+  "english": "After eating, I went for a walk.",
+  "italian": "Dopo aver mangiato, ho fatto una passeggiata.",
+  "words": [
+   "Dopo",
+   "aver",
+   "mangiato",
+   ",",
+   "ho",
+   "fatto",
+   "una",
+   "passeggiata"
+  ],
+  "grammar_point": "dopo + infinito passato",
+  "level": "B1",
+  "explanation": "'Dopo + infinito passato' (aver + past participle) = after + verb-ing."
+ },
+ {
+  "english": "I had to leave early because I was tired.",
+  "italian": "Ho dovuto andare via presto perché ero stanco.",
+  "words": [
+   "Ho",
+   "dovuto",
+   "andare",
+   "via",
+   "presto",
+   "perché",
+   "ero",
+   "stanco"
+  ],
+  "grammar_point": "modal in passato prossimo + imperfetto",
+  "level": "B1",
+  "explanation": "Mixed past tenses: passato prossimo for one-time, imperfetto for state."
+ },
+ {
+  "english": "She told me that she was happy.",
+  "italian": "Mi ha detto che era felice.",
+  "words": [
+   "Mi",
+   "ha",
+   "detto",
+   "che",
+   "era",
+   "felice"
+  ],
+  "grammar_point": "indirect speech (past)",
+  "level": "B1",
+  "explanation": "In indirect speech, present tense becomes imperfetto (era)."
+ },
+ {
+  "english": "I wonder where she has gone.",
+  "italian": "Mi chiedo dove sia andata.",
+  "words": [
+   "Mi",
+   "chiedo",
+   "dove",
+   "sia",
+   "andata"
+  ],
+  "grammar_point": "subjunctive after indirect question",
+  "level": "B1",
+  "explanation": "Doubt or wonder + indirect question often takes subjunctive."
+ },
+ {
+  "english": "It seems that he doesn't want to come.",
+  "italian": "Sembra che non voglia venire.",
+  "words": [
+   "Sembra",
+   "che",
+   "non",
+   "voglia",
+   "venire"
+  ],
+  "grammar_point": "subjunctive after sembra",
+  "level": "B1",
+  "explanation": "Impersonal 'sembra che' triggers subjunctive 'voglia'."
+ },
+ {
+  "english": "The harder I try, the worse it goes.",
+  "italian": "Più ci provo, peggio va.",
+  "words": [
+   "Più",
+   "ci",
+   "provo",
+   ",",
+   "peggio",
+   "va"
+  ],
+  "grammar_point": "double comparative",
+  "level": "B1",
+  "explanation": "Italian construction: più...più (the more...the more); più...meno (the more...the less)."
+ },
+ {
+  "english": "He works as a doctor.",
+  "italian": "Lavora come medico.",
+  "words": [
+   "Lavora",
+   "come",
+   "medico"
+  ],
+  "grammar_point": "come + profession",
+  "level": "B1",
+  "explanation": "'Come' = as; no article before profession with 'lavorare come'."
+ },
+ {
+  "english": "I would have liked to come.",
+  "italian": "Sarei voluto venire.",
+  "words": [
+   "Sarei",
+   "voluto",
+   "venire"
+  ],
+  "grammar_point": "condizionale passato",
+  "level": "B1",
+  "explanation": "Condizionale passato of modal: essere/avere conditional + past participle + infinitive."
+ },
+ {
+  "english": "If I had known, I would have come.",
+  "italian": "Se avessi saputo, sarei venuto.",
+  "words": [
+   "Se",
+   "avessi",
+   "saputo",
+   ",",
+   "sarei",
+   "venuto"
+  ],
+  "grammar_point": "third conditional",
+  "level": "B1",
+  "explanation": "Periodo ipotetico tipo 3: trapassato congiuntivo + condizionale passato."
+ },
+ {
+  "english": "I make him laugh.",
+  "italian": "Lo faccio ridere.",
+  "words": [
+   "Lo",
+   "faccio",
+   "ridere"
+  ],
+  "grammar_point": "fare causativo",
+  "level": "B1",
+  "explanation": "'Fare + infinitive' = to make/have someone do something."
+ },
+ {
+  "english": "I had my hair cut.",
+  "italian": "Mi sono fatto tagliare i capelli.",
+  "words": [
+   "Mi",
+   "sono",
+   "fatto",
+   "tagliare",
+   "i",
+   "capelli"
+  ],
+  "grammar_point": "farsi + infinitive (causative)",
+  "level": "B1",
+  "explanation": "'Farsi + infinitive' = to have something done to oneself."
+ },
+ {
+  "english": "It's worth seeing.",
+  "italian": "Vale la pena vederlo.",
+  "words": [
+   "Vale",
+   "la",
+   "pena",
+   "vederlo"
+  ],
+  "grammar_point": "vale la pena + infinitive",
+  "level": "B1",
+  "explanation": "'Vale la pena' = it's worth + verb-ing; pronoun attaches to infinitive."
+ },
+ {
+  "english": "I'm used to getting up early.",
+  "italian": "Sono abituato ad alzarmi presto.",
+  "words": [
+   "Sono",
+   "abituato",
+   "ad",
+   "alzarmi",
+   "presto"
+  ],
+  "grammar_point": "abituato a + infinitive",
+  "level": "B1",
+  "explanation": "'Ad' (instead of 'a') before vowels for euphony."
+ },
+ {
+  "english": "He stopped smoking three years ago.",
+  "italian": "Ha smesso di fumare tre anni fa.",
+  "words": [
+   "Ha",
+   "smesso",
+   "di",
+   "fumare",
+   "tre",
+   "anni",
+   "fa"
+  ],
+  "grammar_point": "smettere di + infinitive; tempo + fa",
+  "level": "B1",
+  "explanation": "'Fa' (ago) goes after the time expression: tre anni fa = three years ago."
+ },
+ {
+  "english": "I've never been to Naples.",
+  "italian": "Non sono mai stato a Napoli.",
+  "words": [
+   "Non",
+   "sono",
+   "mai",
+   "stato",
+   "a",
+   "Napoli"
+  ],
+  "grammar_point": "negation with mai",
+  "level": "B1",
+  "explanation": "'Non...mai' = never; 'mai' goes between auxiliary and participle."
+ },
+ {
+  "english": "Whoever wants can come.",
+  "italian": "Chiunque voglia può venire.",
+  "words": [
+   "Chiunque",
+   "voglia",
+   "può",
+   "venire"
+  ],
+  "grammar_point": "chiunque + subjunctive",
+  "level": "B1",
+  "explanation": "'Chiunque' (whoever) triggers the subjunctive."
+ },
+ {
+  "english": "I bought it for you.",
+  "italian": "L'ho comprato per te.",
+  "words": [
+   "L'",
+   "ho",
+   "comprato",
+   "per",
+   "te"
+  ],
+  "grammar_point": "object pronoun in past + per + stress pronoun",
+  "level": "B1",
+  "explanation": "'L''=lo (it); 'comprato' agrees with 'lo' (m.sg)."
+ },
+ {
+  "english": "She said she would come.",
+  "italian": "Ha detto che sarebbe venuta.",
+  "words": [
+   "Ha",
+   "detto",
+   "che",
+   "sarebbe",
+   "venuta"
+  ],
+  "grammar_point": "future-in-past with condizionale passato",
+  "level": "B1",
+  "explanation": "In Italian, 'would come' (after past) uses condizionale passato, not present conditional."
+ },
+ {
+  "english": "Despite the difficulty, I succeeded.",
+  "italian": "Nonostante la difficoltà, ci sono riuscito.",
+  "words": [
+   "Nonostante",
+   "la",
+   "difficoltà",
+   ",",
+   "ci",
+   "sono",
+   "riuscito"
+  ],
+  "grammar_point": "nonostante + noun",
+  "level": "B1",
+  "explanation": "'Nonostante' + noun (or + congiuntivo before clause)."
+ },
+ {
+  "english": "I doubt he is telling the truth.",
+  "italian": "Dubito che dica la verità.",
+  "words": [
+   "Dubito",
+   "che",
+   "dica",
+   "la",
+   "verità"
+  ],
+  "grammar_point": "dubitare che + subjunctive",
+  "level": "B1",
+  "explanation": "'Dubitare che' (to doubt that) takes subjunctive."
+ },
+ {
+  "english": "I want to talk about it.",
+  "italian": "Voglio parlarne.",
+  "words": [
+   "Voglio",
+   "parlarne"
+  ],
+  "grammar_point": "ne attached to infinitive",
+  "level": "B1",
+  "explanation": "'Ne' (about it/of it) attaches to the infinitive."
+ },
+ {
+  "english": "I went there yesterday.",
+  "italian": "Ci sono andato ieri.",
+  "words": [
+   "Ci",
+   "sono",
+   "andato",
+   "ieri"
+  ],
+  "grammar_point": "ci (locative) in past",
+  "level": "A2",
+  "explanation": "'Ci' replaces a place: there. Goes before auxiliary."
+ },
+ {
+  "english": "There are five of us.",
+  "italian": "Siamo in cinque.",
+  "words": [
+   "Siamo",
+   "in",
+   "cinque"
+  ],
+  "grammar_point": "essere in + number (group)",
+  "level": "B1",
+  "explanation": "Specific construction for stating a group's size."
+ },
+ {
+  "english": "It's been a long time since I saw you.",
+  "italian": "È molto tempo che non ti vedo.",
+  "words": [
+   "È",
+   "molto",
+   "tempo",
+   "che",
+   "non",
+   "ti",
+   "vedo"
+  ],
+  "grammar_point": "duration: è...che + present",
+  "level": "B1",
+  "explanation": "'È...che' construction; uses present tense of the ongoing action."
+ }
+]
