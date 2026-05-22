@@ -4,9 +4,9 @@ A self-contained Italian learning web app (A1 → B1). React + Vite, all data bu
 
 ## What it does
 
-- **Vocabulary Flashcards** — 1,000+ words. **Multiple choice** (4 options) with an always-present **"I don't know"** button. From A2 onward, A1 words randomly flip between Italian→English and English→Italian, labeled per card.
-- **Verb Trainer** — 200 verbs across presente / passato prossimo / futuro semplice. Four modes: multiple choice, fill-in-the-blank, translate, match-pronoun. "I don't know" available on every question.
-- **Sentence Builder** — 150+ exercises. Tap word tiles to build the Italian sentence. "I don't know" reveals the answer.
+- **Vocabulary Flashcards** — 1,000+ words. **Type-first**: write your answer to the prompt; if you're stuck, tap "I don't know" to reveal the four multiple-choice options. From A2 onward, A1 words randomly flip between Italian→English and English→Italian, labeled per card.
+- **Verb Trainer** — 200 verbs across presente / passato prossimo / futuro semplice. Four modes: multiple choice, fill-in-the-blank, translate, match-pronoun. For typed answers, the subject pronoun is **optional** — "ho mangiato" and "io ho mangiato" both count. "I don't know" available on every question.
+- **Sentence Builder** — 250+ exercises. Tap word tiles to build the Italian sentence. "I don't know" reveals the answer.
 - **Dashboard** — streak, accuracy, per-module mastery, progress to next CEFR level.
 - **Persistence** — everything saves to `localStorage` automatically on every answer. Survives refreshes and browser restarts. Cleared only via the Reset button.
 - **Installable + offline (PWA)** — add to home screen for a fullscreen, app-like experience. After the first visit the entire app, fonts, and all word/verb/sentence data are cached, so it runs with no network at all.
@@ -82,7 +82,7 @@ italian_vercel/
     ├── data/
     │   ├── vocabulary.json    # 1,000+ words
     │   ├── verbs.json         # 200 conjugated verbs
-    │   └── sentences.json     # 150+ sentence exercises
+    │   └── sentences.json     # 250+ sentence exercises
     ├── lib/
     │   └── store.js           # SR algorithm, leveling, localStorage
     ├── components/
