@@ -55,6 +55,7 @@ export function buildInitialState() {
     streak_days: 0,
     last_session_date: null,
     sessions_count: 0,
+    mastery_history: [],
     _justUnlocked: null,
   };
 }
@@ -150,6 +151,21 @@ export function updateStreakInPlace(state) {
   } else {
     state.streak_days = 1;
   }
+  state.sessions_count = (state.sessions_count || 0) + 1;
+
+  const vs = masteryStats(state.vocab_progress);
+  const vbs = masteryStats(state.verb_progress);
+  const ss = masteryStats(state.sentence_progress);
+  state.mastery_history = [
+    ...(state.mastery_history || []),
+    {
+      date: today,
+      vocab: vs.total > 0 ? Math.round((vs.mastered / vs.total) * 100) : 0,
+      verb: vbs.total > 0 ? Math.round((vbs.mastered / vbs.total) * 100) : 0,
+      sentence: ss.total > 0 ? Math.round((ss.mastered / ss.total) * 100) : 0,
+    },
+  ];
+
   state.last_session_date = today;
 }
 
@@ -165,6 +181,7 @@ export function loadState() {
     fresh.streak_days = parsed.streak_days || 0;
     fresh.last_session_date = parsed.last_session_date || null;
     fresh.sessions_count = parsed.sessions_count || 0;
+    fresh.mastery_history = parsed.mastery_history || [];
     for (const key of ['vocab_progress', 'verb_progress', 'sentence_progress']) {
       if (parsed[key]) {
         for (const id in parsed[key]) {

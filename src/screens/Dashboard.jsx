@@ -2,7 +2,7 @@ import { useMemo } from 'react';
 import { Card, Pill, ScreenHeader, ProgressBar } from '../components/UI';
 import { masteryStats, VOCABULARY, VERBS, SENTENCES } from '../lib/store';
 
-function ModuleRow({ title, italian, stats, count, accent, onClick }) {
+function ModuleRow({ title, italian, stats, count, accent, onClick, delta }) {
   const pct = stats.total > 0 ? Math.round((stats.mastered / stats.total) * 100) : 0;
   return (
     <div className="module-row" onClick={onClick}>
@@ -23,6 +23,11 @@ function ModuleRow({ title, italian, stats, count, accent, onClick }) {
           {pct}%
         </div>
         <div className="caption">mastery</div>
+        {delta != null && delta !== 0 && (
+          <div className="small" style={{ color: delta > 0 ? 'var(--olive)' : 'var(--terracotta)', marginTop: 2 }}>
+            {delta > 0 ? `+${delta}%` : `${delta}%`} today
+          </div>
+        )}
       </div>
     </div>
   );
@@ -42,6 +47,17 @@ export default function Dashboard({ state, onNavigate, onReset }) {
     }
   }
   const accuracy = totalSeen > 0 ? Math.round((totalCorrect / totalSeen) * 100) : 0;
+
+  const lastSnap =
+    state.mastery_history && state.mastery_history.length > 0
+      ? state.mastery_history[state.mastery_history.length - 1]
+      : null;
+  const vocabPct = vs.total > 0 ? Math.round((vs.mastered / vs.total) * 100) : 0;
+  const verbPct = vbs.total > 0 ? Math.round((vbs.mastered / vbs.total) * 100) : 0;
+  const sentPct = ss.total > 0 ? Math.round((ss.mastered / ss.total) * 100) : 0;
+  const vocabDelta = lastSnap != null ? vocabPct - lastSnap.vocab : null;
+  const verbDelta = lastSnap != null ? verbPct - lastSnap.verb : null;
+  const sentDelta = lastSnap != null ? sentPct - lastSnap.sentence : null;
 
   let nextLabel;
   let nextValue;
@@ -93,7 +109,7 @@ export default function Dashboard({ state, onNavigate, onReset }) {
         <Card>
           <div className="caption">Accuracy</div>
           <div className="stat-num">{accuracy}%</div>
-          <div className="small">{totalSeen} answered</div>
+          <div className="small">{totalSeen} answered · {state.sessions_count} {state.sessions_count === 1 ? 'session' : 'sessions'}</div>
         </Card>
       </div>
 
@@ -105,6 +121,7 @@ export default function Dashboard({ state, onNavigate, onReset }) {
         count={VOCABULARY.length}
         accent="var(--terracotta)"
         onClick={() => onNavigate('flashcards')}
+        delta={vocabDelta}
       />
       <ModuleRow
         title="Verbs"
@@ -113,6 +130,7 @@ export default function Dashboard({ state, onNavigate, onReset }) {
         count={VERBS.length}
         accent="var(--olive)"
         onClick={() => onNavigate('verbs')}
+        delta={verbDelta}
       />
       <ModuleRow
         title="Sentence Builder"
@@ -121,6 +139,7 @@ export default function Dashboard({ state, onNavigate, onReset }) {
         count={SENTENCES.length}
         accent="var(--ochre)"
         onClick={() => onNavigate('sentences')}
+        delta={sentDelta}
       />
 
       <div className="section-label">Library</div>
